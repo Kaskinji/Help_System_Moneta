@@ -1,0 +1,58 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "возмещение",
+      "type": "Process",
+      "hasStatement": [
+        "возмещение hasActor получатель",
+        "возмещение hasResource документы",
+        "возмещение hasResource сумма уплаченных штрафов комиссий",
+        "возмещение relation сумма уплаченных штрафов комиссий",
+        "возмещение relation документы"
+      ],
+      "chunk_id": "84"
+    },
+    "metadata": {
+      "score": 0.8714895248413086,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 26275918-70da-4021-8948-c7d558fbd99f: original score 2.7789145, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 26275918-70da-4021-8948-c7d558fbd99f: original score 0.26252413, normalized score: 0.27148947"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Возмещение",
+      "type": "Process",
+      "hasStatement": [
+        "возмещение hasActor получатель",
+        "возмещение hasActor нко",
+        "возмещение hasResource недействительный перевод",
+        "возмещение hasResource штрафы",
+        "возмещение hasResource документы",
+        "возмещение hasPart зачет"
+      ],
+      "chunk_id": "69"
+    },
+    "metadata": {
+      "score": 0.7651188373565674,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document b789d7ff-a89f-4d11-b14a-05dfea4c1eb1: original score 2.7789145, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document b789d7ff-a89f-4d11-b14a-05dfea4c1eb1: original score 0.23308706, normalized score: 0.16511883"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Возмещение",
+      "type": "Process",
+      "hasStatement": [
+        "возмещение hasResource суммы части суммы недействительных",
+        "возмещение hasResource убытки",
+        "возмещение hasActor получатель"
+      ],
+      "chunk_id": "53"
+    },
+    "metadata": {
+      "score": 0.7395492792129517,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document d7186bcb-d14c-451c-aa59-53cd32872bec: original score 2.7789145, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document d7186bcb-d14c-451c-aa59-53cd32872bec: original score 0.22601092, normalized score: 0.13954924"
+    }
+  }
+]

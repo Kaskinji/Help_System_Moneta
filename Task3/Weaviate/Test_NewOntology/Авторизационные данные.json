@@ -1,0 +1,75 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Авторизационные данные",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "35"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document fde6ffa3-a0a4-4f1e-8040-27af4973a55a: original score 3.4213781, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document fde6ffa3-a0a4-4f1e-8040-27af4973a55a: original score 0.56534123, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Авторизационные данные",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "122"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 93c0226b-2e73-403e-ab91-435879604fe7: original score 3.4213781, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 93c0226b-2e73-403e-ab91-435879604fe7: original score 0.56534123, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Авторизационные данные",
+      "type": "Resource",
+      "hasStatement": [
+        "авторизационные данные isResultOf предоставление авторизационных дан"
+      ],
+      "chunk_id": "124"
+    },
+    "metadata": {
+      "score": 0.9952688813209534,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a392fa17-85f3-4d77-9f67-2e0115bbfe19: original score 3.4213781, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document a392fa17-85f3-4d77-9f67-2e0115bbfe19: original score 0.5619506, normalized score: 0.39526886"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Авторизационные данные",
+      "chunk_id": "123",
+      "hasStatement": [
+        "авторизационные данные isResourceOf предоставление авторизационных данных и пл",
+        "авторизационные данные isResourceOf предоставление авторизационных данных и пл"
+      ],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 0.8579237461090088,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document bf74e8c3-38aa-453e-bccb-2f6434832a3a: original score 3.4213781, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document bf74e8c3-38aa-453e-bccb-2f6434832a3a: original score 0.4635216, normalized score: 0.25792375"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Авторизационные данные",
+      "type": "Resource",
+      "hasStatement": [
+        "авторизационные данные isResourceOf регистрация",
+        "авторизационные данные hasResponsible получатель"
+      ],
+      "chunk_id": "1"
+    },
+    "metadata": {
+      "score": 0.724172830581665,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document b611f202-e44e-4d45-ade2-a72dc9a5d3bf: original score 3.4213781, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document b611f202-e44e-4d45-ade2-a72dc9a5d3bf: original score 0.36766833, normalized score: 0.124172784"
+    }
+  }
+]

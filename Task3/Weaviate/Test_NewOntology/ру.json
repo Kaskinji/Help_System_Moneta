@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "РУ",
+      "type": "Unknown",
+      "hasStatement": [
+        "РУ isPartOf договор"
+      ],
+      "chunk_id": "98"
+    },
+    "metadata": {
+      "score": 0.8617502450942993,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 8628dddb-ce90-4bbb-8c34-a0cc125a23f5: original score 2.3218436, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 8628dddb-ce90-4bbb-8c34-a0cc125a23f5: original score 0.3216796, normalized score: 0.26175025"
+    }
+  }
+]

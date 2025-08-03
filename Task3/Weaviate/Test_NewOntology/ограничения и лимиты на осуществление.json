@@ -1,0 +1,19 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "ограничения и лимиты на осуществление",
+      "type": "Unknown",
+      "hasStatement": [
+        "ограничения и лимиты на осуществление isResultOf установка ограничений и лимитов",
+        "ограничения и лимиты на осуществление isResourceOf внесение изменений в ограничения",
+        "ограничения и лимиты на осуществление relation переводы"
+      ],
+      "chunk_id": "41"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ec3d9eb3-1f83-4dfb-8ce5-e3c8d696722c: original score 4.815724, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document ec3d9eb3-1f83-4dfb-8ce5-e3c8d696722c: original score 0.5248602, normalized score: 0.4"
+    }
+  }
+]

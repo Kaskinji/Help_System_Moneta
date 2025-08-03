@@ -1,0 +1,34 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "приостановка исполнения договора",
+      "type": "Process",
+      "hasStatement": [
+        "приостановка исполнения договора hasResource договор",
+        "приостановка исполнения договора hasActor нко"
+      ],
+      "chunk_id": "52"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 27769cd8-0ada-44be-9581-b554fc1fd913: original score 3.888619, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 27769cd8-0ada-44be-9581-b554fc1fd913: original score 0.4107669, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Приостановка исполнения Договора",
+      "type": "Process",
+      "hasStatement": [
+        "приостановка исполнения договора hasActor нко",
+        "приостановка исполнения договора hasActor нко"
+      ],
+      "chunk_id": "51"
+    },
+    "metadata": {
+      "score": 0.8767860531806946,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 3feab149-a35e-4fed-b24d-88779701e073: original score 3.888619, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 3feab149-a35e-4fed-b24d-88779701e073: original score 0.3360145, normalized score: 0.27678603"
+    }
+  }
+]

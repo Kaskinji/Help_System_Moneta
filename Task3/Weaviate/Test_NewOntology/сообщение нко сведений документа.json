@@ -1,0 +1,23 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "сообщение нко сведений документа",
+      "type": "Process",
+      "hasStatement": [
+        "сообщение нко сведений документа hasResource сведения документа",
+        "сообщение нко сведений документа hasResource документ подтверждающий право",
+        "сообщение нко сведений документа hasResource идентификационные данные",
+        "сообщение нко сведений документа hasResource место нахождения",
+        "сообщение нко сведений документа hasResource копии документов",
+        "сообщение нко сведений документа hasActor нко",
+        "сообщение нко сведений документа hasActor получатель"
+      ],
+      "chunk_id": "52"
+    },
+    "metadata": {
+      "score": 0.854434609413147,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document bb2cf89c-54c8-4943-86b9-423902ddb9bd: original score 4.2990923, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document bb2cf89c-54c8-4943-86b9-423902ddb9bd: original score 0.56229335, normalized score: 0.2544346"
+    }
+  }
+]

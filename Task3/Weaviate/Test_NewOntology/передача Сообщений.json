@@ -1,0 +1,37 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "передача Сообщений",
+      "type": "Process",
+      "hasStatement": [
+        "передача сообщений hasActor получатель",
+        "передача сообщений hasResource сообщения",
+        "передача сообщений hasResponsible нко"
+      ],
+      "chunk_id": "37"
+    },
+    "metadata": {
+      "score": 0.9215055108070374,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document f8e46811-8dc9-424d-bda3-5579cc86a9d8: original score 3.7683473, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document f8e46811-8dc9-424d-bda3-5579cc86a9d8: original score 0.41690195, normalized score: 0.3215055"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Передача ЭС",
+      "type": "Process",
+      "hasStatement": [
+        "передача эс hasActor стороны",
+        "передача эс hasResource электронные сообщения",
+        "передача эс isPartOf информационный обмен",
+        "передача эс hasResult статус переданных сообщений"
+      ],
+      "chunk_id": "103"
+    },
+    "metadata": {
+      "score": 0.5014734864234924,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document bd5f4fc7-f5de-4aa5-ae16-d63750d29bb6: original score 1.8065928, normalized score: 0.19835243 - \nHybrid (Result Set vector,hybridVector) Document bd5f4fc7-f5de-4aa5-ae16-d63750d29bb6: original score 0.41016066, normalized score: 0.30312106"
+    }
+  }
+]

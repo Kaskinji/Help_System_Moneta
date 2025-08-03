@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "техническое сопровождение",
+      "type": "Process",
+      "hasStatement": [
+        "техническое сопровождение hasResource интернет магазин"
+      ],
+      "chunk_id": "49"
+    },
+    "metadata": {
+      "score": 0.8557261228561401,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document b0980a30-fd1a-450d-a320-135f0cd45c18: original score 4.849724, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document b0980a30-fd1a-450d-a320-135f0cd45c18: original score 0.34655225, normalized score: 0.2557261"
+    }
+  }
+]

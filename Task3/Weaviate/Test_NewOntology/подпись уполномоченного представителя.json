@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "подпись уполномоченного представителя",
+      "type": "Resource",
+      "hasStatement": [
+        "подпись уполномоченного представителя hasResponsible уполномоченный представитель получателя",
+        "подпись уполномоченного представителя isResourceOf предоставление документов и информации"
+      ],
+      "chunk_id": "111"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 5a1d6935-67b4-42b9-86ea-e46ff73c68c2: original score 5.592058, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 5a1d6935-67b4-42b9-86ea-e46ff73c68c2: original score 0.49117947, normalized score: 0.4"
+    }
+  }
+]

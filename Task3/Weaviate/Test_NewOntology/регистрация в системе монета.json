@@ -1,0 +1,28 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "регистрация в системе монета",
+      "type": "Unknown",
+      "hasStatement": [],
+      "chunk_id": "119"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 5e736786-0bae-4655-a235-5e8914ba74a5: original score 4.2161417, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 5e736786-0bae-4655-a235-5e8914ba74a5: original score 0.61926067, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "система монета",
+      "type": "Unknown",
+      "hasStatement": [],
+      "chunk_id": "32"
+    },
+    "metadata": {
+      "score": 0.5990849733352661,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a0233be2-04f9-42a0-8448-e8fc1515ddf3: original score 1.6162282, normalized score: 0.20659664 - \nHybrid (Result Set vector,hybridVector) Document a0233be2-04f9-42a0-8448-e8fc1515ddf3: original score 0.6136584, normalized score: 0.39248833"
+    }
+  }
+]

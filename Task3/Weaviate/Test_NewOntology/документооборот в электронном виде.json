@@ -1,0 +1,19 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "документооборот в электронном виде",
+      "type": "Process",
+      "hasStatement": [
+        "документооборот в электронном виде hasResource телекоммуникационные каналы связи",
+        "документооборот в электронном виде hasResource кэп",
+        "документооборот в электронном виде hasResource договор"
+      ],
+      "chunk_id": "67"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 9495cd8e-13df-4498-b1d7-bed27f2d617e: original score 5.510656, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 9495cd8e-13df-4498-b1d7-bed27f2d617e: original score 0.37263584, normalized score: 0.4"
+    }
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "прекращение договора",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "96"
+    },
+    "metadata": {
+      "score": 0.7724475264549255,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 95897af5-8f02-4678-8dab-f8660629833b: original score 2.9702528, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 95897af5-8f02-4678-8dab-f8660629833b: original score 0.26014602, normalized score: 0.17244749"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "прекращение взаимодействия",
+      "type": "Process",
+      "hasStatement": [
+        "прекращение взаимодействия relation получатель",
+        "прекращение взаимодействия hasResult РУ\"@ru"
+      ],
+      "chunk_id": "25"
+    },
+    "metadata": {
+      "score": 0.5185309648513794,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 619cb0f4-f884-49be-b631-21d0c2bb847a: original score 1.6416986, normalized score: 0.24321245 - \nHybrid (Result Set vector,hybridVector) Document 619cb0f4-f884-49be-b631-21d0c2bb847a: original score 0.3088541, normalized score: 0.2753185"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "установить набор платежных инструментов",
+      "type": "Process",
+      "hasStatement": [
+        "установить набор платежных инструментов hasActor нко монета ооо 02",
+        "установить набор платежных инструментов hasResource набор платежных инструментов"
+      ],
+      "chunk_id": "30"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document f70b129f-9ad5-42ec-afbc-71bf53a9dedc: original score 5.6040287, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document f70b129f-9ad5-42ec-afbc-71bf53a9dedc: original score 0.53620577, normalized score: 0.4"
+    }
+  }
+]

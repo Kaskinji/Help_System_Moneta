@@ -1,0 +1,32 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Юридический адрес",
+      "chunk_id": "100",
+      "hasStatement": [
+        "юридический адрес hasResponsible небанковская кредитная организация"
+      ],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 1063f3d4-856f-44d2-b45d-2bb95909eb32: original score 3.6440873, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 1063f3d4-856f-44d2-b45d-2bb95909eb32: original score 0.3921979, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "юридический адрес йошкар-ола ул г",
+      "chunk_id": "11",
+      "hasStatement": [
+        "юридический адрес йошкар-ола ул г hasResponsible небанковская кредитная организация монета"
+      ],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 0.6409718990325928,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e25df707-6c41-4c10-b793-2f0bb75d01cd: original score 2.0189345, normalized score: 0.29115552 - \nHybrid (Result Set vector,hybridVector) Document e25df707-6c41-4c10-b793-2f0bb75d01cd: original score 0.3679555, normalized score: 0.34981635"
+    }
+  }
+]

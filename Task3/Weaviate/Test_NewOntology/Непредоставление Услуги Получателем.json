@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Непредоставление Услуги Получателем",
+      "type": "Event",
+      "hasStatement": [
+        "непредоставление услуг Initiates операция возврата перевода"
+      ],
+      "chunk_id": "21"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 037a6c97-ffd6-456e-8f35-8e7e24fc9445: original score 4.5430098, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 037a6c97-ffd6-456e-8f35-8e7e24fc9445: original score 0.42716348, normalized score: 0.4"
+    }
+  }
+]

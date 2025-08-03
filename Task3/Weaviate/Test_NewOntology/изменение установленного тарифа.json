@@ -1,0 +1,21 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "изменение установленного тарифа",
+      "chunk_id": "59",
+      "hasStatement": [
+        "изменение установленного тарифа hasActor получатель",
+        "изменение установленного тарифа hasActor нко",
+        "изменение установленного тарифа hasResponsible нко",
+        "изменение установленного тарифа hasResource договор",
+        "изменение установленного тарифа hasResource тариф"
+      ],
+      "type": "Process"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 85c819b8-2802-477a-92f5-d9d3ee103400: original score 4.809392, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 85c819b8-2802-477a-92f5-d9d3ee103400: original score 0.373995, normalized score: 0.4"
+    }
+  }
+]

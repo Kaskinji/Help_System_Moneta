@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "приостановление действия Договора",
+      "type": "Process",
+      "hasStatement": [
+        "приостановление действия договора hasPart уведомление получателя",
+        "приостановление действия договора hasResource договор"
+      ],
+      "chunk_id": "94"
+    },
+    "metadata": {
+      "score": 0.9926453828811646,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 226bffbd-97c1-43dc-9b9d-eec11bec9aff: original score 4.1143923, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 226bffbd-97c1-43dc-9b9d-eec11bec9aff: original score 0.34109056, normalized score: 0.39264533"
+    }
+  }
+]

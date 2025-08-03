@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "заключение договора",
+      "chunk_id": "5",
+      "hasStatement": [
+        "заключение договора hasResource заявление"
+      ],
+      "type": "Process"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 045d4b9c-43c0-471b-be46-523f5b3f26e4: original score 3.753416, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 045d4b9c-43c0-471b-be46-523f5b3f26e4: original score 0.43176985, normalized score: 0.4"
+    }
+  }
+]

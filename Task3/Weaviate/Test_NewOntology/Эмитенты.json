@@ -1,0 +1,15 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Эмитенты",
+      "chunk_id": "69",
+      "hasStatement": [],
+      "type": "Agent"
+    },
+    "metadata": {
+      "score": 0.7452490925788879,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 642dee41-7e90-4013-a184-2a87bc59a191: original score 3.314095, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 642dee41-7e90-4013-a184-2a87bc59a191: original score 0.3817885, normalized score: 0.14524908"
+    }
+  }
+]

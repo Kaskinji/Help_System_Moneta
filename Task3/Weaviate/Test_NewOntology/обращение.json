@@ -1,0 +1,31 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "обращение",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "79"
+    },
+    "metadata": {
+      "score": 0.6000000238418579,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document c179ea17-9aa2-4d98-b597-8884d0b1b012: original score 2.7789145, normalized score: 0.6"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "обращение",
+      "type": "Resource",
+      "hasStatement": [
+        "обращение isResourceOf дополнительное подключение интернет-магази",
+        "обращение isResourceOf направление обращения получателя о допол"
+      ],
+      "chunk_id": "59"
+    },
+    "metadata": {
+      "score": 0.6000000238418579,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 94dc2be8-f5a5-4516-88a2-b34ad48a55c3: original score 2.7789145, normalized score: 0.6"
+    }
+  }
+]

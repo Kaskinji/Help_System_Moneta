@@ -1,0 +1,95 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "небанковская кредитная организация",
+      "chunk_id": "15",
+      "hasStatement": [
+        "небанковская кредитная организац isActorOf реализация услуг"
+      ],
+      "type": "Agent"
+    },
+    "metadata": {
+      "score": 0.987993597984314,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document d6d97333-1637-4c64-b418-e659e159f086: original score 4.277117, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document d6d97333-1637-4c64-b418-e659e159f086: original score 0.50581396, normalized score: 0.38799354"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "кредитная организация",
+      "type": "Agent",
+      "hasStatement": [
+        "кредитная организация isActorOf реализация услуг"
+      ],
+      "chunk_id": "15"
+    },
+    "metadata": {
+      "score": 0.831825852394104,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document cfc4b3c1-d39c-46d6-987a-60a0586006c6: original score 3.5735412, normalized score: 0.43182588 - \nHybrid (Result Set vector,hybridVector) Document cfc4b3c1-d39c-46d6-987a-60a0586006c6: original score 0.51157224, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Небанковская кредитная организация «МОНЕТА»",
+      "type": "Agent",
+      "hasStatement": [
+        "небанковская кредитная организация мон isActorOf составление акта",
+        "небанковская кредитная организация мон relation председатель правления кугуелова ирина"
+      ],
+      "chunk_id": "101"
+    },
+    "metadata": {
+      "score": 0.7419283986091614,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document b37b0eb3-a5aa-4fca-bde6-464854ccfb95: original score 3.530272, normalized score: 0.42148334 - \nHybrid (Result Set vector,hybridVector) Document b37b0eb3-a5aa-4fca-bde6-464854ccfb95: original score 0.47341782, normalized score: 0.32044506"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Небанковская кредитная организация МОНЕТА",
+      "type": "Agent",
+      "hasStatement": [
+        "небанковская кредитная организация монета isActorOf перевод денежных средств"
+      ],
+      "chunk_id": "3"
+    },
+    "metadata": {
+      "score": 0.6559284329414368,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document efed8db3-4f37-436b-8fa9-e133f4d27059: original score 3.530272, normalized score: 0.42148334 - \nHybrid (Result Set vector,hybridVector) Document efed8db3-4f37-436b-8fa9-e133f4d27059: original score 0.43217236, normalized score: 0.2344451"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Небанковская кредитная организация МОНЕТА",
+      "chunk_id": "12",
+      "hasStatement": [
+        "небанковская кредитная организация монета isActorOf составление акта",
+        "небанковская кредитная организация монета relation кугуелова ирина александровна"
+      ],
+      "type": "Agent"
+    },
+    "metadata": {
+      "score": 0.610619068145752,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 407d085b-0980-4e04-8086-ff0a9965b5f0: original score 3.530272, normalized score: 0.42148334 - \nHybrid (Result Set vector,hybridVector) Document 407d085b-0980-4e04-8086-ff0a9965b5f0: original score 0.41044205, normalized score: 0.18913573"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Небанковская кредитная организация «МОНЕТА»",
+      "type": "Agent",
+      "hasStatement": [
+        "небанковская кредитная организация монета relation лицензия банка россии",
+        "небанковская кредитная организация монета relation лицензия банка россии"
+      ],
+      "chunk_id": "99"
+    },
+    "metadata": {
+      "score": 0.5711057782173157,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ba512b79-55aa-4dc0-a5a3-9a2a8d0f831f: original score 3.530272, normalized score: 0.42148334 - \nHybrid (Result Set vector,hybridVector) Document ba512b79-55aa-4dc0-a5a3-9a2a8d0f831f: original score 0.39149153, normalized score: 0.14962243"
+    }
+  }
+]

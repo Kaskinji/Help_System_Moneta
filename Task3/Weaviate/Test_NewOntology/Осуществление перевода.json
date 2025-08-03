@@ -1,0 +1,48 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Осуществление перевода",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "110"
+    },
+    "metadata": {
+      "score": 0.8273195028305054,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 98f4fd89-1163-42e5-a94e-d8c45fce240c: original score 2.9860322, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 98f4fd89-1163-42e5-a94e-d8c45fce240c: original score 0.3836621, normalized score: 0.22731946"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "осуществление Переводов",
+      "type": "Process",
+      "hasStatement": [
+        "осуществление переводов hasResult переводы",
+        "осуществление переводов hasActor нко"
+      ],
+      "chunk_id": "113"
+    },
+    "metadata": {
+      "score": 0.6830028295516968,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 49215454-73f7-49de-9cdd-f2df033d4bc9: original score 1.69885, normalized score: 0.28300282 - \nHybrid (Result Set vector,hybridVector) Document 49215454-73f7-49de-9cdd-f2df033d4bc9: original score 0.48586434, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Осуществление Переводов",
+      "type": "Process",
+      "hasStatement": [
+        "осуществление переводов hasResult безусловное согласие",
+        "осуществление переводов hasResource переводы",
+        "осуществление переводов hasActor получатель"
+      ],
+      "chunk_id": "73"
+    },
+    "metadata": {
+      "score": 0.63749760389328,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e82f765b-e5a7-4337-91c0-f3d211722a60: original score 1.69885, normalized score: 0.28300282 - \nHybrid (Result Set vector,hybridVector) Document e82f765b-e5a7-4337-91c0-f3d211722a60: original score 0.45893174, normalized score: 0.35449478"
+    }
+  }
+]

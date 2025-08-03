@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Направление повторного запроса",
+      "type": "Process",
+      "hasStatement": [
+        "направление повторного запроса hasResult повторный запрос"
+      ],
+      "chunk_id": "95"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 410ce7d3-9cfa-4d55-8d96-12547c9e9bb8: original score 4.5484405, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 410ce7d3-9cfa-4d55-8d96-12547c9e9bb8: original score 0.48257637, normalized score: 0.4"
+    }
+  }
+]

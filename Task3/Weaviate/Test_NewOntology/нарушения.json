@@ -1,0 +1,19 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "нарушения",
+      "type": "Resource",
+      "hasStatement": [
+        "нарушения relation получатель",
+        "нарушения isResourceOf устранение нарушений",
+        "нарушения relation получатель"
+      ],
+      "chunk_id": "94"
+    },
+    "metadata": {
+      "score": 0.9034281969070435,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 2a3359b1-94aa-4522-93eb-9bbd1f1f0982: original score 3.314095, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 2a3359b1-94aa-4522-93eb-9bbd1f1f0982: original score 0.33842337, normalized score: 0.3034282"
+    }
+  }
+]

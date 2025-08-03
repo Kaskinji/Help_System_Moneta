@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "изменение вида деятельности/перечня Услуг",
+      "type": "Event",
+      "hasStatement": [
+        "изменение вида деятельности перечня ус Initiates уведомление нко"
+      ],
+      "chunk_id": "58"
+    },
+    "metadata": {
+      "score": 0.7850311398506165,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 1d47aaa5-8103-43a7-b153-9b4c61f402d8: original score 5.3106575, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 1d47aaa5-8103-43a7-b153-9b4c61f402d8: original score 0.28662527, normalized score: 0.1850311"
+    }
+  }
+]

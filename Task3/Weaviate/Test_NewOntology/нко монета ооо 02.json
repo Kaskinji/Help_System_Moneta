@@ -1,0 +1,33 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "нко монета ооо 02",
+      "type": "Unknown",
+      "hasStatement": [
+        "нко монета ооо 02 isActorOf открыть прием переводов",
+        "нко монета ооо 02 isActorOf установить тариф",
+        "нко монета ооо 02 isActorOf установить набор платежных инструментов",
+        "нко монета ооо 02 isActorOf предоставить возможность получения и пе"
+      ],
+      "chunk_id": "30"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 1d14d51f-f621-447a-bd66-c2db023c0a89: original score 4.638726, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 1d14d51f-f621-447a-bd66-c2db023c0a89: original score 0.5083171, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "система монета",
+      "type": "Unknown",
+      "hasStatement": [],
+      "chunk_id": "32"
+    },
+    "metadata": {
+      "score": 0.5312495231628418,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a0233be2-04f9-42a0-8448-e8fc1515ddf3: original score 1.6162282, normalized score: 0.1934998 - \nHybrid (Result Set vector,hybridVector) Document a0233be2-04f9-42a0-8448-e8fc1515ddf3: original score 0.47076255, normalized score: 0.33774972"
+    }
+  }
+]

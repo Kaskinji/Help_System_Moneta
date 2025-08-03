@@ -1,0 +1,15 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "статус переданных сообщений",
+      "chunk_id": "14",
+      "hasStatement": [],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 0.9828044176101685,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e5a3d22b-6f93-4332-9ca9-544a456edc0b: original score 4.8236246, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document e5a3d22b-6f93-4332-9ca9-544a456edc0b: original score 0.5248622, normalized score: 0.38280436"
+    }
+  }
+]

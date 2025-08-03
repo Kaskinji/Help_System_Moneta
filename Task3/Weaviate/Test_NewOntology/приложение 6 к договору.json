@@ -1,0 +1,47 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "приложение 6 к договору",
+      "type": "Resource",
+      "hasStatement": [
+        "приложение 6 к договору hasPart требования к интернет магазину"
+      ],
+      "chunk_id": "7"
+    },
+    "metadata": {
+      "score": 0.9372400045394897,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e2cd3356-52c5-4d60-a603-24dbee7da693: original score 4.799095, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document e2cd3356-52c5-4d60-a603-24dbee7da693: original score 0.474914, normalized score: 0.33723998"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Приложение №4 к Договору",
+      "type": "Resource",
+      "hasStatement": [
+        "приложение 4 к договору hasPart порядок взаимодействия сторон"
+      ],
+      "chunk_id": "4"
+    },
+    "metadata": {
+      "score": 0.6394572257995605,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document aa803bb7-315d-42a0-924e-1ce36ac24e15: original score 3.2210636, normalized score: 0.3863662 - \nHybrid (Result Set vector,hybridVector) Document aa803bb7-315d-42a0-924e-1ce36ac24e15: original score 0.43927872, normalized score: 0.25309107"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Приложение №3 к Договору",
+      "type": "Resource",
+      "hasStatement": [
+        "приложение №3 к договору isResourceOf перечисление по операции возврата"
+      ],
+      "chunk_id": "38"
+    },
+    "metadata": {
+      "score": 0.5629451274871826,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e15b5344-09bb-49f8-a070-315bf40f33a1: original score 3.2210636, normalized score: 0.3863662 - \nHybrid (Result Set vector,hybridVector) Document e15b5344-09bb-49f8-a070-315bf40f33a1: original score 0.40687746, normalized score: 0.17657892"
+    }
+  }
+]

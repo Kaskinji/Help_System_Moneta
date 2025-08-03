@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "корреспондентского счета НКО",
+      "type": "Resource",
+      "hasStatement": [
+        "корреспондентского счета нко isResourceOf перечисление"
+      ],
+      "chunk_id": "72"
+    },
+    "metadata": {
+      "score": 0.9095097780227661,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 9e2cd830-1011-4493-a5a0-1c654da97e37: original score 4.0018463, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 9e2cd830-1011-4493-a5a0-1c654da97e37: original score 0.38360906, normalized score: 0.30950975"
+    }
+  }
+]

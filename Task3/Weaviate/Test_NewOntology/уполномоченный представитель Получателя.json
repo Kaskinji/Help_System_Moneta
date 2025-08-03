@@ -1,0 +1,32 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "уполномоченный представитель Получателя",
+      "type": "Agent",
+      "hasStatement": [
+        "уполномоченный представитель получателя isActorOf предоставление документов и информации"
+      ],
+      "chunk_id": "23"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a8265a46-abeb-493b-ae58-4b06b6890679: original score 4.4774756, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document a8265a46-abeb-493b-ae58-4b06b6890679: original score 0.5004562, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "уполномоченный представитель Получателя",
+      "type": "Agent",
+      "hasStatement": [
+        "уполномоченный представитель получателя isResponsibleFor подпись уполномоченного представителя"
+      ],
+      "chunk_id": "111"
+    },
+    "metadata": {
+      "score": 0.9104781746864319,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 32f9fdf9-b61c-4ad6-b0f3-7d550c55ca39: original score 4.4774756, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 32f9fdf9-b61c-4ad6-b0f3-7d550c55ca39: original score 0.44505972, normalized score: 0.31047815"
+    }
+  }
+]

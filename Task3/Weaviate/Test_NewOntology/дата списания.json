@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "дата списания",
+      "type": "Event",
+      "hasStatement": [
+        "дата списания isResultOf перечисление",
+        "дата списания isResultOf перечисление"
+      ],
+      "chunk_id": "72"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ea9c13d0-d0f3-4b74-ae18-588c28926643: original score 4.849724, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document ea9c13d0-d0f3-4b74-ae18-588c28926643: original score 0.32087088, normalized score: 0.4"
+    }
+  }
+]

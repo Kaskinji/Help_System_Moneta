@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "третья сторона",
+      "type": "Agent",
+      "hasStatement": [
+        "третья сторона isActorOf информационно технологическое взаим",
+        "третья сторона isResponsibleFor действия или бездействие"
+      ],
+      "chunk_id": "84"
+    },
+    "metadata": {
+      "score": 0.8622421622276306,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 5d4939c1-893c-49e2-b24a-e3e9802c16cf: original score 4.276067, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 5d4939c1-893c-49e2-b24a-e3e9802c16cf: original score 0.2990917, normalized score: 0.26224214"
+    }
+  }
+]

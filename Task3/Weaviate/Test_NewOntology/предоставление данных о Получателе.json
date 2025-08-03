@@ -1,0 +1,49 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "предоставление НКО данных о Получателе",
+      "type": "Process",
+      "hasStatement": [
+        "предоставление нко данных о получател hasActor получатель"
+      ],
+      "chunk_id": "124"
+    },
+    "metadata": {
+      "score": 0.9009212255477905,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document f712a819-4f09-4452-a1be-cf69a856a243: original score 3.236169, normalized score: 0.50092125 - \nHybrid (Result Set vector,hybridVector) Document f712a819-4f09-4452-a1be-cf69a856a243: original score 0.62872505, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "предоставление данных о Получателе",
+      "chunk_id": "123",
+      "hasStatement": [
+        "предоставление данных о получателе hasResource данные о получателе",
+        "предоставление данных о получателе hasActor получатель",
+        "предоставление данных о получателе hasResource данные о получателе"
+      ],
+      "type": "Process"
+    },
+    "metadata": {
+      "score": 0.8701772689819336,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ecdcf849-b50c-4cf1-bae2-7b14b86f8f76: original score 3.8012502, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document ecdcf849-b50c-4cf1-bae2-7b14b86f8f76: original score 0.55072236, normalized score: 0.27017722"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "предоставление НКО данных о Получателе",
+      "type": "Process",
+      "hasStatement": [
+        "предоставление нко данных о получателе hasResource данные о получателе"
+      ],
+      "chunk_id": "122"
+    },
+    "metadata": {
+      "score": 0.8282752633094788,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 6db5d187-1a75-4d55-9ab5-0a7cb0bf333b: original score 3.236169, normalized score: 0.50092125 - \nHybrid (Result Set vector,hybridVector) Document 6db5d187-1a75-4d55-9ab5-0a7cb0bf333b: original score 0.58507645, normalized score: 0.327354"
+    }
+  }
+]

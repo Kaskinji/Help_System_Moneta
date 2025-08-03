@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "гипертекстовая ссылка",
+      "type": "Resource",
+      "hasStatement": [
+        "гипертекстовая ссылка isResourceOf размещение логотипа и ссылки",
+        "гипертекстовая ссылка isResourceOf размещение логотипа и ссылки"
+      ],
+      "chunk_id": "51"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 42fc8b5c-3791-4e07-9f32-b9256a921560: original score 4.849724, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 42fc8b5c-3791-4e07-9f32-b9256a921560: original score 0.46011418, normalized score: 0.4"
+    }
+  }
+]

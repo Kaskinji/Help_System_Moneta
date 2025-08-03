@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "приостановка Информационного обмена по ЗКС",
+      "type": "Process",
+      "hasStatement": [
+        "приостановка информационного обмен hasPart направление сообщения на эл почту"
+      ],
+      "chunk_id": "104"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document b558aca2-54f4-42a1-a11a-a9c3d3481180: original score 5.2240467, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document b558aca2-54f4-42a1-a11a-a9c3d3481180: original score 0.6299292, normalized score: 0.4"
+    }
+  }
+]

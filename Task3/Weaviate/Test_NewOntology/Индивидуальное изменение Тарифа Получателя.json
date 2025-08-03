@@ -1,0 +1,34 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Индивидуальное изменение Тарифа Получателя",
+      "type": "Process",
+      "hasStatement": [
+        "индивидуальное изменение тарифа полу hasResult решение",
+        "индивидуальное изменение тарифа полу hasPart уведомление получателя",
+        "индивидуальное изменение тарифа полу hasResult изменения вступают в силу"
+      ],
+      "chunk_id": "73"
+    },
+    "metadata": {
+      "score": 0.9250859022140503,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 07492e0b-3490-4b4f-8aea-195ac47a4e5c: original score 4.746165, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 07492e0b-3490-4b4f-8aea-195ac47a4e5c: original score 0.31852746, normalized score: 0.3250859"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "уведомление получателя",
+      "chunk_id": "50",
+      "hasStatement": [
+        "уведомление получателя hasActor получатель"
+      ],
+      "type": "Process"
+    },
+    "metadata": {
+      "score": 0.511847972869873,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document d8810bf6-a7f8-415a-ba89-fd4eb772feef: original score 1.1932915, normalized score: 0.111847974 - \nHybrid (Result Set vector,hybridVector) Document d8810bf6-a7f8-415a-ba89-fd4eb772feef: original score 0.340873, normalized score: 0.4"
+    }
+  }
+]

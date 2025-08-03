@@ -1,0 +1,15 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "19 38024380",
+      "type": "Unknown",
+      "hasStatement": [],
+      "chunk_id": "11"
+    },
+    "metadata": {
+      "score": 0.9937261343002319,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document c72f616e-7e10-4a1e-be02-906e4519935f: original score 2.424862, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document c72f616e-7e10-4a1e-be02-906e4519935f: original score 0.3088826, normalized score: 0.39372608"
+    }
+  }
+]

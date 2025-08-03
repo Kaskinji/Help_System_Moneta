@@ -1,0 +1,31 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "отказ в перечислении",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "45"
+    },
+    "metadata": {
+      "score": 0.767036497592926,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 846433fc-d49e-4b86-937a-472d1e9f8ff9: original score 4.102303, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 846433fc-d49e-4b86-937a-472d1e9f8ff9: original score 0.16857755, normalized score: 0.16703646"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Отказ в приеме Распоряжения",
+      "type": "Process",
+      "hasStatement": [
+        "отказ в приеме распоряжения hasResource отрицательный ответ на авторизацию",
+        "отказ в приеме распоряжения hasResource положительное сообщение о приеме перевода"
+      ],
+      "chunk_id": "38"
+    },
+    "metadata": {
+      "score": 0.5079898834228516,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document af011499-71fa-4a78-a13c-603f936a210c: original score 1.9264407, normalized score: 0.24934337 - \nHybrid (Result Set vector,hybridVector) Document af011499-71fa-4a78-a13c-603f936a210c: original score 0.22963154, normalized score: 0.25864652"
+    }
+  }
+]

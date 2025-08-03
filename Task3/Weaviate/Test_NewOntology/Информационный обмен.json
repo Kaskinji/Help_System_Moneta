@@ -1,0 +1,80 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Информационный обмен",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "14"
+    },
+    "metadata": {
+      "score": 0.903833270072937,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 78590a66-e206-47c0-8581-c2340af4691f: original score 3.7088037, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 78590a66-e206-47c0-8581-c2340af4691f: original score 0.5477218, normalized score: 0.30383325"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Информационный обмен",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "17"
+    },
+    "metadata": {
+      "score": 0.903833270072937,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 1b2d9aba-ecda-4d4b-b66b-c712f022d844: original score 3.7088037, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 1b2d9aba-ecda-4d4b-b66b-c712f022d844: original score 0.5477218, normalized score: 0.30383325"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Информационный обмен",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "104"
+    },
+    "metadata": {
+      "score": 0.903833270072937,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 0b106bf1-42bb-4119-af25-33bc4ff34a3c: original score 3.7088037, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 0b106bf1-42bb-4119-af25-33bc4ff34a3c: original score 0.5477218, normalized score: 0.30383325"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Информационный обмен",
+      "type": "Process",
+      "hasStatement": [
+        "информационный обмен hasResource регламент",
+        "информационный обмен hasResource договор"
+      ],
+      "chunk_id": "106"
+    },
+    "metadata": {
+      "score": 0.625856339931488,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7da09ef4-da6b-4f19-864d-0655f1449090: original score 3.7088037, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 7da09ef4-da6b-4f19-864d-0655f1449090: original score 0.45293856, normalized score: 0.02585631"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Информационный обмен",
+      "chunk_id": "103",
+      "hasStatement": [
+        "информационный обмен hasResource аутентификационные данные",
+        "информационный обмен hasActor стороны",
+        "информационный обмен hasResource электронные сообщения",
+        "информационный обмен hasPart обработка эс",
+        "информационный обмен hasResource журнальные файлы машин",
+        "информационный обмен hasPart контроль за данными эс",
+        "информационный обмен hasResource формы установленные нко",
+        "информационный обмен hasPart сообщение об ошибках",
+        "информационный обмен hasPart передача эс"
+      ],
+      "type": "Process"
+    },
+    "metadata": {
+      "score": 0.6000000238418579,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 1d2f42cb-9f59-4aa4-9f32-b48a7e398f91: original score 3.7088037, normalized score: 0.6"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "приложение 4",
+      "chunk_id": "68",
+      "hasStatement": [
+        "приложение 4 hasPart взаимодействие",
+        "приложение 4 isPartOf договор",
+        "приложение 4 hasResource взаимодействие"
+      ],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 5b33c913-5172-4877-ab07-2c6a7cec9cc5: original score 4.0939918, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 5b33c913-5172-4877-ab07-2c6a7cec9cc5: original score 0.42989767, normalized score: 0.4"
+    }
+  }
+]

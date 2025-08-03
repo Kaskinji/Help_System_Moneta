@@ -1,0 +1,19 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Отправление уведомления",
+      "type": "Process",
+      "hasStatement": [
+        "отправление уведомления hasActor получатель",
+        "отправление уведомления isPartOf расторжение договора",
+        "отправление уведомления hasResource адрес электронной почты"
+      ],
+      "chunk_id": "91"
+    },
+    "metadata": {
+      "score": 0.9257336854934692,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document dbff023b-7433-46a2-a67b-727dee2750ed: original score 4.0665607, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document dbff023b-7433-46a2-a67b-727dee2750ed: original score 0.5614862, normalized score: 0.32573366"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "раздел «Безопасность» Сайта НКО",
+      "type": "Resource",
+      "hasStatement": [
+        "раздел безопасность сайта нко hasPart памятка о порядке действий в случае",
+        "раздел безопасность сайта нко hasPart правила безопасности при доступе к"
+      ],
+      "chunk_id": "57"
+    },
+    "metadata": {
+      "score": 0.9769813418388367,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document d413a4f2-ae43-46ab-8383-35e561546403: original score 5.164962, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document d413a4f2-ae43-46ab-8383-35e561546403: original score 0.4225741, normalized score: 0.37698132"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "налоговый орган США",
+      "chunk_id": "42",
+      "hasStatement": [
+        "налоговый орган сша relation согласие на передачу информации",
+        "налоговый орган сша relation согласие на передачу информации"
+      ],
+      "type": "Agent"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 736ee5a3-c25f-478d-aa2b-72ba7d9424f0: original score 5.448502, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 736ee5a3-c25f-478d-aa2b-72ba7d9424f0: original score 0.40725076, normalized score: 0.4"
+    }
+  }
+]

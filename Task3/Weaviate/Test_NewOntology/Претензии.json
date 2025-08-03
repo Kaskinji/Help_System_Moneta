@@ -1,0 +1,19 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Претензии",
+      "type": "Resource",
+      "hasStatement": [
+        "претензии isResourceOf рассмотрение претензий",
+        "претензии hasPart суммы причитающихся денежных сред",
+        "претензии hasPart сроки их перечисления"
+      ],
+      "chunk_id": "87"
+    },
+    "metadata": {
+      "score": 0.7146235704421997,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 45e614ed-3af2-4457-8eb6-03bffcf20bda: original score 2.9013402, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 45e614ed-3af2-4457-8eb6-03bffcf20bda: original score 0.25778317, normalized score: 0.11462354"
+    }
+  }
+]

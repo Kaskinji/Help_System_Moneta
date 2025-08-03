@@ -1,0 +1,33 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "возврат невостребованного остатка",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "96"
+    },
+    "metadata": {
+      "score": 0.9268252849578857,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document eb72a144-a123-4b87-9646-5cb9cc902377: original score 4.8664722, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document eb72a144-a123-4b87-9646-5cb9cc902377: original score 0.32071942, normalized score: 0.32682523"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "отнесение невостребованного остатка в доход",
+      "type": "Process",
+      "hasStatement": [
+        "отнесение невостребованного остатка в доход hasActor нко",
+        "отнесение невостребованного остатка в доход hasResource невостребованный остаток денежных средств",
+        "отнесение невостребованного остатка в доход hasActor нко",
+        "отнесение невостребованного остатка в доход hasResource невостребованный остаток денежных средств"
+      ],
+      "chunk_id": "96"
+    },
+    "metadata": {
+      "score": 0.6020735502243042,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 65c6a510-b6c6-458f-a825-1ef3cbd12020: original score 2.4186988, normalized score: 0.20207354 - \nHybrid (Result Set vector,hybridVector) Document 65c6a510-b6c6-458f-a825-1ef3cbd12020: original score 0.36114073, normalized score: 0.4"
+    }
+  }
+]

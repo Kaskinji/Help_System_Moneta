@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "завершение отправки Запроса",
+      "chunk_id": "23",
+      "hasStatement": [
+        "завершение отправки запроса isResultOf отправка запроса",
+        "завершение отправки запроса Initiates выполнение обязанности получателя"
+      ],
+      "type": "Event"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document eb9beebb-3d2c-437c-96b1-7fc0207b3249: original score 5.2833176, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document eb9beebb-3d2c-437c-96b1-7fc0207b3249: original score 0.4266997, normalized score: 0.4"
+    }
+  }
+]

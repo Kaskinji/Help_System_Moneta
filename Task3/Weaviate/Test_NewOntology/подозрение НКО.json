@@ -1,0 +1,60 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "подозрение НКО",
+      "type": "Event",
+      "hasStatement": [
+        "подозрение нко relation нко"
+      ],
+      "chunk_id": "17"
+    },
+    "metadata": {
+      "score": 0.7862472534179688,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document bfb92750-ad63-42c7-9c2f-261ae89b4f4c: original score 2.8774412, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document bfb92750-ad63-42c7-9c2f-261ae89b4f4c: original score 0.35534072, normalized score: 0.18624721"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Подозрение легализации",
+      "type": "Event",
+      "hasStatement": [
+        "подозрение легализации Initiates отказ в исполнении распоряжения"
+      ],
+      "chunk_id": "39"
+    },
+    "metadata": {
+      "score": 0.711383581161499,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 63ec3b4b-2f31-4089-95c8-196937e4d49d: original score 2.0332801, normalized score: 0.41016486 - \nHybrid (Result Set vector,hybridVector) Document 63ec3b4b-2f31-4089-95c8-196937e4d49d: original score 0.4536059, normalized score: 0.3012187"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "подозрение относительно правомерности",
+      "type": "Event",
+      "hasStatement": [
+        "подозрение относительно правоме Initiates отложить перечисление получателю сумм"
+      ],
+      "chunk_id": "44"
+    },
+    "metadata": {
+      "score": 0.597298800945282,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 280b7482-9fdc-4a75-83d1-ecd9216d63dd: original score 1.6031307, normalized score: 0.31343272 - \nHybrid (Result Set vector,hybridVector) Document 280b7482-9fdc-4a75-83d1-ecd9216d63dd: original score 0.43877476, normalized score: 0.28386608"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "подозрение НКО о Компрометации Аутентификационных данных",
+      "type": "Event",
+      "hasStatement": [],
+      "chunk_id": "106"
+    },
+    "metadata": {
+      "score": 0.5474878549575806,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 8b09f1ee-1c19-4476-abae-dc8238f355a0: original score 1.387873, normalized score: 0.2650255 - \nHybrid (Result Set vector,hybridVector) Document 8b09f1ee-1c19-4476-abae-dc8238f355a0: original score 0.43757504, normalized score: 0.2824624"
+    }
+  }
+]

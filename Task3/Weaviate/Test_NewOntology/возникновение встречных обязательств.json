@@ -1,0 +1,30 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "возникновение встречных обязательств",
+      "type": "Event",
+      "hasStatement": [
+        "возникновение встречных обязательств Initiates зачет"
+      ],
+      "chunk_id": "75"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 05f2e9f5-c4e7-4f2f-ab64-f689776b7f5e: original score 4.5706177, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 05f2e9f5-c4e7-4f2f-ab64-f689776b7f5e: original score 0.44627124, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "возникновение обязательств по подписанию",
+      "type": "Event",
+      "hasStatement": [],
+      "chunk_id": "80"
+    },
+    "metadata": {
+      "score": 0.5412002801895142,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document c7893d60-6513-4eeb-9f31-31b146cfb857: original score 2.3129807, normalized score: 0.21117082 - \nHybrid (Result Set vector,hybridVector) Document c7893d60-6513-4eeb-9f31-31b146cfb857: original score 0.40018845, normalized score: 0.3300295"
+    }
+  }
+]

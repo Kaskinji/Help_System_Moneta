@@ -1,0 +1,133 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "НКО",
+      "type": "Agent",
+      "hasStatement": [
+        "нко isActorOf выплата пени"
+      ],
+      "chunk_id": "83"
+    },
+    "metadata": {
+      "score": 0.8211690783500671,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document eb414cd4-7ec4-4732-aad6-6d90a2081c79: original score 1.1537274, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document eb414cd4-7ec4-4732-aad6-6d90a2081c79: original score 0.39356846, normalized score: 0.22116904"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "НКО",
+      "type": "Agent",
+      "hasStatement": [
+        "нко isActorOf признание переводов недейс"
+      ],
+      "chunk_id": "25"
+    },
+    "metadata": {
+      "score": 0.7980046272277832,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document bf4ecaf5-3270-46e7-940d-ce9de20c61a2: original score 1.1537274, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document bf4ecaf5-3270-46e7-940d-ce9de20c61a2: original score 0.38735938, normalized score: 0.19800457"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "НКО",
+      "type": "Agent",
+      "hasStatement": [
+        "нко isActorOf предоставление возможности получ"
+      ],
+      "chunk_id": "56"
+    },
+    "metadata": {
+      "score": 0.7578203678131104,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document c27d6185-63e2-49cf-a6ce-bfaccc32787a: original score 1.1537274, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document c27d6185-63e2-49cf-a6ce-bfaccc32787a: original score 0.37658828, normalized score: 0.15782033"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "НКО",
+      "type": "Agent",
+      "hasStatement": [
+        "нко isActorOf операция возврата перевода",
+        "нко isActorOf операция возврата перевода",
+        "нко isActorOf доведение информации до сведения",
+        "нко isResponsibleFor информация о невозможности исполнить заяв",
+        "нко isResponsibleFor личный кабинет",
+        "нко isActorOf доведение информации до сведения"
+      ],
+      "chunk_id": "109"
+    },
+    "metadata": {
+      "score": 0.7421395182609558,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document d11f5f0d-65ef-4b53-a7ce-dee64b1617aa: original score 1.1537274, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document d11f5f0d-65ef-4b53-a7ce-dee64b1617aa: original score 0.37238514, normalized score: 0.14213948"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "НКО",
+      "type": "Agent",
+      "hasStatement": [
+        "нко isActorOf подписание и отправка акта"
+      ],
+      "chunk_id": "81"
+    },
+    "metadata": {
+      "score": 0.7409909963607788,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 13248427-f602-45c8-a267-90f0824d1bcc: original score 1.1537274, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 13248427-f602-45c8-a267-90f0824d1bcc: original score 0.3720773, normalized score: 0.14099094"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "НКО",
+      "type": "Agent",
+      "hasStatement": [
+        "нко isActorOf прекращение исполнения обязательств",
+        "нко isActorOf расторжение договора"
+      ],
+      "chunk_id": "46"
+    },
+    "metadata": {
+      "score": 0.7261270880699158,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 59d4c4e0-968d-4702-8114-c31e0dc9c89d: original score 1.1537274, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 59d4c4e0-968d-4702-8114-c31e0dc9c89d: original score 0.36809313, normalized score: 0.12612706"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "НКО",
+      "type": "Agent",
+      "hasStatement": [
+        "НКО isActorOf повторное подключение Получателя",
+        "НКО isActorOf возобновление осуществления расчё",
+        "НКО isActorOf направление уведомления"
+      ],
+      "chunk_id": "26"
+    },
+    "metadata": {
+      "score": 0.7253059148788452,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 4d907a20-c1d4-4293-b3dd-88ea3118c5a0: original score 1.1537274, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 4d907a20-c1d4-4293-b3dd-88ea3118c5a0: original score 0.367873, normalized score: 0.12530586"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "НКО",
+      "type": "Agent",
+      "hasStatement": [
+        "нко isActorOf сверка расчетов",
+        "нко isActorOf погашение денежных обязательств",
+        "нко isActorOf окончательный расчет",
+        "нко isActorOf расчеты"
+      ],
+      "chunk_id": "92"
+    },
+    "metadata": {
+      "score": 0.7093759775161743,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 2c939bb0-66a0-4e99-88f5-61d9ab62b948: original score 1.1537274, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 2c939bb0-66a0-4e99-88f5-61d9ab62b948: original score 0.36360312, normalized score: 0.109375946"
+    }
+  }
+]

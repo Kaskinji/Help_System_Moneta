@@ -1,0 +1,35 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "повторное подключение Получателя",
+      "type": "Process",
+      "hasStatement": [
+        "повторное подключение Получателя hasActor НКО",
+        "повторное подключение Получателя hasResource РУ\"@ru",
+        "повторное подключение Получателя hasResource Система МОНЕТА РУ"
+      ],
+      "chunk_id": "26"
+    },
+    "metadata": {
+      "score": 0.9908051490783691,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document fd07871b-1823-4de9-9982-91e895c44dc2: original score 4.168735, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document fd07871b-1823-4de9-9982-91e895c44dc2: original score 0.39634705, normalized score: 0.39080516"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "повторное подключение Получателя/Интернет-магазина",
+      "type": "Process",
+      "hasStatement": [
+        "повторное подключение получателя hasActor нко",
+        "повторное подключение получателя hasResource РУ\"@ru"
+      ],
+      "chunk_id": "114"
+    },
+    "metadata": {
+      "score": 0.8510336875915527,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 08172e0b-5f80-4a3d-aaa0-fc1b2e86d6b5: original score 3.2278895, normalized score: 0.4510337 - \nHybrid (Result Set vector,hybridVector) Document 08172e0b-5f80-4a3d-aaa0-fc1b2e86d6b5: original score 0.40235656, normalized score: 0.4"
+    }
+  }
+]

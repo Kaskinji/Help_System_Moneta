@@ -1,0 +1,19 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "сверка данных",
+      "type": "Process",
+      "hasStatement": [
+        "сверка данных hasActor получатель",
+        "сверка данных hasResource данные",
+        "сверка данных hasResource данные"
+      ],
+      "chunk_id": "78"
+    },
+    "metadata": {
+      "score": 0.6871945261955261,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 6fc5e7a5-e8ff-46bf-ad81-8fbcc92da05d: original score 3.421378, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 6fc5e7a5-e8ff-46bf-ad81-8fbcc92da05d: original score 0.45995468, normalized score: 0.08719452"
+    }
+  }
+]

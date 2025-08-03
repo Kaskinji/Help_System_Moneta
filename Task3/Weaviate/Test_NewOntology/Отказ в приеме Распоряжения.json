@@ -1,0 +1,40 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Отказ в приеме Распоряжения",
+      "type": "Process",
+      "hasStatement": [
+        "отказ в приеме распоряжения hasResource отрицательный ответ на авторизацию",
+        "отказ в приеме распоряжения hasResource положительное сообщение о приеме перевода"
+      ],
+      "chunk_id": "38"
+    },
+    "metadata": {
+      "score": 0.8682512640953064,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document af011499-71fa-4a78-a13c-603f936a210c: original score 4.4022512, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document af011499-71fa-4a78-a13c-603f936a210c: original score 0.28665197, normalized score: 0.26825124"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Отказ в исполнении распоряжения",
+      "type": "Process",
+      "hasStatement": [
+        "отказ в исполнении распоряжения hasResource распоряжение плательщика",
+        "отказ в исполнении распоряжения hasResource правила внутреннего контроля",
+        "отказ в исполнении распоряжения hasResult решение об отказе",
+        "отказ в исполнении распоряжения hasResource распоряжение плательщика",
+        "отказ в исполнении распоряжения hasResource правила внутреннего контроля",
+        "отказ в исполнении распоряжения hasResult информация о дате и причинах",
+        "отказ в исполнении распоряжения hasActor нко",
+        "отказ в исполнении распоряжения hasResult решение об отказе"
+      ],
+      "chunk_id": "39"
+    },
+    "metadata": {
+      "score": 0.6463168263435364,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 4bfa2805-9fe2-4929-bec8-2b7064c6a752: original score 3.164346, normalized score: 0.4153764 - \nHybrid (Result Set vector,hybridVector) Document 4bfa2805-9fe2-4929-bec8-2b7064c6a752: original score 0.26068306, normalized score: 0.23094045"
+    }
+  }
+]

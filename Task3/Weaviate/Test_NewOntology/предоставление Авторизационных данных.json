@@ -1,0 +1,38 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "предоставление Авторизационных данных",
+      "type": "Process",
+      "hasStatement": [
+        "предоставление авторизационных дан hasActor нко",
+        "предоставление авторизационных дан hasResponsible нко",
+        "предоставление авторизационных дан hasResult авторизационные данные"
+      ],
+      "chunk_id": "124"
+    },
+    "metadata": {
+      "score": 0.9490399360656738,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 5598d9a6-3b51-4702-b578-8a96d95f6886: original score 4.039749, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 5598d9a6-3b51-4702-b578-8a96d95f6886: original score 0.48051536, normalized score: 0.34903988"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "предоставление Авторизационных данных и Платежного пароля",
+      "type": "Process",
+      "hasStatement": [
+        "предоставление авторизационных данных и пл hasActor нко",
+        "предоставление авторизационных данных и пл hasResource авторизационные данные",
+        "предоставление авторизационных данных и пл hasResource платежный пароль",
+        "предоставление авторизационных данных и пл hasActor нко",
+        "предоставление авторизационных данных и пл hasResource авторизационные данные"
+      ],
+      "chunk_id": "123"
+    },
+    "metadata": {
+      "score": 0.7122734189033508,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 4c97fad7-1d4e-4927-a33d-1debb71d0dec: original score 2.471303, normalized score: 0.3122734 - \nHybrid (Result Set vector,hybridVector) Document 4c97fad7-1d4e-4927-a33d-1debb71d0dec: original score 0.50288004, normalized score: 0.4"
+    }
+  }
+]

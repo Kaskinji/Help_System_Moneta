@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "система учета денежных средств Получателя",
+      "type": "Resource",
+      "hasStatement": [
+        "система учета денежных средств пол hasResponsible торговая площадка",
+        "система учета денежных средств пол isResourceOf информационно технологическое взаимод"
+      ],
+      "chunk_id": "10"
+    },
+    "metadata": {
+      "score": 0.6974836587905884,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a93a0662-feac-40bf-b109-7480ada6d118: original score 4.469638, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document a93a0662-feac-40bf-b109-7480ada6d118: original score 0.33757627, normalized score: 0.09748366"
+    }
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "участие в переводе денежных средств",
+      "type": "Process",
+      "hasStatement": [
+        "участие в переводе денежных средс isPartOf информационно-технологическое взаимод"
+      ],
+      "chunk_id": "119"
+    },
+    "metadata": {
+      "score": 0.9206855297088623,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7c4a1f94-d9a2-4da0-98fc-e62e9fec8636: original score 4.7640047, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 7c4a1f94-d9a2-4da0-98fc-e62e9fec8636: original score 0.43713295, normalized score: 0.32068554"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Участие в переводе денежных средств",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "48"
+    },
+    "metadata": {
+      "score": 0.8529058694839478,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 1a7ee70f-3f37-4f52-84c0-49adb1d94260: original score 4.7640047, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 1a7ee70f-3f37-4f52-84c0-49adb1d94260: original score 0.3825366, normalized score: 0.25290582"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Перечислено денежных средств НКО в пользу Получателя за отчетный период",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "102"
+    },
+    "metadata": {
+      "score": 0.5269831418991089,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document cdc8b25f-f0a2-4114-8c13-b0e05a55a1d2: original score 1.307224, normalized score: 0.12698314 - \nHybrid (Result Set vector,hybridVector) Document cdc8b25f-f0a2-4114-8c13-b0e05a55a1d2: original score 0.50102055, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "перечисление денежных средств",
+      "type": "Process",
+      "hasStatement": [
+        "перечисление денежных средств hasResource денежные средства",
+        "перечисление денежных средств relation аккумулирование денежных средств"
+      ],
+      "chunk_id": "15"
+    },
+    "metadata": {
+      "score": 0.5179758071899414,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 48edbf7f-49ad-46bb-934f-65841118cdf6: original score 2.3022227, normalized score: 0.26313615 - \nHybrid (Result Set vector,hybridVector) Document 48edbf7f-49ad-46bb-934f-65841118cdf6: original score 0.3840943, normalized score: 0.2548397"
+    }
+  }
+]

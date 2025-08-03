@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "подтверждение расхождений",
+      "type": "Event",
+      "hasStatement": [
+        "подтверждение расхождений Initiates размещение исправленной версии акта"
+      ],
+      "chunk_id": "79"
+    },
+    "metadata": {
+      "score": 0.9868918657302856,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document cdd520f7-f98b-4580-b508-fc3b4ced6d3e: original score 4.1449976, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document cdd520f7-f98b-4580-b508-fc3b4ced6d3e: original score 0.40121305, normalized score: 0.3868918"
+    }
+  }
+]

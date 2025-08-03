@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "денежные средства",
+      "chunk_id": "82",
+      "hasStatement": [
+        "денежные средства isResourceOf взыскание денежных средств"
+      ],
+      "type": "Unknown"
+    },
+    "metadata": {
+      "score": 0.857843279838562,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 384e8511-7b9d-4d72-b1f3-81e3a2889603: original score 3.2393029, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 384e8511-7b9d-4d72-b1f3-81e3a2889603: original score 0.34806466, normalized score: 0.25784323"
+    }
+  }
+]

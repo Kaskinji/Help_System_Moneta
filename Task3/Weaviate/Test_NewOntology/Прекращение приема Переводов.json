@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Прекращение приема Переводов",
+      "type": "Process",
+      "hasStatement": [
+        "прекращение приема переводов relation интернет-магазин"
+      ],
+      "chunk_id": "48"
+    },
+    "metadata": {
+      "score": 0.7096076011657715,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 591022ae-03b0-482b-9845-8a001a7aa881: original score 4.042857, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 591022ae-03b0-482b-9845-8a001a7aa881: original score 0.22312039, normalized score: 0.10960757"
+    }
+  }
+]

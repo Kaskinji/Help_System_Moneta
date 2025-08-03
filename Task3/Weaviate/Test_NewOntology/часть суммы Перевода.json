@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "часть суммы Перевода",
+      "type": "Resource",
+      "hasStatement": [
+        "часть суммы перевода isResourceOf операция возврата перевода"
+      ],
+      "chunk_id": "21"
+    },
+    "metadata": {
+      "score": 0.785525918006897,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document c9863bbe-9246-41af-8448-0d0187e24277: original score 4.3863187, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document c9863bbe-9246-41af-8448-0d0187e24277: original score 0.3687967, normalized score: 0.18552588"
+    }
+  }
+]

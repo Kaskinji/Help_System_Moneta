@@ -1,0 +1,32 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "отсканированные копии запрашиваемых НКО документов и информации",
+      "type": "Resource",
+      "hasStatement": [
+        "копии документов и информации isPartOf сообщение"
+      ],
+      "chunk_id": "23"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document be249fd7-f888-4478-9bf1-956881fcf5aa: original score 5.2094536, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document be249fd7-f888-4478-9bf1-956881fcf5aa: original score 0.5977211, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "копии документов",
+      "chunk_id": "52",
+      "hasStatement": [
+        "копии документов isResourceOf сообщение нко сведений документа"
+      ],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 0.5601611137390137,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document d3f297bb-7c56-4744-9b03-84959bbadef4: original score 3.9119167, normalized score: 0.44528505 - \nHybrid (Result Set vector,hybridVector) Document d3f297bb-7c56-4744-9b03-84959bbadef4: original score 0.31111485, normalized score: 0.11487609"
+    }
+  }
+]

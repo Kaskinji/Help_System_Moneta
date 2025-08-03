@@ -1,0 +1,52 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "направление сообщения на адрес электронной почты",
+      "type": "Process",
+      "hasStatement": [
+        "направление сообщения на эл почту isPartOf приостановка информационного обмен",
+        "направление сообщения на эл почту hasResource адрес электронной почты",
+        "направление сообщения на эл почту hasResource сообщение"
+      ],
+      "chunk_id": "104"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document d29c2a1e-07ad-45c3-a96d-793a34286c44: original score 4.4836807, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document d29c2a1e-07ad-45c3-a96d-793a34286c44: original score 0.38542098, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "направление сообщения",
+      "type": "Process",
+      "hasStatement": [
+        "направление сообщения hasActor получатель",
+        "направление сообщения hasResource адрес электронной почты",
+        "направление сообщения isPartOf выполнение обязанности получателя"
+      ],
+      "chunk_id": "23"
+    },
+    "metadata": {
+      "score": 0.6557703018188477,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document fe43062b-ec93-4ac2-b44e-008522662d59: original score 3.2993968, normalized score: 0.42276743 - \nHybrid (Result Set vector,hybridVector) Document fe43062b-ec93-4ac2-b44e-008522662d59: original score 0.2823519, normalized score: 0.23300286"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "направление сообщения",
+      "chunk_id": "111",
+      "hasStatement": [
+        "направление сообщения hasActor получатель",
+        "направление сообщения hasResource сообщение"
+      ],
+      "type": "Process"
+    },
+    "metadata": {
+      "score": 0.5575882792472839,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 2f2ddf89-3b9e-4b14-9b41-542994b976e3: original score 3.2993968, normalized score: 0.42276743 - \nHybrid (Result Set vector,hybridVector) Document 2f2ddf89-3b9e-4b14-9b41-542994b976e3: original score 0.22175491, normalized score: 0.13482086"
+    }
+  }
+]

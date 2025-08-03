@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "ИНН",
+      "type": "Resource",
+      "hasStatement": [
+        "инн hasResponsible небанковская кредитная организация"
+      ],
+      "chunk_id": "100"
+    },
+    "metadata": {
+      "score": 0.6432223916053772,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7c8198a6-ad33-4d0b-81cf-8d29245c70b0: original score 3.314095, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 7c8198a6-ad33-4d0b-81cf-8d29245c70b0: original score 0.33563012, normalized score: 0.043222394"
+    }
+  }
+]

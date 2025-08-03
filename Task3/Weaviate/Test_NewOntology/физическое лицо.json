@@ -1,0 +1,30 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "физическое лицо",
+      "type": "Agent",
+      "hasStatement": [],
+      "chunk_id": "70"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 051324bd-6fae-4a42-a641-b610471a026d: original score 4.1449976, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 051324bd-6fae-4a42-a641-b610471a026d: original score 0.3207953, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "физическое лицо",
+      "type": "Agent",
+      "hasStatement": [
+        "физическое лицо isActorOf реализация услуг"
+      ],
+      "chunk_id": "15"
+    },
+    "metadata": {
+      "score": 0.7444201111793518,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 5ee06f0e-ecbf-47e8-8d9d-b4001eba2cc3: original score 4.1449976, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 5ee06f0e-ecbf-47e8-8d9d-b4001eba2cc3: original score 0.21459687, normalized score: 0.14442009"
+    }
+  }
+]

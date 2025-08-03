@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "права и обязанности по договору",
+      "type": "Resource",
+      "hasStatement": [
+        "права и обязанности по договору isResourceOf переход прав и обязанностей",
+        "права и обязанности по договору isPartOf договор"
+      ],
+      "chunk_id": "64"
+    },
+    "metadata": {
+      "score": 0.7008206844329834,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 6a67b7fa-f401-45a8-aa11-80cc7f5378bc: original score 4.8529696, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 6a67b7fa-f401-45a8-aa11-80cc7f5378bc: original score 0.29732817, normalized score: 0.10082068"
+    }
+  }
+]

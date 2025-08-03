@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "приложения к Договору",
+      "type": "Resource",
+      "hasStatement": [
+        "приложения к договору isPartOf ```ttl",
+        "приложения к договору isPartOf договор"
+      ],
+      "chunk_id": "98"
+    },
+    "metadata": {
+      "score": 0.6000000238418579,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 04a852c8-25e8-4f33-bb7f-4034c982089d: original score 4.4983478, normalized score: 0.6"
+    }
+  }
+]

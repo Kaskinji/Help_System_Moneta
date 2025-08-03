@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Сумма Переводов, принятых в адрес Получателя за отчетный период",
+      "chunk_id": "13",
+      "hasStatement": [
+        "сумма переводов isResultOf принятие переводов"
+      ],
+      "type": "Unknown"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document d2b5d491-d97a-49cd-9e27-dabee5f91d23: original score 5.16238, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document d2b5d491-d97a-49cd-9e27-dabee5f91d23: original score 0.6448994, normalized score: 0.4"
+    }
+  }
+]

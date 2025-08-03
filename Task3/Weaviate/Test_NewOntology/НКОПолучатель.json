@@ -1,0 +1,15 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "НКО/Получатель",
+      "type": "Agent",
+      "hasStatement": [],
+      "chunk_id": "90"
+    },
+    "metadata": {
+      "score": 0.9024731516838074,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 6e71e832-dc24-486c-91d1-474f44340043: original score 3.314095, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 6e71e832-dc24-486c-91d1-474f44340043: original score 0.42544597, normalized score: 0.30247313"
+    }
+  }
+]

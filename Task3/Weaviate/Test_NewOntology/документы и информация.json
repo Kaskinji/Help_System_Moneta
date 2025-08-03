@@ -1,0 +1,125 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "информация и документы",
+      "type": "Resource",
+      "hasStatement": [
+        "информация и документы isResultOf запрос информации и документов"
+      ],
+      "chunk_id": "49"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 9160f84c-e2c4-42b7-b2f7-077f3261141e: original score 3.337504, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 9160f84c-e2c4-42b7-b2f7-077f3261141e: original score 0.52703655, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "документы и информация",
+      "type": "Resource",
+      "hasStatement": [
+        "документы и информация relation запрос",
+        "документы и информация isResourceOf предоставление документов и информации"
+      ],
+      "chunk_id": "23"
+    },
+    "metadata": {
+      "score": 0.8734591007232666,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 1e50b9f4-61c7-4d2e-b5d1-4394137d4787: original score 3.337504, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 1e50b9f4-61c7-4d2e-b5d1-4394137d4787: original score 0.4839537, normalized score: 0.27345908"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "информация и документы",
+      "type": "Resource",
+      "hasStatement": [
+        "информация и документы isResultOf предоставление информации и докумен",
+        "информация и документы isResultOf предоставление информации и докумен"
+      ],
+      "chunk_id": "26"
+    },
+    "metadata": {
+      "score": 0.868175745010376,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 6840a707-2673-4f22-bf3b-fc7d148b71ca: original score 3.337504, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 6840a707-2673-4f22-bf3b-fc7d148b71ca: original score 0.4821549, normalized score: 0.2681757"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "информация и документы",
+      "type": "Resource",
+      "hasStatement": [
+        "информация и документы hasResponsible получатель"
+      ],
+      "chunk_id": "114"
+    },
+    "metadata": {
+      "score": 0.804953932762146,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 50a26768-3bb8-46f7-ab87-15ed2001e2e4: original score 3.337504, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 50a26768-3bb8-46f7-ab87-15ed2001e2e4: original score 0.46063006, normalized score: 0.20495391"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "документы",
+      "type": "Resource",
+      "hasStatement": [
+        "документы isResourceOf предоставление документов и информации"
+      ],
+      "chunk_id": "111"
+    },
+    "metadata": {
+      "score": 0.7489759922027588,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 462d2394-3fe8-4036-b2ef-3c6ea43ab39a: original score 2.208923, normalized score: 0.37749648 - \nHybrid (Result Set vector,hybridVector) Document 462d2394-3fe8-4036-b2ef-3c6ea43ab39a: original score 0.5173263, normalized score: 0.37147948"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "документы",
+      "type": "Resource",
+      "hasStatement": [
+        "документы isResourceOf предоставление информации и документов",
+        "документы relation запрещенные услуги"
+      ],
+      "chunk_id": "24"
+    },
+    "metadata": {
+      "score": 0.556364893913269,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document f65279ec-a942-4778-880f-3bdfde1d5068: original score 2.208923, normalized score: 0.37749648 - \nHybrid (Result Set vector,hybridVector) Document f65279ec-a942-4778-880f-3bdfde1d5068: original score 0.45174885, normalized score: 0.17886841"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "информация",
+      "type": "Resource",
+      "hasStatement": [
+        "информация isResourceOf предоставление документов и информации"
+      ],
+      "chunk_id": "111"
+    },
+    "metadata": {
+      "score": 0.5516836047172546,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 9ed61a25-538c-4435-9ddf-194298a1038f: original score 1.8797342, normalized score: 0.31259578 - \nHybrid (Result Set vector,hybridVector) Document 9ed61a25-538c-4435-9ddf-194298a1038f: original score 0.47225147, normalized score: 0.2390878"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "документы",
+      "type": "Resource",
+      "hasStatement": [
+        "документы relation поступление сведений"
+      ],
+      "chunk_id": "68"
+    },
+    "metadata": {
+      "score": 0.5456477403640747,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ec827b5d-e07b-47d2-b2b9-95cefb13ece9: original score 2.208923, normalized score: 0.37749648 - \nHybrid (Result Set vector,hybridVector) Document ec827b5d-e07b-47d2-b2b9-95cefb13ece9: original score 0.44810003, normalized score: 0.16815127"
+    }
+  }
+]

@@ -1,0 +1,15 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "расходы",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "69"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 40cc5e8d-1eb9-4554-9186-8b059d56b9dc: original score 2.9013402, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 40cc5e8d-1eb9-4554-9186-8b059d56b9dc: original score 0.3685072, normalized score: 0.4"
+    }
+  }
+]

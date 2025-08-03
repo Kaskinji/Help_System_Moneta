@@ -1,0 +1,21 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "направление подтверждения",
+      "type": "Process",
+      "hasStatement": [
+        "направление подтверждения hasResource подтверждение",
+        "направление подтверждения isPartOf подтверждение заявления о перечислении",
+        "направление подтверждения hasResource ответное сообщение",
+        "направление подтверждения hasResource уведомление нко",
+        "направление подтверждения hasResource адрес электронной почты нко"
+      ],
+      "chunk_id": "62"
+    },
+    "metadata": {
+      "score": 0.8006402254104614,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 3a8d7d0c-5b8b-4f66-a105-17069f22f095: original score 3.917666, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 3a8d7d0c-5b8b-4f66-a105-17069f22f095: original score 0.4122284, normalized score: 0.2006402"
+    }
+  }
+]

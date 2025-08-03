@@ -1,0 +1,19 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "контроль",
+      "type": "Process",
+      "hasStatement": [
+        "контроль hasResource электронные сообщения",
+        "контроль hasActor стороны",
+        "контроль hasResult обнаруженная ошибка"
+      ],
+      "chunk_id": "14"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ba01d3a2-ba62-4900-967d-0c0818f7c488: original score 3.0652502, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document ba01d3a2-ba62-4900-967d-0c0818f7c488: original score 0.38002193, normalized score: 0.4"
+    }
+  }
+]

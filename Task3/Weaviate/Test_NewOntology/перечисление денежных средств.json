@@ -1,0 +1,60 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "перечисление денежных средств",
+      "type": "Resource",
+      "hasStatement": [
+        "перечисление денежных средств isResourceOf выплата пени"
+      ],
+      "chunk_id": "83"
+    },
+    "metadata": {
+      "score": 0.9472873210906982,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document f0bddbb2-75ab-49af-862e-1854e1590cca: original score 3.4530563, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document f0bddbb2-75ab-49af-862e-1854e1590cca: original score 0.3652823, normalized score: 0.34728727"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "возмещения денежных средств",
+      "type": "Resource",
+      "hasStatement": [
+        "возмещения денежных средств hasResponsible получатель"
+      ],
+      "chunk_id": "43"
+    },
+    "metadata": {
+      "score": 0.5806578397750854,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 23f8593a-a5dc-481c-b7e0-486c8893af62: original score 2.3022227, normalized score: 0.37803367 - \nHybrid (Result Set vector,hybridVector) Document 23f8593a-a5dc-481c-b7e0-486c8893af62: original score 0.28611255, normalized score: 0.2026242"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "суммы причитающихся денежных средств",
+      "type": "Resource",
+      "hasStatement": [
+        "суммы причитающихся денежных сред isPartOf претензии"
+      ],
+      "chunk_id": "87"
+    },
+    "metadata": {
+      "score": 0.5586048364639282,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document cdaf5e76-9663-4a4f-93a1-10543469e8b0: original score 1.9002221, normalized score: 0.300498 - \nHybrid (Result Set vector,hybridVector) Document cdaf5e76-9663-4a4f-93a1-10543469e8b0: original score 0.31647652, normalized score: 0.25810683"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Остаток денежных средств",
+      "chunk_id": "95",
+      "hasStatement": [],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 0.5174253582954407,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 87bf151c-dd37-4e2a-93e2-b0d082c637b7: original score 2.3022227, normalized score: 0.37803367 - \nHybrid (Result Set vector,hybridVector) Document 87bf151c-dd37-4e2a-93e2-b0d082c637b7: original score 0.25150728, normalized score: 0.13939168"
+    }
+  }
+]

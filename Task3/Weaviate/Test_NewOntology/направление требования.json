@@ -1,0 +1,42 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "направление требования",
+      "type": "Process",
+      "hasStatement": [
+        "направление требования hasResource требование",
+        "направление требования isPartOf рассмотрение заявлений эмитента",
+        "направление требования hasActor нко",
+        "направление требования hasResource требование"
+      ],
+      "chunk_id": "116"
+    },
+    "metadata": {
+      "score": 0.9363889694213867,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ec103987-a752-42da-bb18-1a11754584a5: original score 3.0221972, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document ec103987-a752-42da-bb18-1a11754584a5: original score 0.4005162, normalized score: 0.33638898"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "рассмотрение Требования",
+      "type": "Process",
+      "hasStatement": [
+        "рассмотрение требования hasActor получатель",
+        "рассмотрение требования hasResource требование",
+        "рассмотрение требования hasResult уведомление о согласии с исполнением тре",
+        "рассмотрение требования hasResult мотивированный отказ от исполнения тре",
+        "рассмотрение требования hasResource требование",
+        "рассмотрение требования hasResult уведомление о согласии с исполнением тре",
+        "рассмотрение требования hasResult мотивированный отказ от исполнения тре",
+        "рассмотрение требования hasActor получатель"
+      ],
+      "chunk_id": "117"
+    },
+    "metadata": {
+      "score": 0.6109407544136047,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 62bd1a17-a599-4264-9393-21b499b12861: original score 1.5293933, normalized score: 0.21094076 - \nHybrid (Result Set vector,hybridVector) Document 62bd1a17-a599-4264-9393-21b499b12861: original score 0.4290043, normalized score: 0.4"
+    }
+  }
+]

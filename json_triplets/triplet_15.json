@@ -1,0 +1,74 @@
+[
+    {
+        "label": "Получатель",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Agent",
+        "hasStatement": [
+            "получатель isActorOf аккумулирование денежных средств",
+            "получатель relation нко"
+        ],
+        "chunk_id": "15"
+    },
+    {
+        "label": "Аккумулирование денежных средств",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Process",
+        "hasStatement": [
+            "аккумулирование денежных средств hasActor получатель"
+        ],
+        "chunk_id": "15"
+    },
+    {
+        "label": "НКО",
+        "abbreviation": "",
+        "definition": "некоммерческая организация",
+        "type": "Agent",
+        "hasStatement": [
+            "нко relation получатель",
+            "нко isActorOf принятие распоряжений"
+        ],
+        "chunk_id": "15"
+    },
+    {
+        "label": "\"",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Unknown",
+        "hasStatement": [],
+        "chunk_id": "15"
+    },
+    {
+        "label": "Принятие распоряжений",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Process",
+        "hasStatement": [
+            "принятие распоряжений hasActor нко",
+            "принятие распоряжений hasResource распоряжения",
+            "принятие распоряжений isPartOf переводы"
+        ],
+        "chunk_id": "15"
+    },
+    {
+        "label": "Распоряжения",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Resource",
+        "hasStatement": [
+            "распоряжения isResourceOf принятие распоряжений"
+        ],
+        "chunk_id": "15"
+    },
+    {
+        "label": "Переводы",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Process",
+        "hasStatement": [
+            "переводы hasPart принятие распоряжений"
+        ],
+        "chunk_id": "15"
+    }
+]

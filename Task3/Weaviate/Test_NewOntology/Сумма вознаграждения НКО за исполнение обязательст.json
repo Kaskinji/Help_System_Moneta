@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Сумма вознаграждения НКО за исполнение обязательств по Договору, удержанная за отчетный период (без НДС)",
+      "type": "Unknown",
+      "hasStatement": [
+        "сумма вознаграждения нко isResultOf удержание вознаграждения"
+      ],
+      "chunk_id": "13"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e4af7858-5c73-47ee-8cc9-92ea7f3a40a6: original score 6.678093, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document e4af7858-5c73-47ee-8cc9-92ea7f3a40a6: original score 0.64596236, normalized score: 0.4"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "предоставление доступа",
+      "type": "Process",
+      "hasStatement": [
+        "предоставление доступа hasResult доступ",
+        "предоставление доступа hasResource система",
+        "предоставление доступа hasResponsible председатель правления"
+      ],
+      "chunk_id": "33"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 885057a8-86a6-47b8-a8f6-91a090cdb88f: original score 3.6156611, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 885057a8-86a6-47b8-a8f6-91a090cdb88f: original score 0.42431635, normalized score: 0.4"
+    }
+  }
+]

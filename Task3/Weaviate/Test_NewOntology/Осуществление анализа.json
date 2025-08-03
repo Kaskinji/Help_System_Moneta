@@ -1,0 +1,21 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Осуществление анализа",
+      "type": "Process",
+      "hasStatement": [
+        "осуществление анализа hasActor нко",
+        "осуществление анализа isResourceOf информация",
+        "осуществление анализа isResourceOf документы",
+        "осуществление анализа hasResource информация",
+        "осуществление анализа hasResource документы"
+      ],
+      "chunk_id": "110"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a75de1b5-7641-459a-8bad-357dd276bafa: original score 4.123712, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document a75de1b5-7641-459a-8bad-357dd276bafa: original score 0.4156533, normalized score: 0.4"
+    }
+  }
+]

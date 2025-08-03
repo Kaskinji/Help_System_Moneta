@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "нарушение правил",
+      "chunk_id": "68",
+      "hasStatement": [
+        "нарушение правил relation поступление сведений"
+      ],
+      "type": "Event"
+    },
+    "metadata": {
+      "score": 0.8958142995834351,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 85c1fd41-e279-4f8e-a0d7-f7bed345c71b: original score 4.547719, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 85c1fd41-e279-4f8e-a0d7-f7bed345c71b: original score 0.37461078, normalized score: 0.2958143"
+    }
+  }
+]

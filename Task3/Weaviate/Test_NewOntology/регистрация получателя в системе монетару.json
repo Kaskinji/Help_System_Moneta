@@ -1,0 +1,79 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "регистрация получателя в системе монетару",
+      "type": "Process",
+      "hasStatement": [
+        "регистрация получателя в системе монетару hasActor торговая площадка"
+      ],
+      "chunk_id": "122"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7b9b389e-9f3d-4960-913a-92e81313ba8e: original score 4.2962785, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 7b9b389e-9f3d-4960-913a-92e81313ba8e: original score 0.65184367, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "регистрация получателя в системе мо",
+      "type": "Process",
+      "hasStatement": [
+        "регистрация получателя в системе мо hasActor получатель"
+      ],
+      "chunk_id": "124"
+    },
+    "metadata": {
+      "score": 0.624178409576416,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 96ecc702-8ee9-4ae0-9667-4d7fa0abd0a6: original score 3.3550642, normalized score: 0.45289934 - \nHybrid (Result Set vector,hybridVector) Document 96ecc702-8ee9-4ae0-9667-4d7fa0abd0a6: original score 0.450225, normalized score: 0.17127904"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "регистрация Получателя",
+      "type": "Process",
+      "hasStatement": [
+        "регистрация получателя hasActor торговая площадка",
+        "регистрация получателя isPartOf подключение к системе монетару"
+      ],
+      "chunk_id": "35"
+    },
+    "metadata": {
+      "score": 0.6047646999359131,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 60d8426d-9c8b-4f91-971b-893a2ea79df5: original score 2.96024, normalized score: 0.39119306 - \nHybrid (Result Set vector,hybridVector) Document 60d8426d-9c8b-4f91-971b-893a2ea79df5: original score 0.48750615, normalized score: 0.21357167"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "регистрация Получателя",
+      "type": "Process",
+      "hasStatement": [
+        "регистрация получателя hasActor получатель",
+        "регистрация получателя hasResource РУ\"@ru",
+        "регистрация получателя hasActor получатель",
+        "регистрация получателя hasResource система монетару"
+      ],
+      "chunk_id": "123"
+    },
+    "metadata": {
+      "score": 0.5365796089172363,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e504d954-ca0b-4647-abf5-9a31fd8625e9: original score 2.96024, normalized score: 0.39119306 - \nHybrid (Result Set vector,hybridVector) Document e504d954-ca0b-4647-abf5-9a31fd8625e9: original score 0.42740065, normalized score: 0.14538656"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "регистрация Получателя",
+      "chunk_id": "37",
+      "hasStatement": [],
+      "type": "Process"
+    },
+    "metadata": {
+      "score": 0.5077624320983887,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document db853deb-660b-4a39-80b8-bf00dc0d4c74: original score 2.96024, normalized score: 0.39119306 - \nHybrid (Result Set vector,hybridVector) Document db853deb-660b-4a39-80b8-bf00dc0d4c74: original score 0.40199816, normalized score: 0.11656939"
+    }
+  }
+]

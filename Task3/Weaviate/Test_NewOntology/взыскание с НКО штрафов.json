@@ -1,0 +1,20 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "взыскание с НКО штрафов",
+      "type": "Event",
+      "hasStatement": [
+        "взыскание с нко штрафов relation документы",
+        "взыскание с нко штрафов relation взыскание эквайрером",
+        "взыскание с нко штрафов isResultOf взыскание эквайрером",
+        "взыскание с нко штрафов Initiates возмещение"
+      ],
+      "chunk_id": "84"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ca97572e-0ccc-492e-997d-a10b8eae4254: original score 4.5170593, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document ca97572e-0ccc-492e-997d-a10b8eae4254: original score 0.33158773, normalized score: 0.4"
+    }
+  }
+]

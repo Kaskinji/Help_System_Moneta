@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "получение информации",
+      "type": "Process",
+      "hasStatement": [
+        "получение информации hasResult информация об объеме и видах ус",
+        "получение информации isPartOf предоставление возможности получ"
+      ],
+      "chunk_id": "56"
+    },
+    "metadata": {
+      "score": 0.7766374945640564,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 2f905e24-b7e0-46fd-8829-a423fe3e33ff: original score 2.9436498, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 2f905e24-b7e0-46fd-8829-a423fe3e33ff: original score 0.45448506, normalized score: 0.17663749"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Прекращение договорных отношений",
+      "chunk_id": "48",
+      "hasStatement": [
+        "прекращение договорных отношен Initiates расторжение договора с получате"
+      ],
+      "type": "Event"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 843cba11-26a2-477a-8378-a95d4a90a249: original score 4.736462, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 843cba11-26a2-477a-8378-a95d4a90a249: original score 0.5590529, normalized score: 0.4"
+    }
+  }
+]

@@ -1,0 +1,103 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Операции возврата Перевода",
+      "type": "Process",
+      "hasStatement": [
+        "операции возврата перевода hasResource переводы"
+      ],
+      "chunk_id": "53"
+    },
+    "metadata": {
+      "score": 0.6868841052055359,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document b6d20df4-874b-402f-bf32-c8beb39c05a1: original score 3.6294754, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document b6d20df4-874b-402f-bf32-c8beb39c05a1: original score 0.2864009, normalized score: 0.08688408"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Операция возврата Перевода",
+      "type": "Process",
+      "hasStatement": [
+        "операция возврата перевода relation взаимодействие получателя и эмитента",
+        "операция возврата перевода hasPart перечисление по операции возврата",
+        "операция возврата перевода hasActor получатель"
+      ],
+      "chunk_id": "38"
+    },
+    "metadata": {
+      "score": 0.6554358601570129,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document b2d57c1b-6911-4f72-9c12-a34741845f71: original score 2.236333, normalized score: 0.30059406 - \nHybrid (Result Set vector,hybridVector) Document b2d57c1b-6911-4f72-9c12-a34741845f71: original score 0.41443145, normalized score: 0.3548418"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Перечисление денежных средств по Операции возврата Перевода",
+      "type": "Process",
+      "hasStatement": [
+        "перечисление по операции возврата isPartOf операция возврата перевода",
+        "перечисление по операции возврата hasResource заявление на перечисление по возврату",
+        "перечисление по операции возврата hasResource приложение №3 к договору"
+      ],
+      "chunk_id": "38"
+    },
+    "metadata": {
+      "score": 0.5626769065856934,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 1a036a97-7686-4dea-9b88-163666ea1b57: original score 1.9658973, normalized score: 0.24247368 - \nHybrid (Result Set vector,hybridVector) Document 1a036a97-7686-4dea-9b88-163666ea1b57: original score 0.3978811, normalized score: 0.3202032"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Операция возврата Перевода",
+      "chunk_id": "109",
+      "hasStatement": [
+        "операция возврата перевода hasResource заявление на перечисление по операции воз",
+        "операция возврата перевода hasActor нко",
+        "операция возврата перевода hasResource перечисление",
+        "операция возврата перевода hasResource комиссия нко",
+        "операция возврата перевода hasActor нко",
+        "операция возврата перевода hasResource информация от эмитента"
+      ],
+      "type": "Process"
+    },
+    "metadata": {
+      "score": 0.5432328581809998,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7dae5f37-3808-499b-83af-2dd93b2976cc: original score 2.236333, normalized score: 0.30059406 - \nHybrid (Result Set vector,hybridVector) Document 7dae5f37-3808-499b-83af-2dd93b2976cc: original score 0.3608207, normalized score: 0.24263878"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Операция возврата Перевода",
+      "type": "Process",
+      "hasStatement": [
+        "операция возврата перевода hasResource средство платежа",
+        "операция возврата перевода hasPart информационно-технологическое взаимод",
+        "операция возврата перевода relation порядок взаимодействия сторон"
+      ],
+      "chunk_id": "107"
+    },
+    "metadata": {
+      "score": 0.5203113555908203,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document b9f1c48f-3e33-4095-9ca8-c581a7c64258: original score 2.236333, normalized score: 0.30059406 - \nHybrid (Result Set vector,hybridVector) Document b9f1c48f-3e33-4095-9ca8-c581a7c64258: original score 0.34986877, normalized score: 0.21971726"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Операция возврата Перевода",
+      "type": "Process",
+      "hasStatement": [
+        "операция возврата перевода hasResult сумма операции возврата перевода"
+      ],
+      "chunk_id": "75"
+    },
+    "metadata": {
+      "score": 0.5013572573661804,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document c55d0008-1044-44ef-8cfc-afb78a1687f2: original score 2.236333, normalized score: 0.30059406 - \nHybrid (Result Set vector,hybridVector) Document c55d0008-1044-44ef-8cfc-afb78a1687f2: original score 0.3408125, normalized score: 0.20076321"
+    }
+  }
+]

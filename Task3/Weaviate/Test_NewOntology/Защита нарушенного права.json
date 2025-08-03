@@ -1,0 +1,15 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Защита нарушенного права",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "82"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a51ba426-1a54-430f-96e4-e683bec2c7f5: original score 5.4268737, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document a51ba426-1a54-430f-96e4-e683bec2c7f5: original score 0.5481385, normalized score: 0.4"
+    }
+  }
+]

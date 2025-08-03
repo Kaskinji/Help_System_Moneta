@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "размещение текста Договора на Сайте",
+      "type": "Process",
+      "hasStatement": [
+        "размещение текста договора на сайте hasResource договор",
+        "размещение текста договора на сайте hasResource сайт нко"
+      ],
+      "chunk_id": "3"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 5ad81546-179e-4c89-8ada-7febf536ab19: original score 5.2944884, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 5ad81546-179e-4c89-8ada-7febf536ab19: original score 0.51290536, normalized score: 0.4"
+    }
+  }
+]

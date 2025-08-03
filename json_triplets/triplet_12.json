@@ -1,0 +1,46 @@
+[
+    {
+        "label": "Платежный агрегатор",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Agent",
+        "hasStatement": [
+            "платежный агрегатор isActorOf прием электронных средств платежа"
+        ],
+        "chunk_id": "12"
+    },
+    {
+        "label": "прием электронных средств платежа",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Process",
+        "hasStatement": [
+            "прием электронных средств платежа hasActor платежный агрегатор"
+        ],
+        "chunk_id": "12"
+    },
+    {
+        "label": "1",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Unknown",
+        "hasStatement": [],
+        "chunk_id": "12"
+    },
+    {
+        "label": "\"",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Unknown",
+        "hasStatement": [],
+        "chunk_id": "12"
+    },
+    {
+        "label": "перевод денежных средств",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Process",
+        "hasStatement": [],
+        "chunk_id": "12"
+    }
+]

@@ -1,0 +1,37 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "работа системы монетару",
+      "type": "Process",
+      "hasStatement": [
+        "работа системы монетару hasPart прием распоряжений от платель",
+        "работа системы монетару hasPart информационный обмен сообщен",
+        "работа системы монетару hasActor РУ\"@ru",
+        "работа системы монетару hasResponsible нко"
+      ],
+      "chunk_id": "37"
+    },
+    "metadata": {
+      "score": 0.735183596611023,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 98498d94-56e8-491a-b41e-940760a7d021: original score 4.798059, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 98498d94-56e8-491a-b41e-940760a7d021: original score 0.33972865, normalized score: 0.13518359"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "использование системы монетару",
+      "type": "Process",
+      "hasStatement": [
+        "использование системы монетару hasResult безусловное согласие",
+        "использование системы монетару hasResource РУ\"@ru",
+        "использование системы монетару hasActor получатель"
+      ],
+      "chunk_id": "73"
+    },
+    "metadata": {
+      "score": 0.7025747299194336,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 077fa2a8-a867-4cca-bf42-76e45fd0e4ef: original score 2.886187, normalized score: 0.30257472 - \nHybrid (Result Set vector,hybridVector) Document 077fa2a8-a867-4cca-bf42-76e45fd0e4ef: original score 0.48566616, normalized score: 0.4"
+    }
+  }
+]

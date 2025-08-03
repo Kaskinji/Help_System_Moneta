@@ -1,0 +1,108 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "система монета ру",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "3"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 9466cbfe-8eb6-4402-a1c9-710b820681dc: original score 3.8196018, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 9466cbfe-8eb6-4402-a1c9-710b820681dc: original score 0.5797748, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "система монета ру",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "114"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 4ecf35a6-c96c-4f0e-87cc-aefd3f28111b: original score 3.8196018, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 4ecf35a6-c96c-4f0e-87cc-aefd3f28111b: original score 0.5797748, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "система монета ру",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "89"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document dabd8248-80ab-4977-9536-249783f10be3: original score 3.8196015, normalized score: 0.59999996 - \nHybrid (Result Set vector,hybridVector) Document dabd8248-80ab-4977-9536-249783f10be3: original score 0.5797748, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "система монета ру",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "34"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 009e0f60-abb7-4767-90b7-ed808bf6dd1e: original score 3.8196015, normalized score: 0.59999996 - \nHybrid (Result Set vector,hybridVector) Document 009e0f60-abb7-4767-90b7-ed808bf6dd1e: original score 0.5797748, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Система МОНЕТА РУ",
+      "type": "Resource",
+      "hasStatement": [
+        "Система МОНЕТА РУ isResourceOf повторное подключение Получателя"
+      ],
+      "chunk_id": "26"
+    },
+    "metadata": {
+      "score": 0.8104801774024963,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e211768d-b65e-4099-8def-1b18312c2181: original score 3.8196018, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document e211768d-b65e-4099-8def-1b18312c2181: original score 0.47668636, normalized score: 0.21048014"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "система монетару",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "73"
+    },
+    "metadata": {
+      "score": 0.5163021087646484,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 5be18f35-d4eb-4587-806c-1747c25f749f: original score 1.5293933, normalized score: 0.13768524 - \nHybrid (Result Set vector,hybridVector) Document 5be18f35-d4eb-4587-806c-1747c25f749f: original score 0.56814355, normalized score: 0.3786169"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "система монетару",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "121"
+    },
+    "metadata": {
+      "score": 0.5163021087646484,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 4de5063a-3a2c-48f9-a815-c9bd30f6a091: original score 1.5293933, normalized score: 0.13768524 - \nHybrid (Result Set vector,hybridVector) Document 4de5063a-3a2c-48f9-a815-c9bd30f6a091: original score 0.56814355, normalized score: 0.3786169"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "система монетару",
+      "chunk_id": "118",
+      "hasStatement": [],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 0.5163021087646484,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 48e8d16f-c9b5-49a8-95b1-0bdfa4256f5c: original score 1.5293933, normalized score: 0.13768524 - \nHybrid (Result Set vector,hybridVector) Document 48e8d16f-c9b5-49a8-95b1-0bdfa4256f5c: original score 0.56814355, normalized score: 0.3786169"
+    }
+  }
+]

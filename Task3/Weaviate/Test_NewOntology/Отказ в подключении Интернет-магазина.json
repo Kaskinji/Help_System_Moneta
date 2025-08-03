@@ -1,0 +1,47 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Отказ в подключении Интернет-магазина",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "48"
+    },
+    "metadata": {
+      "score": 0.7519432902336121,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document cc29fc83-3b46-4cc1-9e2f-eb098d538e98: original score 4.781127, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document cc29fc83-3b46-4cc1-9e2f-eb098d538e98: original score 0.2742402, normalized score: 0.15194325"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "отключение интернет-магазина",
+      "type": "Process",
+      "hasStatement": [
+        "отключение интернет-магазина hasResource интернет-магазин",
+        "отключение интернет-магазина hasActor нко"
+      ],
+      "chunk_id": "52"
+    },
+    "metadata": {
+      "score": 0.6157050728797913,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document c9bc8a27-fc56-493a-aa83-009e824c5080: original score 1.9617546, normalized score: 0.21570508 - \nHybrid (Result Set vector,hybridVector) Document c9bc8a27-fc56-493a-aa83-009e824c5080: original score 0.4879738, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Отключение Интернет-магазина",
+      "type": "Process",
+      "hasStatement": [
+        "отключение интернет-магазина hasActor нко",
+        "отключение интернет-магазина hasActor нко"
+      ],
+      "chunk_id": "51"
+    },
+    "metadata": {
+      "score": 0.5272067785263062,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 1ec8915a-5aea-40c0-8fdd-b0593bce9b0e: original score 1.9617546, normalized score: 0.21570508 - \nHybrid (Result Set vector,hybridVector) Document 1ec8915a-5aea-40c0-8fdd-b0593bce9b0e: original score 0.4117208, normalized score: 0.31150168"
+    }
+  }
+]

@@ -1,0 +1,127 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Торговая площадка",
+      "type": "Agent",
+      "hasStatement": [],
+      "chunk_id": "61"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document b8553d74-3a86-4666-8f00-adcf96c13863: original score 3.33826, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document b8553d74-3a86-4666-8f00-adcf96c13863: original score 0.48947322, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Торговая площадка",
+      "type": "Agent",
+      "hasStatement": [
+        "торговая площадка isActorOf информационно-техноло"
+      ],
+      "chunk_id": "5"
+    },
+    "metadata": {
+      "score": 0.9056365489959717,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document c2e168ba-7f04-42ab-9032-1a533709b483: original score 3.33826, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document c2e168ba-7f04-42ab-9032-1a533709b483: original score 0.4438553, normalized score: 0.30563653"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Торговая площадка",
+      "type": "Agent",
+      "hasStatement": [
+        "торговая площадка isActorOf информационно-технологическое взаимод"
+      ],
+      "chunk_id": "119"
+    },
+    "metadata": {
+      "score": 0.9044312238693237,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document c0bfe22f-48c0-46c8-b359-f2d39f05ca00: original score 3.33826, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document c0bfe22f-48c0-46c8-b359-f2d39f05ca00: original score 0.4432726, normalized score: 0.3044312"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Торговая площадка",
+      "type": "Agent",
+      "hasStatement": [
+        "торговая площадка isActorOf передача персональных данных"
+      ],
+      "chunk_id": "49"
+    },
+    "metadata": {
+      "score": 0.8779596090316772,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 392f3ea2-cb09-4a5c-9b9f-13cbaba83e1a: original score 3.33826, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 392f3ea2-cb09-4a5c-9b9f-13cbaba83e1a: original score 0.43047547, normalized score: 0.2779596"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Торговая площадка",
+      "type": "Agent",
+      "hasStatement": [
+        "торговая площадка Initiates создание бизнес счета для получателя",
+        "торговая площадка Initiates распоряжение денежными средствами п",
+        "торговая площадка isActorOf создание бизнес счета для получателя",
+        "торговая площадка isActorOf распоряжение денежными средствами п",
+        "торговая площадка isResponsibleFor распоряжение денежными средствами п"
+      ],
+      "chunk_id": "124"
+    },
+    "metadata": {
+      "score": 0.8051913976669312,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 572d9a04-20d1-4055-a1f4-bd82568c5d12: original score 3.33826, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 572d9a04-20d1-4055-a1f4-bd82568c5d12: original score 0.3952973, normalized score: 0.20519137"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Торговая площадка",
+      "chunk_id": "122",
+      "hasStatement": [
+        "торговая площадка isActorOf регистрация получателя в системе монетару",
+        "торговая площадка isResponsibleFor распоряжение денежными средствами получател"
+      ],
+      "type": "Agent"
+    },
+    "metadata": {
+      "score": 0.7984514236450195,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 5aa20315-4105-409c-80e5-a4153265ddc8: original score 3.33826, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 5aa20315-4105-409c-80e5-a4153265ddc8: original score 0.392039, normalized score: 0.1984514"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Торговая площадка",
+      "type": "Agent",
+      "hasStatement": [
+        "торговая площадка isActorOf регистрация получателя",
+        "торговая площадка isResponsibleFor распоряжение денежных средств"
+      ],
+      "chunk_id": "35"
+    },
+    "metadata": {
+      "score": 0.792199969291687,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 8ae8649e-0eb2-4f9e-bfc9-bcfcabebac42: original score 3.33826, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 8ae8649e-0eb2-4f9e-bfc9-bcfcabebac42: original score 0.38901687, normalized score: 0.19219993"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Торговая площадка",
+      "chunk_id": "10",
+      "hasStatement": [
+        "торговая площадка isActorOf информационно технологическое взаимод",
+        "торговая площадка isResponsibleFor система учета денежных средств пол"
+      ],
+      "type": "Agent"
+    },
+    "metadata": {
+      "score": 0.7885223031044006,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 9a7af2fb-19fb-44f4-acf0-ad37ee6a0de3: original score 3.33826, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 9a7af2fb-19fb-44f4-acf0-ad37ee6a0de3: original score 0.38723898, normalized score: 0.18852226"
+    }
+  }
+]

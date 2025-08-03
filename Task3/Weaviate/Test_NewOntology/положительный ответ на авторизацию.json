@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "положительный ответ на авторизацию",
+      "type": "Event",
+      "hasStatement": [
+        "положительный ответ на авториз Initiates переводы"
+      ],
+      "chunk_id": "37"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 6d9cc22a-4444-41ce-8931-ae8bdbf0890f: original score 5.3794966, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 6d9cc22a-4444-41ce-8931-ae8bdbf0890f: original score 0.5056276, normalized score: 0.4"
+    }
+  }
+]

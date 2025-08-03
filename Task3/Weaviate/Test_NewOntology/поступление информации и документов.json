@@ -1,0 +1,50 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "поступление информации и документов",
+      "type": "Event",
+      "hasStatement": [
+        "поступление информации и докуменto Initiates повторное подключение Получателя",
+        "поступление информации и докуменto Initiates возобновление осуществления расчё",
+        "поступление информации и докуменto Initiates направление уведомления",
+        "поступление информации и докуменto isResultOf предоставление информации и докумен"
+      ],
+      "chunk_id": "26"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a426e79e-12bc-4e5e-b2a7-ececa4ce5653: original score 3.9491034, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document a426e79e-12bc-4e5e-b2a7-ececa4ce5653: original score 0.46403205, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Поступление информации",
+      "type": "Event",
+      "hasStatement": [
+        "поступление информации Initiates направление запроса"
+      ],
+      "chunk_id": "110"
+    },
+    "metadata": {
+      "score": 0.6678971648216248,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 08a082ea-2969-4e6e-af5e-cd813d03b7ea: original score 3.1577854, normalized score: 0.4560099 - \nHybrid (Result Set vector,hybridVector) Document 08a082ea-2969-4e6e-af5e-cd813d03b7ea: original score 0.3665685, normalized score: 0.21188729"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "поступление в НКО информации",
+      "type": "Event",
+      "hasStatement": [
+        "поступление в нко информации Initiates направление запроса"
+      ],
+      "chunk_id": "22"
+    },
+    "metadata": {
+      "score": 0.5159551501274109,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 9a760ff7-e882-4664-a55d-7135b1883d8e: original score 2.0549977, normalized score: 0.25534394 - \nHybrid (Result Set vector,hybridVector) Document 9a760ff7-e882-4664-a55d-7135b1883d8e: original score 0.39181298, normalized score: 0.2606112"
+    }
+  }
+]

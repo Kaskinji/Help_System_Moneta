@@ -1,0 +1,19 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "согласие на передачу информации",
+      "type": "Resource",
+      "hasStatement": [
+        "согласие на передачу информации relation налоговый орган сша",
+        "согласие на передачу информации hasResponsible получатель",
+        "согласие на передачу информации relation налоговый орган сша"
+      ],
+      "chunk_id": "42"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e01b5c52-bd1a-4bf6-b752-a7bcd640195f: original score 4.7409782, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document e01b5c52-bd1a-4bf6-b752-a7bcd640195f: original score 0.5162001, normalized score: 0.4"
+    }
+  }
+]

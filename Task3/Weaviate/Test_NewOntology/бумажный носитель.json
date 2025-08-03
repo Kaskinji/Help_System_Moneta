@@ -1,0 +1,58 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "бумажный носитель",
+      "chunk_id": "60",
+      "hasStatement": [],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e698f6ca-0043-43d4-8806-a963205f1e2d: original score 4.0665603, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document e698f6ca-0043-43d4-8806-a963205f1e2d: original score 0.42700297, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "бумажный носитель",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "80"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a9642dcd-02a8-4aba-98dd-eb22dde3a838: original score 4.0665603, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document a9642dcd-02a8-4aba-98dd-eb22dde3a838: original score 0.42700297, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "бумажный носитель",
+      "chunk_id": "23",
+      "hasStatement": [
+        "бумажный носитель isResourceOf предоставление документов и информации"
+      ],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 0.9683923721313477,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document d19e093c-5c80-4f25-88d8-6bf115306284: original score 4.0665603, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document d19e093c-5c80-4f25-88d8-6bf115306284: original score 0.41784763, normalized score: 0.36839232"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "бумажный носитель",
+      "type": "Resource",
+      "hasStatement": [
+        "бумажный носитель isResourceOf предоставление документов и информации"
+      ],
+      "chunk_id": "111"
+    },
+    "metadata": {
+      "score": 0.9683923721313477,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 5c01ee77-2dd9-4f7a-be7d-b46b788006fc: original score 4.0665603, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 5c01ee77-2dd9-4f7a-be7d-b46b788006fc: original score 0.41784763, normalized score: 0.36839232"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "получение претензии",
+      "chunk_id": "43",
+      "hasStatement": [
+        "получение претензии isResultOf недействительный перевод"
+      ],
+      "type": "Event"
+    },
+    "metadata": {
+      "score": 0.8351088762283325,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 82edbc9c-43d4-4a19-9a2f-4527018d7956: original score 3.7153144, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 82edbc9c-43d4-4a19-9a2f-4527018d7956: original score 0.33100635, normalized score: 0.23510884"
+    }
+  }
+]

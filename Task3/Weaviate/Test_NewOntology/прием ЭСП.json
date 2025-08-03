@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "прием ЭСП",
+      "type": "Process",
+      "hasStatement": [
+        "прием эсп isPartOf информационно-технологическое взаимод"
+      ],
+      "chunk_id": "119"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ef47a6eb-dece-40d6-af8b-427988daf1d8: original score 4.1561375, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document ef47a6eb-dece-40d6-af8b-427988daf1d8: original score 0.44214815, normalized score: 0.4"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Невостребованный остаток",
+      "type": "Resource",
+      "hasStatement": [
+        "невостребованный остаток isResourceOf списание"
+      ],
+      "chunk_id": "95"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document fe933776-84c2-4d69-8472-4fc8e12de4c8: original score 4.365644, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document fe933776-84c2-4d69-8472-4fc8e12de4c8: original score 0.349383, normalized score: 0.4"
+    }
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "юридические лица",
+      "type": "Agent",
+      "hasStatement": [
+        "юридические лица isActorOf перевод денежных средств",
+        "юридические лица isActorOf осуществление информационно-технологического"
+      ],
+      "chunk_id": "3"
+    },
+    "metadata": {
+      "score": 0.6661863923072815,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 51d5a632-c135-481e-b373-545f121dd67e: original score 4.009735, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 51d5a632-c135-481e-b373-545f121dd67e: original score 0.20665371, normalized score: 0.06618636"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "юридические лица",
+      "type": "Agent",
+      "hasStatement": [
+        "юридические лица isActorOf перевод"
+      ],
+      "chunk_id": "20"
+    },
+    "metadata": {
+      "score": 0.6239405870437622,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 4790149e-d642-4f4c-9ca8-e4bbd23bb6c4: original score 4.009735, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 4790149e-d642-4f4c-9ca8-e4bbd23bb6c4: original score 0.18499595, normalized score: 0.023940539"
+    }
+  }
+]

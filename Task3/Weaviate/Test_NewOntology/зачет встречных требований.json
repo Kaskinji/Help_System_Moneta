@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "зачет встречных требований",
+      "type": "Process",
+      "hasStatement": [
+        "зачет встречных требований hasActor нко",
+        "зачет встречных требований hasResource встречные требования"
+      ],
+      "chunk_id": "76"
+    },
+    "metadata": {
+      "score": 0.942572832107544,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 453a6af9-b0f1-434b-a68d-9cd0c5bbff2b: original score 4.988809, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 453a6af9-b0f1-434b-a68d-9cd0c5bbff2b: original score 0.48457372, normalized score: 0.34257284"
+    }
+  }
+]

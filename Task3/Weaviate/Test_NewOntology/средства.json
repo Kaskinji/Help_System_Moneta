@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "средства",
+      "type": "Resource",
+      "hasStatement": [
+        "средства isResourceOf возврат средств плательщику"
+      ],
+      "chunk_id": "45"
+    },
+    "metadata": {
+      "score": 0.691409170627594,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 16f15473-f51b-49ca-a369-6462c5166ada: original score 2.1459787, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 16f15473-f51b-49ca-a369-6462c5166ada: original score 0.28029436, normalized score: 0.091409154"
+    }
+  }
+]

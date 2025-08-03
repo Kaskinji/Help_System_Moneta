@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Положительное сообщение о приеме Перевода",
+      "type": "Resource",
+      "hasStatement": [
+        "положительное сообщение о приеме перевода isResourceOf отказ в приеме распоряжения"
+      ],
+      "chunk_id": "38"
+    },
+    "metadata": {
+      "score": 0.7823035717010498,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 104a907c-d229-484d-88f1-ec049a4f175c: original score 4.7505293, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 104a907c-d229-484d-88f1-ec049a4f175c: original score 0.396088, normalized score: 0.18230352"
+    }
+  }
+]

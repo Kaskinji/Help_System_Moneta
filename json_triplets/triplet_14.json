@@ -1,0 +1,133 @@
+[
+    {
+        "label": "подключение к системе монетару",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Process",
+        "hasStatement": [
+            "подключение к системе монетару hasPart РУ\"@ru",
+            "подключение к системе монетару hasPart предоставление в нко данных о п",
+            "подключение к системе монетару hasPart РУ\"@ru",
+            "подключение к системе монетару hasActor получатель",
+            "подключение к системе монетару hasActor торговая площадка"
+        ],
+        "chunk_id": "14"
+    },
+    {
+        "label": "РУ\"@ru",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Unknown",
+        "hasStatement": [
+            "РУ\"@ru relation получатель",
+            "РУ\"@ru isPartOf подключение к системе монетару",
+            "РУ\"@ru isPartOf подключение к системе монетару"
+        ],
+        "chunk_id": "14"
+    },
+    {
+        "label": "Получатель",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Agent",
+        "hasStatement": [
+            "получатель relation РУ\"@ru",
+            "получатель isActorOf подключение к системе монетару"
+        ],
+        "chunk_id": "14"
+    },
+    {
+        "label": "РУ",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Unknown",
+        "hasStatement": [],
+        "chunk_id": "14"
+    },
+    {
+        "label": "регистрация получателя в системе монетару",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Process",
+        "hasStatement": [],
+        "chunk_id": "14"
+    },
+    {
+        "label": "предоставление в НКО данных о Получателе",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Process",
+        "hasStatement": [
+            "предоставление в нко данных о п isPartOf подключение к системе монетару",
+            "предоставление в нко данных о п hasResource данные о получателе"
+        ],
+        "chunk_id": "14"
+    },
+    {
+        "label": "создание бизнес-счета для получа",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Process",
+        "hasStatement": [
+            "создание бизнес-счета для получа hasResult бизнес-счет"
+        ],
+        "chunk_id": "14"
+    },
+    {
+        "label": "Платежный пароль",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Resource",
+        "hasStatement": [
+            "платежный пароль relation бизнес-счет"
+        ],
+        "chunk_id": "14"
+    },
+    {
+        "label": "Бизнес-счет",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Resource",
+        "hasStatement": [
+            "бизнес-счет relation платежный пароль",
+            "бизнес-счет isResultOf создание бизнес-счета для получа"
+        ],
+        "chunk_id": "14"
+    },
+    {
+        "label": "Платежный",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Unknown",
+        "hasStatement": [],
+        "chunk_id": "14"
+    },
+    {
+        "label": "\"",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Unknown",
+        "hasStatement": [],
+        "chunk_id": "14"
+    },
+    {
+        "label": "данные о Получателе",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Resource",
+        "hasStatement": [
+            "данные о получателе isResourceOf предоставление в нко данных о п"
+        ],
+        "chunk_id": "14"
+    },
+    {
+        "label": "Торговая площадка",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Agent",
+        "hasStatement": [
+            "торговая площадка isActorOf подключение к системе монетару"
+        ],
+        "chunk_id": "14"
+    }
+]

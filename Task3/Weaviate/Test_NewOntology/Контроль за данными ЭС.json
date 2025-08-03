@@ -1,0 +1,35 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Контроль за данными ЭС",
+      "type": "Process",
+      "hasStatement": [
+        "контроль за данными эс hasActor стороны",
+        "контроль за данными эс isPartOf информационный обмен"
+      ],
+      "chunk_id": "103"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document b71944be-4006-4ef8-a59f-339011ae0220: original score 5.1513133, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document b71944be-4006-4ef8-a59f-339011ae0220: original score 0.47300166, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "контроль",
+      "type": "Process",
+      "hasStatement": [
+        "контроль hasResource электронные сообщения",
+        "контроль hasActor стороны",
+        "контроль hasResult обнаруженная ошибка"
+      ],
+      "chunk_id": "14"
+    },
+    "metadata": {
+      "score": 0.5029874444007874,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ba01d3a2-ba62-4900-967d-0c0818f7c488: original score 3.0652502, normalized score: 0.32796985 - \nHybrid (Result Set vector,hybridVector) Document ba01d3a2-ba62-4900-967d-0c0818f7c488: original score 0.39909387, normalized score: 0.17501758"
+    }
+  }
+]

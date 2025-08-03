@@ -1,0 +1,135 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Информационно-технологическое взаимодействие между Получателем и Эмитентом",
+      "type": "Process",
+      "hasStatement": [
+        "взаимодействие получателя и эмитента relation операция возврата перевода",
+        "взаимодействие получателя и эмитента hasActor получатель"
+      ],
+      "chunk_id": "38"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document f5753ef7-fb89-4485-a384-520d379a18c3: original score 5.192079, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document f5753ef7-fb89-4485-a384-520d379a18c3: original score 0.63019586, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "информационно-технологическое взаимодействие",
+      "type": "Process",
+      "hasStatement": [
+        "информационно технологическое взаимод isPartOf информационный обмен"
+      ],
+      "chunk_id": "17"
+    },
+    "metadata": {
+      "score": 0.6584634780883789,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 25c5be9f-52fb-4365-bfc6-d841413ad52d: original score 3.2853582, normalized score: 0.35460043 - \nHybrid (Result Set vector,hybridVector) Document 25c5be9f-52fb-4365-bfc6-d841413ad52d: original score 0.5800182, normalized score: 0.30386302"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Информационно-технологическое взаимодействие",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "103"
+    },
+    "metadata": {
+      "score": 0.6219640970230103,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a116082a-0b8b-4928-ad48-ffdd1d0f6f9d: original score 3.2853582, normalized score: 0.35460043 - \nHybrid (Result Set vector,hybridVector) Document a116082a-0b8b-4928-ad48-ffdd1d0f6f9d: original score 0.5609678, normalized score: 0.2673637"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "информационно-технологическое взаимодействие",
+      "chunk_id": "10",
+      "hasStatement": [
+        "информационно технологическое взаимод hasActor торговая площадка",
+        "информационно технологическое взаимод hasResource система учета денежных средств пол"
+      ],
+      "type": "Process"
+    },
+    "metadata": {
+      "score": 0.555792510509491,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 2f65d2bd-4eba-48f0-a31a-172bbaf0feef: original score 3.2853582, normalized score: 0.35460043 - \nHybrid (Result Set vector,hybridVector) Document 2f65d2bd-4eba-48f0-a31a-172bbaf0feef: original score 0.52643025, normalized score: 0.20119207"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "информационно-технологическое взаимодействие",
+      "type": "Process",
+      "hasStatement": [
+        "информационно технологическое взаимод hasActor получатель",
+        "информационно технологическое взаимод hasActor интернет магазин",
+        "информационно технологическое взаимод hasActor нко"
+      ],
+      "chunk_id": "113"
+    },
+    "metadata": {
+      "score": 0.5287610292434692,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a6a8d34f-40f4-4ec6-a8b5-e0c29881ab80: original score 3.2853582, normalized score: 0.35460043 - \nHybrid (Result Set vector,hybridVector) Document a6a8d34f-40f4-4ec6-a8b5-e0c29881ab80: original score 0.5123215, normalized score: 0.17416058"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Информационно-технологическое взаимодействие",
+      "type": "Process",
+      "hasStatement": [
+        "информационно-технологическое взаимод hasActor торговая площадка",
+        "информационно-технологическое взаимод hasActor нко",
+        "информационно-технологическое взаимод hasPart прием эсп",
+        "информационно-технологическое взаимод hasPart участие в переводе денежных средс"
+      ],
+      "chunk_id": "119"
+    },
+    "metadata": {
+      "score": 0.5241462588310242,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 312d75d5-5888-4426-b582-0e0e5dd21245: original score 3.2853582, normalized score: 0.35460043 - \nHybrid (Result Set vector,hybridVector) Document 312d75d5-5888-4426-b582-0e0e5dd21245: original score 0.50991285, normalized score: 0.16954583"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "информационно-технологическое взаимодействие",
+      "chunk_id": "18",
+      "hasStatement": [
+        "информационно-технологическое взаимодействие isPartOf операция возврата перевода",
+        "информационно-технологическое взаимодействие hasActor нко",
+        "информационно-технологическое взаимодействие hasActor получатель",
+        "информационно-технологическое взаимодействие hasActor эмитент"
+      ],
+      "type": "Process"
+    },
+    "metadata": {
+      "score": 0.5164058804512024,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document c0c4857f-fea0-4c30-afb2-02557d9a85d7: original score 3.2853582, normalized score: 0.35460043 - \nHybrid (Result Set vector,hybridVector) Document c0c4857f-fea0-4c30-afb2-02557d9a85d7: original score 0.50587285, normalized score: 0.16180545"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Информационно-технологическое взаимодействие",
+      "chunk_id": "108",
+      "hasStatement": [
+        "информационно технологическое взаимодей hasActor нко",
+        "информационно технологическое взаимодей hasActor получатель",
+        "информационно технологическое взаимодей hasActor эмитент",
+        "информационно технологическое взаимодей relation нко",
+        "информационно технологическое взаимодей relation получатель",
+        "информационно технологическое взаимодей relation эмитент"
+      ],
+      "type": "Process"
+    },
+    "metadata": {
+      "score": 0.5149703025817871,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 32bad2ae-935d-456c-b171-768b2c6a3f58: original score 3.2853582, normalized score: 0.35460043 - \nHybrid (Result Set vector,hybridVector) Document 32bad2ae-935d-456c-b171-768b2c6a3f58: original score 0.50512356, normalized score: 0.16036986"
+    }
+  }
+]

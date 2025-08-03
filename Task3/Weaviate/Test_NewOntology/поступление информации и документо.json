@@ -1,0 +1,35 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "поступление информации и документо",
+      "type": "Unknown",
+      "hasStatement": [
+        "поступление информации и документо isResultOf предоставление информации и докумен"
+      ],
+      "chunk_id": "26"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document c49e1ac8-fcd1-4747-a003-aff177cc3d9d: original score 4.4409122, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document c49e1ac8-fcd1-4747-a003-aff177cc3d9d: original score 0.52879417, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "поступление информации",
+      "type": "Unknown",
+      "hasStatement": [
+        "поступление информации Initiates взаимодействие",
+        "поступление информации relation реализация запрещенных услуг",
+        "поступление информации relation нко",
+        "поступление информации relation получатель"
+      ],
+      "chunk_id": "68"
+    },
+    "metadata": {
+      "score": 0.5414284467697144,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 89f841a1-8a41-4520-9a56-d67fb1c1646e: original score 3.1577854, normalized score: 0.39487076 - \nHybrid (Result Set vector,hybridVector) Document 89f841a1-8a41-4520-9a56-d67fb1c1646e: original score 0.42305255, normalized score: 0.14655767"
+    }
+  }
+]

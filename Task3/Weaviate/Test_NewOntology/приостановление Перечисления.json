@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "приостановление Перечисления",
+      "type": "Event",
+      "hasStatement": [
+        "приостановление перечисления Initiates подтверждение заявления о перечислении"
+      ],
+      "chunk_id": "62"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7bd5449c-ec63-4cdb-98f4-514c962114a7: original score 3.9740622, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 7bd5449c-ec63-4cdb-98f4-514c962114a7: original score 0.50473154, normalized score: 0.4"
+    }
+  }
+]

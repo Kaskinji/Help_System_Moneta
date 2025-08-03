@@ -1,0 +1,15 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "раскрытие информации",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "57"
+    },
+    "metadata": {
+      "score": 0.9154696464538574,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ed1ea564-e2ba-495c-8f21-77d1f9897940: original score 3.7760544, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document ed1ea564-e2ba-495c-8f21-77d1f9897940: original score 0.48371392, normalized score: 0.31546965"
+    }
+  }
+]

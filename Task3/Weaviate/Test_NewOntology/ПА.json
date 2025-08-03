@@ -1,0 +1,34 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "ПА",
+      "type": "Agent",
+      "hasStatement": [
+        "па isResponsibleFor прием электронных средств плат"
+      ],
+      "chunk_id": "48"
+    },
+    "metadata": {
+      "score": 0.9323621988296509,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document d4a30554-21dd-485d-a0ef-5f7a6e39a181: original score 3.0652502, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document d4a30554-21dd-485d-a0ef-5f7a6e39a181: original score 0.31657982, normalized score: 0.3323622"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "ПА",
+      "type": "Agent",
+      "hasStatement": [
+        "па relation нко",
+        "па isActorOf перевод",
+        "па relation получатель"
+      ],
+      "chunk_id": "20"
+    },
+    "metadata": {
+      "score": 0.9082221984863281,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e403f6a5-3113-4010-8e18-06821de31a09: original score 3.0652502, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document e403f6a5-3113-4010-8e18-06821de31a09: original score 0.31096792, normalized score: 0.30822217"
+    }
+  }
+]

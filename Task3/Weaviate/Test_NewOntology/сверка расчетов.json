@@ -1,0 +1,21 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "сверка расчетов",
+      "chunk_id": "92",
+      "hasStatement": [
+        "сверка расчетов hasResult денежные обязательства",
+        "сверка расчетов hasActor нко",
+        "сверка расчетов hasActor плательщики",
+        "сверка расчетов hasResource договор",
+        "сверка расчетов hasResource уведомление о расторжении договора"
+      ],
+      "type": "Process"
+    },
+    "metadata": {
+      "score": 0.7217722535133362,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 27a97982-a269-4d04-b015-cd13e67c505f: original score 4.0665603, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 27a97982-a269-4d04-b015-cd13e67c505f: original score 0.4428869, normalized score: 0.12177222"
+    }
+  }
+]

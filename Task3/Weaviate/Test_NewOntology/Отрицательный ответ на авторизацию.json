@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Отрицательный ответ на авторизацию",
+      "chunk_id": "38",
+      "hasStatement": [
+        "отрицательный ответ на авторизацию isResourceOf отказ в приеме распоряжения"
+      ],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 387d24f0-87de-4109-82e7-1359ddf6bd28: original score 5.3794966, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 387d24f0-87de-4109-82e7-1359ddf6bd28: original score 0.58471245, normalized score: 0.4"
+    }
+  }
+]

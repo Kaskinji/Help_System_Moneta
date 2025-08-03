@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "КПП",
+      "type": "Resource",
+      "hasStatement": [
+        "кпп hasResponsible небанковская кредитная организация"
+      ],
+      "chunk_id": "100"
+    },
+    "metadata": {
+      "score": 0.6185228228569031,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 3faa8cc9-a0b9-4efc-b392-08b9ed28b76b: original score 3.314095, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 3faa8cc9-a0b9-4efc-b392-08b9ed28b76b: original score 0.33240366, normalized score: 0.018522777"
+    }
+  }
+]

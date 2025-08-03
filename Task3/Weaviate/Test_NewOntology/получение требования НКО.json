@@ -1,0 +1,45 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "получение требования НКО",
+      "type": "Event",
+      "hasStatement": [
+        "получение требования нко Initiates выплата пени"
+      ],
+      "chunk_id": "83"
+    },
+    "metadata": {
+      "score": 0.983488917350769,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7a3cec48-3299-4ca2-a46d-2e034ead8170: original score 3.1269841, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 7a3cec48-3299-4ca2-a46d-2e034ead8170: original score 0.2692827, normalized score: 0.3834889"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "получение требования Получателя",
+      "type": "Event",
+      "hasStatement": [
+        "получение требования получателя Initiates выплата неустойки"
+      ],
+      "chunk_id": "83"
+    },
+    "metadata": {
+      "score": 0.8453308343887329,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document f2cb3d18-4f78-41eb-82c6-2b9cf9c2176e: original score 2.461409, normalized score: 0.4631269 - \nHybrid (Result Set vector,hybridVector) Document f2cb3d18-4f78-41eb-82c6-2b9cf9c2176e: original score 0.2685203, normalized score: 0.38220394"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Получение заявления",
+      "type": "Event",
+      "hasStatement": [],
+      "chunk_id": "106"
+    },
+    "metadata": {
+      "score": 0.5116990208625793,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 284d9ba9-fcff-4c0c-9066-14524bd96425: original score 1.5924572, normalized score: 0.28443003 - \nHybrid (Result Set vector,hybridVector) Document 284d9ba9-fcff-4c0c-9066-14524bd96425: original score 0.17659307, normalized score: 0.22726898"
+    }
+  }
+]

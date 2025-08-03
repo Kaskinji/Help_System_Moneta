@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "идентификационные данные",
+      "type": "Resource",
+      "hasStatement": [
+        "идентификационные данные isResourceOf сообщение нко сведений документа"
+      ],
+      "chunk_id": "52"
+    },
+    "metadata": {
+      "score": 0.7353858351707458,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7bdd85ad-ff96-437b-bb43-013b2511d589: original score 3.8844852, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 7bdd85ad-ff96-437b-bb43-013b2511d589: original score 0.5415007, normalized score: 0.1353858"
+    }
+  }
+]

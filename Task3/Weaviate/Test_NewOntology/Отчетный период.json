@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Отчетный период",
+      "type": "Resource",
+      "hasStatement": [
+        "отчетный период relation отсутствие переводов"
+      ],
+      "chunk_id": "41"
+    },
+    "metadata": {
+      "score": 0.7578991055488586,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 40788233-bfa0-4708-9675-585cf9905578: original score 3.5338967, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 40788233-bfa0-4708-9675-585cf9905578: original score 0.39624244, normalized score: 0.1578991"
+    }
+  }
+]

@@ -1,0 +1,136 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "предоставление информации и документов",
+      "type": "Process",
+      "hasStatement": [
+        "предоставление информации и документов hasActor получатель",
+        "предоставление информации и документов hasResource информация",
+        "предоставление информации и документов hasResource документы"
+      ],
+      "chunk_id": "24"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 635b47d0-6f03-4c48-9751-1352cae876ae: original score 3.7448983, normalized score: 0.59999996 - \nHybrid (Result Set vector,hybridVector) Document 635b47d0-6f03-4c48-9751-1352cae876ae: original score 0.54273224, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "предоставление документов и информации",
+      "type": "Process",
+      "hasStatement": [
+        "предоставление документов и информации hasActor уполномоченный представитель получателя",
+        "предоставление документов и информации hasResource документы и информация",
+        "предоставление документов и информации hasResource бумажный носитель",
+        "предоставление документов и информации isPartOf выполнение обязанности получателя"
+      ],
+      "chunk_id": "23"
+    },
+    "metadata": {
+      "score": 0.9675309658050537,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 367c6097-1884-46c4-87ff-8ab12d8baf89: original score 3.7448983, normalized score: 0.59999996 - \nHybrid (Result Set vector,hybridVector) Document 367c6097-1884-46c4-87ff-8ab12d8baf89: original score 0.5305207, normalized score: 0.36753103"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "предоставление документов и информации",
+      "type": "Process",
+      "hasStatement": [
+        "предоставление документов и информации hasActor получатель",
+        "предоставление документов и информации hasResource документы",
+        "предоставление документов и информации hasResource информация",
+        "предоставление документов и информации hasResource бумажный носитель",
+        "предоставление документов и информации hasResource подпись уполномоченного представителя"
+      ],
+      "chunk_id": "111"
+    },
+    "metadata": {
+      "score": 0.9619787931442261,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 51629c6f-857e-4442-aa7f-b147bacfdd06: original score 3.7448986, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 51629c6f-857e-4442-aa7f-b147bacfdd06: original score 0.5284325, normalized score: 0.36197877"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "предоставление информации и документов",
+      "type": "Process",
+      "hasStatement": [
+        "предоставление информации и докумен hasActor Получатель",
+        "предоставление информации и докумен hasResult информация и документы",
+        "предоставление информации и докумен hasResult информация и документы",
+        "предоставление информации и докумен hasResult поступление информации и документо",
+        "предоставление информации и докумен hasResult поступление информации и докуменto"
+      ],
+      "chunk_id": "26"
+    },
+    "metadata": {
+      "score": 0.9342966675758362,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7101ad68-7933-4c67-8e76-ed88083cb77e: original score 3.7448983, normalized score: 0.59999996 - \nHybrid (Result Set vector,hybridVector) Document 7101ad68-7933-4c67-8e76-ed88083cb77e: original score 0.5180213, normalized score: 0.3342967"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "предоставление документов",
+      "type": "Process",
+      "hasStatement": [
+        "предоставление документов relation документы"
+      ],
+      "chunk_id": "84"
+    },
+    "metadata": {
+      "score": 0.8294872045516968,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document c0746d5f-1286-41a7-914b-4d0f123d53e2: original score 3.161934, normalized score: 0.4911952 - \nHybrid (Result Set vector,hybridVector) Document c0746d5f-1286-41a7-914b-4d0f123d53e2: original score 0.5195239, normalized score: 0.33829203"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "запрос информации и документов",
+      "type": "Process",
+      "hasStatement": [
+        "запрос информации и документов hasResult информация и документы"
+      ],
+      "chunk_id": "49"
+    },
+    "metadata": {
+      "score": 0.8127272725105286,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document c631dee8-1071-4498-ba7a-d559e09f61c9: original score 2.7734237, normalized score: 0.41868347 - \nHybrid (Result Set vector,hybridVector) Document c631dee8-1071-4498-ba7a-d559e09f61c9: original score 0.5404921, normalized score: 0.3940438"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Предоставление документов",
+      "chunk_id": "110",
+      "hasStatement": [
+        "предоставление документов hasResult документы"
+      ],
+      "type": "Process"
+    },
+    "metadata": {
+      "score": 0.8099938631057739,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document cc6665db-4333-45a0-bade-ec9f15795b15: original score 3.161934, normalized score: 0.4911952 - \nHybrid (Result Set vector,hybridVector) Document cc6665db-4333-45a0-bade-ec9f15795b15: original score 0.5121925, normalized score: 0.3187987"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "предоставление сведений и документов",
+      "type": "Process",
+      "hasStatement": [
+        "предоставление сведений и доку hasResource запрос нко",
+        "предоставление сведений и доку hasResult сведения и документы"
+      ],
+      "chunk_id": "56"
+    },
+    "metadata": {
+      "score": 0.6711562871932983,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document cd4d4450-567e-411f-ad8e-ba4e446d3e19: original score 2.8655806, normalized score: 0.4358837 - \nHybrid (Result Set vector,hybridVector) Document cd4d4450-567e-411f-ad8e-ba4e446d3e19: original score 0.4807784, normalized score: 0.2352726"
+    }
+  }
+]

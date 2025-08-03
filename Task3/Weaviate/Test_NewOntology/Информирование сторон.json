@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Информирование сторон",
+      "type": "Process",
+      "hasStatement": [
+        "информирование сторон hasActor стороны",
+        "информирование сторон isPartOf исполнение договора"
+      ],
+      "chunk_id": "63"
+    },
+    "metadata": {
+      "score": 0.9770147800445557,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 23d64263-2ad0-490c-91bc-ca1bf1061fe7: original score 4.123712, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 23d64263-2ad0-490c-91bc-ca1bf1061fe7: original score 0.48465228, normalized score: 0.37701476"
+    }
+  }
+]

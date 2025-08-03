@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Приостановление Информационного обмена",
+      "type": "Event",
+      "hasStatement": [
+        "приостановление информационного обм relation информационный обмен"
+      ],
+      "chunk_id": "17"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ed881909-139d-4c2c-90f4-b742b6318ee9: original score 4.7672305, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document ed881909-139d-4c2c-90f4-b742b6318ee9: original score 0.5305884, normalized score: 0.4"
+    }
+  }
+]

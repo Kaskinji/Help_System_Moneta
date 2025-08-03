@@ -1,0 +1,35 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Акт подписанный Получателем",
+      "type": "Resource",
+      "hasStatement": [
+        "акт подписанный получателем isResultOf подписание и направление акта",
+        "акт подписанный получателем isResourceOf подписание и отправка акта",
+        "акт подписанный получателем isResultOf подписание и направление акта"
+      ],
+      "chunk_id": "81"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7a3852d0-f5a8-4f27-a0d9-6790a9e97e2a: original score 4.322329, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 7a3852d0-f5a8-4f27-a0d9-6790a9e97e2a: original score 0.5562837, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Акт подписанный Сторонами",
+      "type": "Resource",
+      "hasStatement": [
+        "акт подписанный сторонами isResultOf подписание и отправка акта",
+        "акт подписанный сторонами isResultOf подписание и отправка акта"
+      ],
+      "chunk_id": "81"
+    },
+    "metadata": {
+      "score": 0.7179019451141357,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e0631fa1-4357-4c8c-a5b0-2666525b00a8: original score 3.0843334, normalized score: 0.41393858 - \nHybrid (Result Set vector,hybridVector) Document e0631fa1-4357-4c8c-a5b0-2666525b00a8: original score 0.49029607, normalized score: 0.30396336"
+    }
+  }
+]

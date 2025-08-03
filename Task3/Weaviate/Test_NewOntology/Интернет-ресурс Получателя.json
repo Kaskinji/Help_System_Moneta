@@ -1,0 +1,60 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "интернет-ресурс",
+      "type": "Resource",
+      "hasStatement": [
+        "интернет ресурс isResourceOf прием переводов от физических лиц"
+      ],
+      "chunk_id": "118"
+    },
+    "metadata": {
+      "score": 0.8021407127380371,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document adf1d91c-cf64-4cf8-8c95-ef03ed9437f9: original score 2.7789145, normalized score: 0.50448215 - \nHybrid (Result Set vector,hybridVector) Document adf1d91c-cf64-4cf8-8c95-ef03ed9437f9: original score 0.5002612, normalized score: 0.29765853"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "интернет-ресурс",
+      "type": "Resource",
+      "hasStatement": [
+        "интернет ресурс relation прием переводов"
+      ],
+      "chunk_id": "33"
+    },
+    "metadata": {
+      "score": 0.6394351720809937,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 9adc7e44-fa0f-4215-adb0-20715ba44441: original score 2.7789145, normalized score: 0.50448215 - \nHybrid (Result Set vector,hybridVector) Document 9adc7e44-fa0f-4215-adb0-20715ba44441: original score 0.42707908, normalized score: 0.13495302"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Интернет-ресурс Получателя",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "119"
+    },
+    "metadata": {
+      "score": 0.6344921588897705,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 68942ed3-7116-40b5-b9c9-65512044a226: original score 3.2265716, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 68942ed3-7116-40b5-b9c9-65512044a226: original score 0.38189352, normalized score: 0.034492124"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "интернет-ресурс",
+      "type": "Resource",
+      "hasStatement": [
+        "интернет-ресурс isResourceOf открыт прием переводов"
+      ],
+      "chunk_id": "120"
+    },
+    "metadata": {
+      "score": 0.5462450385093689,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 594cdd3b-a1a0-444a-bd5d-ca0a9e28af4e: original score 2.7789145, normalized score: 0.50448215 - \nHybrid (Result Set vector,hybridVector) Document 594cdd3b-a1a0-444a-bd5d-ca0a9e28af4e: original score 0.38516378, normalized score: 0.0417629"
+    }
+  }
+]

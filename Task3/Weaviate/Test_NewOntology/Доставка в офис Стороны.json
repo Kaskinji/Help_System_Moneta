@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Доставка в офис Стороны",
+      "type": "Process",
+      "hasStatement": [
+        "доставка в офис стороны isResourceOf адрес нко",
+        "доставка в офис стороны isActorOf получатель"
+      ],
+      "chunk_id": "88"
+    },
+    "metadata": {
+      "score": 0.7253777980804443,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 168e21b0-6c5c-499d-bedc-a69589346759: original score 4.7972097, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 168e21b0-6c5c-499d-bedc-a69589346759: original score 0.22829336, normalized score: 0.12537779"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "выполнение обязанности Получателя",
+      "type": "Process",
+      "hasStatement": [
+        "выполнение обязанности получателя hasPart направление сообщения",
+        "выполнение обязанности получателя hasPart предоставление документов и информации"
+      ],
+      "chunk_id": "23"
+    },
+    "metadata": {
+      "score": 0.8577734231948853,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document d1e82b78-7aa0-4b54-ad38-cb5a51524419: original score 4.382918, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document d1e82b78-7aa0-4b54-ad38-cb5a51524419: original score 0.34841657, normalized score: 0.25777337"
+    }
+  }
+]

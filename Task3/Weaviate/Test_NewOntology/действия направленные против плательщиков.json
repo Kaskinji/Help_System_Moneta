@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "действия направленные против плательщиков",
+      "type": "Unknown",
+      "hasStatement": [
+        "действия направленные против плательщиков hasResponsible получатель",
+        "действия направленные против плательщиков relation перевод"
+      ],
+      "chunk_id": "82"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 4713291d-8dc4-4ec5-a133-91d917a1021e: original score 5.765486, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 4713291d-8dc4-4ec5-a133-91d917a1021e: original score 0.4296233, normalized score: 0.4"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "создание бизнес счета для получателя",
+      "type": "Process",
+      "hasStatement": [
+        "создание бизнес счета для получателя hasActor торговая площадка"
+      ],
+      "chunk_id": "124"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a80e2703-bcd0-413f-ac84-a6d8d8962a46: original score 5.0911508, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document a80e2703-bcd0-413f-ac84-a6d8d8962a46: original score 0.6280608, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "создание Бизнес - счета для Получателя",
+      "type": "Process",
+      "hasStatement": [
+        "создание бизнес счета для получателя hasResult бизнес счет"
+      ],
+      "chunk_id": "122"
+    },
+    "metadata": {
+      "score": 0.9066311120986938,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 4ff12550-415b-4ac5-892d-9785c24f110b: original score 4.432266, normalized score: 0.51609975 - \nHybrid (Result Set vector,hybridVector) Document 4ff12550-415b-4ac5-892d-9785c24f110b: original score 0.61863786, normalized score: 0.3905314"
+    }
+  }
+]

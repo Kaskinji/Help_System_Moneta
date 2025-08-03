@@ -1,0 +1,20 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Доведение информации до сведения",
+      "type": "Process",
+      "hasStatement": [
+        "доведение информации до сведения hasActor нко",
+        "доведение информации до сведения hasResource личный кабинет",
+        "доведение информации до сведения hasActor нко",
+        "доведение информации до сведения hasResource информация о невозможности исполнить заяв"
+      ],
+      "chunk_id": "109"
+    },
+    "metadata": {
+      "score": 0.8817522525787354,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 9e8ea916-fd61-4957-8c2c-9e16262e121a: original score 5.3585825, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 9e8ea916-fd61-4957-8c2c-9e16262e121a: original score 0.5199816, normalized score: 0.28175223"
+    }
+  }
+]

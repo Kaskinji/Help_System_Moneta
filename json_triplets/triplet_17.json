@@ -1,0 +1,26 @@
+[
+    {
+        "label": "Сообщение",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Resource",
+        "hasStatement": [],
+        "chunk_id": "17"
+    },
+    {
+        "label": "\"",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Unknown",
+        "hasStatement": [],
+        "chunk_id": "17"
+    },
+    {
+        "label": "Средство платежа",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Resource",
+        "hasStatement": [],
+        "chunk_id": "17"
+    }
+]

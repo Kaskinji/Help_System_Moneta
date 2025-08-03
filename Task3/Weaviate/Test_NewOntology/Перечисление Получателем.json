@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Перечисление Получателем",
+      "type": "Unknown",
+      "hasStatement": [
+        "перечисление получателем hasActor получатель",
+        "перечисление получателем hasResult перечислено получателем"
+      ],
+      "chunk_id": "13"
+    },
+    "metadata": {
+      "score": 0.9740786552429199,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ea9ea6f5-9a63-44bd-8533-df9441692d08: original score 3.0297964, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document ea9ea6f5-9a63-44bd-8533-df9441692d08: original score 0.4772598, normalized score: 0.37407863"
+    }
+  }
+]

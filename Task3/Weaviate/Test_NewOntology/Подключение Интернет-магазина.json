@@ -1,0 +1,31 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Подключение Интернет-магазина",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "48"
+    },
+    "metadata": {
+      "score": 0.9357090592384338,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 72920f64-212b-4a9b-939e-b1105622cdcd: original score 3.8129597, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 72920f64-212b-4a9b-939e-b1105622cdcd: original score 0.4234311, normalized score: 0.33570904"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "отключение интернет-магазина",
+      "type": "Process",
+      "hasStatement": [
+        "отключение интернет-магазина hasResource интернет-магазин",
+        "отключение интернет-магазина hasActor нко"
+      ],
+      "chunk_id": "52"
+    },
+    "metadata": {
+      "score": 0.592557966709137,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document c9bc8a27-fc56-493a-aa83-009e824c5080: original score 1.9617546, normalized score: 0.19255795 - \nHybrid (Result Set vector,hybridVector) Document c9bc8a27-fc56-493a-aa83-009e824c5080: original score 0.4654187, normalized score: 0.4"
+    }
+  }
+]

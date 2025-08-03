@@ -1,0 +1,45 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "система монета",
+      "chunk_id": "32",
+      "hasStatement": [],
+      "type": "Unknown"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a0233be2-04f9-42a0-8448-e8fc1515ddf3: original score 3.1456215, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document a0233be2-04f9-42a0-8448-e8fc1515ddf3: original score 0.58775926, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Система МОНЕТА РУ",
+      "type": "Unknown",
+      "hasStatement": [
+        "система монета ру isResourceOf подключение к системе монета ру"
+      ],
+      "chunk_id": "40"
+    },
+    "metadata": {
+      "score": 0.6460731625556946,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 70d46d6b-e8db-4db8-9c84-df92b765d874: original score 2.4801512, normalized score: 0.42255563 - \nHybrid (Result Set vector,hybridVector) Document 70d46d6b-e8db-4db8-9c84-df92b765d874: original score 0.4382047, normalized score: 0.22351754"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "система монетару",
+      "type": "Unknown",
+      "hasStatement": [
+        "система монетару isActorOf предоставить возможность получения и пе"
+      ],
+      "chunk_id": "30"
+    },
+    "metadata": {
+      "score": 0.530684232711792,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 92a05213-2686-40b4-b01f-ccdbe3b6ec45: original score 1.5293933, normalized score: 0.16904072 - \nHybrid (Result Set vector,hybridVector) Document 92a05213-2686-40b4-b01f-ccdbe3b6ec45: original score 0.55525523, normalized score: 0.36164352"
+    }
+  }
+]

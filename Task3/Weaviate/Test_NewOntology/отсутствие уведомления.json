@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "отсутствие уведомления",
+      "chunk_id": "47",
+      "hasStatement": [
+        "отсутствие уведомления relation прекращение исполнения обязательств",
+        "отсутствие уведомления relation расторжение договора"
+      ],
+      "type": "Unknown"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 6ad90962-b015-4ba9-9738-78e2cb1f7669: original score 3.6034532, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 6ad90962-b015-4ba9-9738-78e2cb1f7669: original score 0.5198997, normalized score: 0.4"
+    }
+  }
+]

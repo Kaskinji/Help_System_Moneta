@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Отметка НКО",
+      "type": "Resource",
+      "hasStatement": [
+        "отметка нко isPartOf заявление",
+        "отметка нко isResultOf принятие заявления"
+      ],
+      "chunk_id": "5"
+    },
+    "metadata": {
+      "score": 0.6000000238418579,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 5db9817b-72cf-42e3-8b08-2f3df3f6dc40: original score 3.269023, normalized score: 0.6"
+    }
+  }
+]

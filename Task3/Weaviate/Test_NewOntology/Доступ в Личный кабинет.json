@@ -1,0 +1,19 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Доступ в Личный кабинет",
+      "type": "Process",
+      "hasStatement": [
+        "доступ в личный кабинет hasResource личный кабинет",
+        "доступ в личный кабинет hasActor получатель",
+        "доступ в личный кабинет hasPart настройка двухфакторной аутентификации"
+      ],
+      "chunk_id": "8"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 648da0b4-48a3-41c1-b179-49e50c8eb521: original score 3.9995255, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 648da0b4-48a3-41c1-b179-49e50c8eb521: original score 0.40633905, normalized score: 0.4"
+    }
+  }
+]

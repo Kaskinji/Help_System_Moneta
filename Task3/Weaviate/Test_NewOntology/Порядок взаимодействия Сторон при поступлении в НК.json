@@ -1,0 +1,32 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Порядок взаимодействия Сторон при поступлении в НКО информации о реализации Получателем Запрещенных услуг",
+      "type": "Resource",
+      "hasStatement": [
+        "порядок взаимодействия сторон при по isPartOf договор"
+      ],
+      "chunk_id": "98"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 560e6dad-5b43-4248-a915-75fd3bf908cf: original score 5.6443515, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 560e6dad-5b43-4248-a915-75fd3bf908cf: original score 0.5849796, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "реализация запрещенных услуг",
+      "type": "Resource",
+      "hasStatement": [
+        "реализация запрещенных услуг relation поступление информации"
+      ],
+      "chunk_id": "68"
+    },
+    "metadata": {
+      "score": 0.5488434433937073,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 2b840c46-6840-43e7-a531-08e41d32e491: original score 3.0843334, normalized score: 0.31786835 - \nHybrid (Result Set vector,hybridVector) Document 2b840c46-6840-43e7-a531-08e41d32e491: original score 0.4393537, normalized score: 0.23097508"
+    }
+  }
+]

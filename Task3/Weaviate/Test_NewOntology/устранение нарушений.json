@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "устранение нарушений",
+      "type": "Process",
+      "hasStatement": [
+        "устранение нарушений hasResource нарушения"
+      ],
+      "chunk_id": "94"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 2a25fd09-97fe-4b1a-948d-bb5fd614763d: original score 4.849724, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 2a25fd09-97fe-4b1a-948d-bb5fd614763d: original score 0.42231792, normalized score: 0.4"
+    }
+  }
+]

@@ -1,0 +1,67 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "формирование Акта",
+      "type": "Process",
+      "hasStatement": [
+        "формирование акта hasResult акт"
+      ],
+      "chunk_id": "41"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document b47bb8bc-2471-48da-a9e5-19b57451b4f0: original score 3.6522503, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document b47bb8bc-2471-48da-a9e5-19b57451b4f0: original score 0.5111415, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "формирование Акта",
+      "type": "Process",
+      "hasStatement": [
+        "формирование акта hasActor нко",
+        "формирование акта hasResult акт",
+        "формирование акта hasResource интернет магазин",
+        "формирование акта hasResult акт"
+      ],
+      "chunk_id": "78"
+    },
+    "metadata": {
+      "score": 0.8307015895843506,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 10c5b13b-2961-4042-b7a0-490e9165d73e: original score 3.6522503, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 10c5b13b-2961-4042-b7a0-490e9165d73e: original score 0.3974036, normalized score: 0.23070157"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "формирование",
+      "type": "Process",
+      "hasStatement": [
+        "формирование hasResource требования",
+        "формирование hasResult акт"
+      ],
+      "chunk_id": "65"
+    },
+    "metadata": {
+      "score": 0.6126115322113037,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e58abe5a-ecd5-4b59-b88b-80d20e0e3475: original score 2.9013402, normalized score: 0.45770118 - \nHybrid (Result Set vector,hybridVector) Document e58abe5a-ecd5-4b59-b88b-80d20e0e3475: original score 0.3464856, normalized score: 0.15491033"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "составление Акта",
+      "type": "Process",
+      "hasStatement": [
+        "составление акта hasActor стороны",
+        "составление акта hasResult акт"
+      ],
+      "chunk_id": "93"
+    },
+    "metadata": {
+      "score": 0.516963005065918,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 70e73a12-3e39-421a-9212-5240a10bc693: original score 1.5293933, normalized score: 0.19771469 - \nHybrid (Result Set vector,hybridVector) Document 70e73a12-3e39-421a-9212-5240a10bc693: original score 0.45689094, normalized score: 0.3192483"
+    }
+  }
+]

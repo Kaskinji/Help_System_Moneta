@@ -1,0 +1,48 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "претензия",
+      "type": "Resource",
+      "hasStatement": [
+        "претензия isResourceOf рассмотрение претензий третьих лиц"
+      ],
+      "chunk_id": "43"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a02c5f5a-5120-4edc-8484-c29ea817763b: original score 2.7789145, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document a02c5f5a-5120-4edc-8484-c29ea817763b: original score 0.29503232, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Претензия",
+      "type": "Resource",
+      "hasStatement": [
+        "претензия isResourceOf направление претензий"
+      ],
+      "chunk_id": "88"
+    },
+    "metadata": {
+      "score": 0.9218516945838928,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 6384cb32-8030-4885-8fad-f00c53824d36: original score 2.7789145, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 6384cb32-8030-4885-8fad-f00c53824d36: original score 0.2786256, normalized score: 0.32185167"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Претензия",
+      "type": "Resource",
+      "hasStatement": [
+        "претензия relation адрес электронной почты",
+        "претензия isResourceOf отправка претензии"
+      ],
+      "chunk_id": "89"
+    },
+    "metadata": {
+      "score": 0.8060729503631592,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e7a5e1dd-2cbb-45fc-bd96-3616d88053ca: original score 2.7789145, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document e7a5e1dd-2cbb-45fc-bd96-3616d88053ca: original score 0.25431865, normalized score: 0.20607296"
+    }
+  }
+]

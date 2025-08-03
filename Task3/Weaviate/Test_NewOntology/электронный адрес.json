@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "электронный адрес",
+      "type": "Resource",
+      "hasStatement": [
+        "электронный адрес isResourceOf уведомление получателя"
+      ],
+      "chunk_id": "94"
+    },
+    "metadata": {
+      "score": 0.8310688734054565,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7f3fa34e-e7de-48cf-9dd3-b317aacaae37: original score 3.6440873, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 7f3fa34e-e7de-48cf-9dd3-b317aacaae37: original score 0.4479158, normalized score: 0.23106885"
+    }
+  }
+]

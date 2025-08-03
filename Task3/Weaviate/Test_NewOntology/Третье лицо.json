@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Третье лицо",
+      "chunk_id": "48",
+      "hasStatement": [
+        "третье лицо hasActor внесение изменений в контент интер"
+      ],
+      "type": "Agent"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e84ad32a-336b-4128-8eb4-b1f37b7be619: original score 4.327073, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document e84ad32a-336b-4128-8eb4-b1f37b7be619: original score 0.30869448, normalized score: 0.4"
+    }
+  }
+]

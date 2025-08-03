@@ -1,0 +1,15 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Ответ на претензию",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "88"
+    },
+    "metadata": {
+      "score": 0.6000000238418579,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document d69c6287-a5ef-41f5-b204-4189d9929bd9: original score 4.7492385, normalized score: 0.6"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "подтверждение Заявления о перечислении",
+      "type": "Process",
+      "hasStatement": [
+        "подтверждение заявления о перечислении hasPart направление подтверждения"
+      ],
+      "chunk_id": "62"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 2dba692c-d709-4953-8ea7-f3b830a90b18: original score 4.6006737, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 2dba692c-d709-4953-8ea7-f3b830a90b18: original score 0.45434487, normalized score: 0.4"
+    }
+  }
+]

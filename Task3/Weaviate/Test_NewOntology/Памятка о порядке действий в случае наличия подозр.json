@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Памятка о порядке действий в случае наличия подозрения о компрометации средств доступа к счету",
+      "type": "Resource",
+      "hasStatement": [
+        "памятка о порядке действий в случае isResourceOf обеспечение информационной безо",
+        "памятка о порядке действий в случае isPartOf раздел безопасность сайта нко"
+      ],
+      "chunk_id": "57"
+    },
+    "metadata": {
+      "score": 0.728291392326355,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 36e909bf-c9e1-4c8f-92bc-103d8b4accc8: original score 6.9774523, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 36e909bf-c9e1-4c8f-92bc-103d8b4accc8: original score 0.41452688, normalized score: 0.12829134"
+    }
+  }
+]

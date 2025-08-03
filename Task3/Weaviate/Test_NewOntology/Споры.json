@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Споры",
+      "type": "Event",
+      "hasStatement": [
+        "споры relation договор",
+        "споры Initiates переговоры"
+      ],
+      "chunk_id": "88"
+    },
+    "metadata": {
+      "score": 0.8476908802986145,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 1514dbfb-c126-4a2b-9349-78c08febce84: original score 2.9013402, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 1514dbfb-c126-4a2b-9349-78c08febce84: original score 0.29113376, normalized score: 0.24769084"
+    }
+  }
+]

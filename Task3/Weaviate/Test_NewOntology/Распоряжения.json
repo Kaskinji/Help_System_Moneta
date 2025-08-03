@@ -1,0 +1,47 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Распоряжения",
+      "type": "Resource",
+      "hasStatement": [
+        "распоряжения isResourceOf прием распоряжений от платель"
+      ],
+      "chunk_id": "37"
+    },
+    "metadata": {
+      "score": 0.72324538230896,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a5dd879f-61fe-4b81-bd07-79a1d3e14517: original score 2.59978, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document a5dd879f-61fe-4b81-bd07-79a1d3e14517: original score 0.32385993, normalized score: 0.12324538"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Распоряжения",
+      "type": "Resource",
+      "hasStatement": [
+        "распоряжения isResourceOf обмен информацией документами и расп"
+      ],
+      "chunk_id": "8"
+    },
+    "metadata": {
+      "score": 0.7005326747894287,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ab6a958f-8c69-47f1-a3bc-594f22d688f7: original score 2.59978, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document ab6a958f-8c69-47f1-a3bc-594f22d688f7: original score 0.31637257, normalized score: 0.100532666"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Распоряжения",
+      "type": "Resource",
+      "hasStatement": [
+        "распоряжения isResourceOf принятие распоряжений"
+      ],
+      "chunk_id": "15"
+    },
+    "metadata": {
+      "score": 0.6909738183021545,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document f21c9e51-947f-466f-9877-14c65880687a: original score 2.59978, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document f21c9e51-947f-466f-9877-14c65880687a: original score 0.31322145, normalized score: 0.09097382"
+    }
+  }
+]

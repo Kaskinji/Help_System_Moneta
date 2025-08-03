@@ -1,0 +1,47 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Заявление Получателя",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "17"
+    },
+    "metadata": {
+      "score": 0.7308990359306335,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ac349f6d-48b7-4b44-a9e4-a8ba82e7f77e: original score 2.622562, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document ac349f6d-48b7-4b44-a9e4-a8ba82e7f77e: original score 0.36399794, normalized score: 0.130899"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Заявление на перечисление",
+      "type": "Resource",
+      "hasStatement": [
+        "заявление на перечисление hasResponsible получатель",
+        "заявление на перечисление relation личный кабинет",
+        "заявление на перечисление relation договор"
+      ],
+      "chunk_id": "6"
+    },
+    "metadata": {
+      "score": 0.5249432921409607,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a566a7c6-23b4-4ed2-9c6c-d9feac1d6a2f: original score 1.1269019, normalized score: 0.19356509 - \nHybrid (Result Set vector,hybridVector) Document a566a7c6-23b4-4ed2-9c6c-d9feac1d6a2f: original score 0.43909645, normalized score: 0.3313782"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Заявление на перечисление",
+      "type": "Resource",
+      "hasStatement": [
+        "заявление на перечисление isResourceOf перечисление получателю"
+      ],
+      "chunk_id": "38"
+    },
+    "metadata": {
+      "score": 0.5050031542778015,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document b88cd01c-92b2-47e9-9f71-1cfd8724610f: original score 1.1269019, normalized score: 0.19356509 - \nHybrid (Result Set vector,hybridVector) Document b88cd01c-92b2-47e9-9f71-1cfd8724610f: original score 0.43162698, normalized score: 0.31143805"
+    }
+  }
+]

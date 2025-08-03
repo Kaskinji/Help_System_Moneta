@@ -1,0 +1,82 @@
+[
+    {
+        "label": "Распоряжение",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Resource",
+        "hasStatement": [],
+        "chunk_id": "16"
+    },
+    {
+        "label": "РУ",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Unknown",
+        "hasStatement": [],
+        "chunk_id": "16"
+    },
+    {
+        "label": "\"",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Unknown",
+        "hasStatement": [],
+        "chunk_id": "16"
+    },
+    {
+        "label": "Сайт НКО",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Resource",
+        "hasStatement": [],
+        "chunk_id": "16"
+    },
+    {
+        "label": "moneta",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Unknown",
+        "hasStatement": [],
+        "chunk_id": "16"
+    },
+    {
+        "label": "ru,",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Unknown",
+        "hasStatement": [],
+        "chunk_id": "16"
+    },
+    {
+        "label": "payanyway",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Unknown",
+        "hasStatement": [],
+        "chunk_id": "16"
+    },
+    {
+        "label": "ru\"",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Unknown",
+        "hasStatement": [],
+        "chunk_id": "16"
+    },
+    {
+        "label": "система монетару",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Resource",
+        "hasStatement": [],
+        "chunk_id": "16"
+    },
+    {
+        "label": "РУ\"@ru",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Unknown",
+        "hasStatement": [],
+        "chunk_id": "16"
+    }
+]

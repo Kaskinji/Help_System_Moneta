@@ -1,0 +1,33 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Перечисление НКО",
+      "type": "Unknown",
+      "hasStatement": [
+        "перечисление нко hasActor нко",
+        "перечисление нко hasResult перечислено денежных средств нко"
+      ],
+      "chunk_id": "13"
+    },
+    "metadata": {
+      "score": 0.7429302930831909,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a8ce561f-6d13-4aaa-8552-d162ade73cd8: original score 2.3037844, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document a8ce561f-6d13-4aaa-8552-d162ade73cd8: original score 0.36977273, normalized score: 0.14293028"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "перечисление",
+      "type": "Unknown",
+      "hasStatement": [
+        "перечисление isResourceOf удержание переводов"
+      ],
+      "chunk_id": "92"
+    },
+    "metadata": {
+      "score": 0.5709039568901062,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e143a8b9-4f8a-47d8-90cb-83be7a365cae: original score 1.9948891, normalized score: 0.5128362 - \nHybrid (Result Set vector,hybridVector) Document e143a8b9-4f8a-47d8-90cb-83be7a365cae: original score 0.327125, normalized score: 0.058067717"
+    }
+  }
+]

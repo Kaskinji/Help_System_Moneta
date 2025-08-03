@@ -1,0 +1,31 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "логотип",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "66"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 67c08b25-9f76-43de-b5bc-8c45dfeda654: original score 3.0652502, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 67c08b25-9f76-43de-b5bc-8c45dfeda654: original score 0.6215965, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "логотип",
+      "type": "Resource",
+      "hasStatement": [
+        "логотип isResourceOf размещение логотипа и ссылки",
+        "логотип isResourceOf размещение логотипа и ссылки"
+      ],
+      "chunk_id": "51"
+    },
+    "metadata": {
+      "score": 0.8028314709663391,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 61922c73-122e-45fa-a1e2-160d2276643a: original score 3.0652502, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 61922c73-122e-45fa-a1e2-160d2276643a: original score 0.49673623, normalized score: 0.20283143"
+    }
+  }
+]

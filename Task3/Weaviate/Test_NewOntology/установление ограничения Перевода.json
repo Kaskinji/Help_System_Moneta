@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "установление ограничения Перевода",
+      "type": "Event",
+      "hasStatement": [
+        "установление ограничения перевода Initiates направление уведомления"
+      ],
+      "chunk_id": "62"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 706d4acc-fcda-4b64-9202-b4bdd8d2dcdc: original score 4.1482043, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 706d4acc-fcda-4b64-9202-b4bdd8d2dcdc: original score 0.51474535, normalized score: 0.4"
+    }
+  }
+]

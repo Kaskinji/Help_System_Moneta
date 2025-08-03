@@ -1,0 +1,41 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Третьи лица",
+      "type": "Agent",
+      "hasStatement": [],
+      "chunk_id": "86"
+    },
+    "metadata": {
+      "score": 0.816978394985199,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e0187abd-9d7f-4ee7-b91f-5beab329373c: original score 3.8002286, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document e0187abd-9d7f-4ee7-b91f-5beab329373c: original score 0.2582969, normalized score: 0.21697839"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "третьи лица",
+      "type": "Agent",
+      "hasStatement": [],
+      "chunk_id": "36"
+    },
+    "metadata": {
+      "score": 0.779397189617157,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document cfe51688-0f3e-48ca-acc0-eff6c0c4ec2d: original score 3.8002286, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document cfe51688-0f3e-48ca-acc0-eff6c0c4ec2d: original score 0.24721754, normalized score: 0.17939715"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "третьи лица",
+      "type": "Agent",
+      "hasStatement": [],
+      "chunk_id": "43"
+    },
+    "metadata": {
+      "score": 0.779397189617157,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 88314079-859a-4c91-af9b-d8399d81b056: original score 3.8002286, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 88314079-859a-4c91-af9b-d8399d81b056: original score 0.24721754, normalized score: 0.17939715"
+    }
+  }
+]

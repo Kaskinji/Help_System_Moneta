@@ -1,0 +1,15 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Анализ",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "110"
+    },
+    "metadata": {
+      "score": 0.9129863977432251,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 9b0b3ce4-15d4-49a4-9d2e-16403f97c5cc: original score 3.314095, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 9b0b3ce4-15d4-49a4-9d2e-16403f97c5cc: original score 0.37930226, normalized score: 0.31298634"
+    }
+  }
+]

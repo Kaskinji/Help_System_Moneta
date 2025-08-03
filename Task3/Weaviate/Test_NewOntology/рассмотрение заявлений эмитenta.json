@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "рассмотрение заявлений эмитenta",
+      "type": "Unknown",
+      "hasStatement": [
+        "рассмотрение заявлений эмитenta hasResource приложение №5",
+        "рассмотрение заявлений эмитenta hasResource заявление эмитента"
+      ],
+      "chunk_id": "28"
+    },
+    "metadata": {
+      "score": 0.8035373687744141,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 29979110-73ae-4867-9c15-3b1ce047955c: original score 4.9745765, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 29979110-73ae-4867-9c15-3b1ce047955c: original score 0.41105008, normalized score: 0.20353737"
+    }
+  }
+]

@@ -1,0 +1,23 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "направление обращения получателя о допол",
+      "type": "Process",
+      "hasStatement": [
+        "направление обращения получателя о допол hasActor получатель",
+        "направление обращения получателя о допол hasActor торговая площадка",
+        "направление обращения получателя о допол hasResponsible торговая площадка",
+        "направление обращения получателя о допол isPartOf дополнительное подключение интернет-магази",
+        "направление обращения получателя о допол hasResource договор",
+        "направление обращения получателя о допол hasResource обращение",
+        "направление обращения получателя о допол hasResource электронная почта"
+      ],
+      "chunk_id": "59"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 9eb51611-409f-4892-8910-3e5cdb1f4bd7: original score 4.7353163, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 9eb51611-409f-4892-8910-3e5cdb1f4bd7: original score 0.36240894, normalized score: 0.4"
+    }
+  }
+]

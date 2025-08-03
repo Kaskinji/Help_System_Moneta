@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "встречное обязательство",
+      "type": "Resource",
+      "hasStatement": [
+        "встречное обязательство isResourceOf зачет"
+      ],
+      "chunk_id": "75"
+    },
+    "metadata": {
+      "score": 0.6016586422920227,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 3b41ecf7-cf15-4982-9c99-e26fa3c97ec1: original score 4.667649, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 3b41ecf7-cf15-4982-9c99-e26fa3c97ec1: original score 0.27278358, normalized score: 0.0016585967"
+    }
+  }
+]

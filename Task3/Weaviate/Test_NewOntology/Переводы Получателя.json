@@ -1,0 +1,123 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Переводы",
+      "type": "Resource",
+      "hasStatement": [
+        "переводы isResourceOf отложить перечисление получателю сумм"
+      ],
+      "chunk_id": "44"
+    },
+    "metadata": {
+      "score": 0.6532794833183289,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document f6544100-71a5-4fd6-96ca-b7e8c588164c: original score 2.0402374, normalized score: 0.42940167 - \nHybrid (Result Set vector,hybridVector) Document f6544100-71a5-4fd6-96ca-b7e8c588164c: original score 0.4200958, normalized score: 0.22387782"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Переводы",
+      "type": "Resource",
+      "hasStatement": [
+        "переводы isResultOf осуществление переводов",
+        "переводы isResourceOf расчеты по переводам",
+        "переводы hasPart недействительные переводы"
+      ],
+      "chunk_id": "113"
+    },
+    "metadata": {
+      "score": 0.6471036672592163,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 353465b1-4895-442c-a7e9-10a87e342c0c: original score 2.0402374, normalized score: 0.42940167 - \nHybrid (Result Set vector,hybridVector) Document 353465b1-4895-442c-a7e9-10a87e342c0c: original score 0.41702086, normalized score: 0.21770203"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Переводы",
+      "type": "Resource",
+      "hasStatement": [
+        "переводы isResourceOf осуществление переводов"
+      ],
+      "chunk_id": "73"
+    },
+    "metadata": {
+      "score": 0.6248735189437866,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ff381d37-b23e-4f7a-984b-422775fbe726: original score 2.0402374, normalized score: 0.42940167 - \nHybrid (Result Set vector,hybridVector) Document ff381d37-b23e-4f7a-984b-422775fbe726: original score 0.4059524, normalized score: 0.19547187"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Переводы Получателя",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "46"
+    },
+    "metadata": {
+      "score": 0.6000000238418579,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document d27e1157-36c8-46fc-915b-faa4aad3418b: original score 2.6860955, normalized score: 0.6"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Переводы",
+      "type": "Resource",
+      "hasStatement": [
+        "Переводы isResourceOf возобновление осуществления расчё",
+        "Переводы isResourceOf возобновление осуществления расчё"
+      ],
+      "chunk_id": "26"
+    },
+    "metadata": {
+      "score": 0.597442626953125,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e8d9ed9e-c582-4d93-bc65-cd097ce9b4d2: original score 2.0402374, normalized score: 0.42940167 - \nHybrid (Result Set vector,hybridVector) Document e8d9ed9e-c582-4d93-bc65-cd097ce9b4d2: original score 0.39229447, normalized score: 0.16804095"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Переводы",
+      "type": "Resource",
+      "hasStatement": [
+        "переводы isResourceOf возобновление расчетов по переводам"
+      ],
+      "chunk_id": "114"
+    },
+    "metadata": {
+      "score": 0.5617725849151611,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 18f0848f-6755-49f0-8ecf-add410420588: original score 2.0402374, normalized score: 0.42940167 - \nHybrid (Result Set vector,hybridVector) Document 18f0848f-6755-49f0-8ecf-add410420588: original score 0.37453425, normalized score: 0.13237089"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Переводы",
+      "type": "Resource",
+      "hasStatement": [
+        "переводы isResourceOf обмен информацией документами и расп"
+      ],
+      "chunk_id": "8"
+    },
+    "metadata": {
+      "score": 0.5296560525894165,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e4d85309-3fa8-46ca-8101-7b50a9af651f: original score 2.0402374, normalized score: 0.42940167 - \nHybrid (Result Set vector,hybridVector) Document e4d85309-3fa8-46ca-8101-7b50a9af651f: original score 0.35854334, normalized score: 0.10025436"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Недействительные переводы",
+      "type": "Resource",
+      "hasStatement": [
+        "недействительные переводы isResultOf признание переводов недейс"
+      ],
+      "chunk_id": "25"
+    },
+    "metadata": {
+      "score": 0.5223122239112854,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 079aca7b-d797-403d-9341-1acf24631d91: original score 1.4928039, normalized score: 0.2848013 - \nHybrid (Result Set vector,hybridVector) Document 079aca7b-d797-403d-9341-1acf24631d91: original score 0.42688376, normalized score: 0.23751092"
+    }
+  }
+]

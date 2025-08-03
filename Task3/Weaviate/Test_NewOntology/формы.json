@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "формы",
+      "type": "Resource",
+      "hasStatement": [
+        "формы hasResponsible нко"
+      ],
+      "chunk_id": "14"
+    },
+    "metadata": {
+      "score": 0.6000000238418579,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a58b71a5-ea37-4b76-90cd-2a0a7798b240: original score 3.0652502, normalized score: 0.6"
+    }
+  }
+]

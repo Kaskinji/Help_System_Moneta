@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Суммы/части суммы Недействительных переводов",
+      "type": "Resource",
+      "hasStatement": [
+        "суммы части суммы недействительных isResourceOf возмещение",
+        "суммы части суммы недействительных relation недействительные переводы"
+      ],
+      "chunk_id": "53"
+    },
+    "metadata": {
+      "score": 0.8079496622085571,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document c20b69d6-7043-4d12-841c-5b3fc045265f: original score 5.247826, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document c20b69d6-7043-4d12-841c-5b3fc045265f: original score 0.391208, normalized score: 0.20794964"
+    }
+  }
+]

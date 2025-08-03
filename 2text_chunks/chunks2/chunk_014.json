@@ -1,0 +1,7 @@
+{
+  "id": "chunk_014",
+  "content": "Если клиента интересует настройка API, то направляете Наше API - Документация по Moneta.Assistant (MONETA.Assistant - https://www.moneta.ru/doc/MONETA.Assistant.ru.pdf ). Для автоматизации различных процессов (выводы, запрос данных, рекуррентные платежи и т.д.) вы можете дополнить существующее API Assistant элементами MerchantAPI (Инструкция MerchantAPI - https://moneta.ru/doc/MONETA.MerchantAPI.v2.ru.pdf ).",
+  "type": "process_description",
+  "size": 218,
+  "source": "connecting_client.pdf"
+}

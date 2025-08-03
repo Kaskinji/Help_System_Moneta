@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "интернет магазин",
+      "type": "Resource",
+      "hasStatement": [
+        "интернет магазин hasResponsible получатель",
+        "интернет магазин hasResponsible торговая площадка"
+      ],
+      "chunk_id": "7"
+    },
+    "metadata": {
+      "score": 0.8269093632698059,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7a33489f-3ae2-4734-a0a7-36d664f17ef0: original score 4.4581423, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 7a33489f-3ae2-4734-a0a7-36d664f17ef0: original score 0.3967052, normalized score: 0.22690932"
+    }
+  }
+]

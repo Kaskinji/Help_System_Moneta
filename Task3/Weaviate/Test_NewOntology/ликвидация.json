@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "ликвидация",
+      "type": "Event",
+      "hasStatement": [
+        "ликвидация Initiates уведомление другой стороны"
+      ],
+      "chunk_id": "64"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 162ae153-d3e3-44c9-a7e4-0a51dae6d0bb: original score 3.314095, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 162ae153-d3e3-44c9-a7e4-0a51dae6d0bb: original score 0.4916333, normalized score: 0.4"
+    }
+  }
+]

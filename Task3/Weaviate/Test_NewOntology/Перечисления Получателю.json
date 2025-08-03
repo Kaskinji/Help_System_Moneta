@@ -1,0 +1,15 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Перечисления Получателю",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "27"
+    },
+    "metadata": {
+      "score": 0.6573681235313416,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 5836ec39-a374-406c-b3d4-c1b217ee833a: original score 3.8129597, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 5836ec39-a374-406c-b3d4-c1b217ee833a: original score 0.34041548, normalized score: 0.0573681"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "приложение 5",
+      "type": "Unknown",
+      "hasStatement": [
+        "приложение 5 relation порядок взаимодействия сторон"
+      ],
+      "chunk_id": "9"
+    },
+    "metadata": {
+      "score": 0.9628496170043945,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 26725daf-8139-44f4-86ef-affb8e07be86: original score 3.9119167, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 26725daf-8139-44f4-86ef-affb8e07be86: original score 0.42257392, normalized score: 0.36284962"
+    }
+  }
+]

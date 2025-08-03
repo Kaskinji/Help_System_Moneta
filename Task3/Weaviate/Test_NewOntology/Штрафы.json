@@ -1,0 +1,34 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "штрафы",
+      "type": "Resource",
+      "hasStatement": [
+        "штрафы isResourceOf взыскание эквайрером"
+      ],
+      "chunk_id": "84"
+    },
+    "metadata": {
+      "score": 0.9795280694961548,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7570ae6f-0d43-468e-b576-3ab2f04ed093: original score 3.0652502, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 7570ae6f-0d43-468e-b576-3ab2f04ed093: original score 0.40778637, normalized score: 0.37952808"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Штрафы",
+      "type": "Resource",
+      "hasStatement": [
+        "штрафы hasResponsible эквайрер",
+        "штрафы isResourceOf возмещение",
+        "штрафы isResourceOf зачет"
+      ],
+      "chunk_id": "69"
+    },
+    "metadata": {
+      "score": 0.8578058481216431,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 86b6cb09-d04e-473b-9147-c88d7d230ab5: original score 3.0652502, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 86b6cb09-d04e-473b-9147-c88d7d230ab5: original score 0.33328342, normalized score: 0.25780582"
+    }
+  }
+]

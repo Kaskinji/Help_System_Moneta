@@ -1,0 +1,15 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Предмет Договора",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "82"
+    },
+    "metadata": {
+      "score": 0.6354051232337952,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document b57cd5fa-7651-4219-85e7-2c0294acb12e: original score 3.753416, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document b57cd5fa-7651-4219-85e7-2c0294acb12e: original score 0.29508495, normalized score: 0.03540511"
+    }
+  }
+]

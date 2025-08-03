@@ -1,0 +1,36 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "размещение уведомления",
+      "type": "Process",
+      "hasStatement": [
+        "размещение уведомления isPartOf уведомление получателя",
+        "размещение уведомления hasResource личный кабинет",
+        "размещение уведомления hasResource уведомление"
+      ],
+      "chunk_id": "94"
+    },
+    "metadata": {
+      "score": 0.9084051847457886,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document fe3f4a03-42be-449c-9b7f-671be7bf1432: original score 3.5439095, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document fe3f4a03-42be-449c-9b7f-671be7bf1432: original score 0.5671735, normalized score: 0.30840513"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Отправление уведомления",
+      "type": "Process",
+      "hasStatement": [
+        "отправление уведомления hasActor получатель",
+        "отправление уведомления isPartOf расторжение договора",
+        "отправление уведомления hasResource адрес электронной почты"
+      ],
+      "chunk_id": "91"
+    },
+    "metadata": {
+      "score": 0.5514834523200989,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document dbff023b-7433-46a2-a67b-727dee2750ed: original score 1.6416986, normalized score: 0.22234786 - \nHybrid (Result Set vector,hybridVector) Document dbff023b-7433-46a2-a67b-727dee2750ed: original score 0.57750916, normalized score: 0.3291356"
+    }
+  }
+]

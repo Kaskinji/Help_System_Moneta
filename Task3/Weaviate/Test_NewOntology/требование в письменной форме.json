@@ -1,0 +1,33 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "требование в письменной форме",
+      "type": "Resource",
+      "hasStatement": [
+        "требование в письменной форме isResourceOf выплата пени"
+      ],
+      "chunk_id": "83"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 1199607e-eae2-4043-9de4-e2dd5ca4cf82: original score 5.108304, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 1199607e-eae2-4043-9de4-e2dd5ca4cf82: original score 0.49215388, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Требование",
+      "type": "Resource",
+      "hasStatement": [
+        "требование isResourceOf рассмотрение требования",
+        "требование isResourceOf рассмотрение требования"
+      ],
+      "chunk_id": "117"
+    },
+    "metadata": {
+      "score": 0.5085181593894958,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 51bf4ac4-e546-437a-989f-7b1dbc85acb0: original score 2.4690974, normalized score: 0.27399936 - \nHybrid (Result Set vector,hybridVector) Document 51bf4ac4-e546-437a-989f-7b1dbc85acb0: original score 0.43335778, normalized score: 0.23451881"
+    }
+  }
+]

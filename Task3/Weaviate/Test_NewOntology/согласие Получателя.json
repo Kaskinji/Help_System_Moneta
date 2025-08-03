@@ -1,0 +1,31 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "согласие Получателя",
+      "chunk_id": "80",
+      "hasStatement": [],
+      "type": "Event"
+    },
+    "metadata": {
+      "score": 0.9199786186218262,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 8fd7c2fe-0bfb-4e9b-89f9-abadcced03f7: original score 3.2265716, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 8fd7c2fe-0bfb-4e9b-89f9-abadcced03f7: original score 0.30464184, normalized score: 0.3199786"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Безусловное согласие",
+      "type": "Event",
+      "hasStatement": [
+        "безусловное согласие isResultOf использование системы монетару",
+        "безусловное согласие isResultOf осуществление переводов"
+      ],
+      "chunk_id": "73"
+    },
+    "metadata": {
+      "score": 0.6087133884429932,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 31aa7f40-9978-4418-9929-f9491f9ae8af: original score 2.0332801, normalized score: 0.34854546 - \nHybrid (Result Set vector,hybridVector) Document 31aa7f40-9978-4418-9929-f9491f9ae8af: original score 0.26265144, normalized score: 0.26016796"
+    }
+  }
+]

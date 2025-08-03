@@ -1,0 +1,45 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "информация о Переводах и Перечислениях",
+      "type": "Resource",
+      "hasStatement": [
+        "информация о переводах и перечисл isResourceOf расчеты по договору"
+      ],
+      "chunk_id": "66"
+    },
+    "metadata": {
+      "score": 0.7060455083847046,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 1dea39e2-4a51-458a-9037-039a223edaf4: original score 3.1118073, normalized score: 0.40628326 - \nHybrid (Result Set vector,hybridVector) Document 1dea39e2-4a51-458a-9037-039a223edaf4: original score 0.4787743, normalized score: 0.29976222"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "информация о переводах",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "30"
+    },
+    "metadata": {
+      "score": 0.6823546290397644,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a98a3d4f-49af-473d-bc5b-cc7addb46e9e: original score 3.4496472, normalized score: 0.4549977 - \nHybrid (Result Set vector,hybridVector) Document a98a3d4f-49af-473d-bc5b-cc7addb46e9e: original score 0.4422859, normalized score: 0.22735694"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Информация о Плательщиках и Переводах",
+      "type": "Resource",
+      "hasStatement": [
+        "информация о плательщиках и пе isPartOf конфиденциальная информация"
+      ],
+      "chunk_id": "85"
+    },
+    "metadata": {
+      "score": 0.6770274043083191,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 2563740b-6f99-444f-80a9-94b5b077783e: original score 4.455254, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 2563740b-6f99-444f-80a9-94b5b077783e: original score 0.3665278, normalized score: 0.07702738"
+    }
+  }
+]

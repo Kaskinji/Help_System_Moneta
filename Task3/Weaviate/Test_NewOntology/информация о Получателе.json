@@ -1,0 +1,77 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "информация о Получателе",
+      "type": "Resource",
+      "hasStatement": [
+        "информация о получателе isResourceOf предоставление информации"
+      ],
+      "chunk_id": "45"
+    },
+    "metadata": {
+      "score": 0.7980839610099792,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document aeaf45d9-5249-497f-b6ef-8b07050b80c7: original score 3.4183896, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document aeaf45d9-5249-497f-b6ef-8b07050b80c7: original score 0.42652297, normalized score: 0.19808395"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "данные о Получателе",
+      "type": "Resource",
+      "hasStatement": [
+        "данные о получателе isResourceOf предоставление нко данных о получателе"
+      ],
+      "chunk_id": "122"
+    },
+    "metadata": {
+      "score": 0.6671153903007507,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document fc7b3f58-fe49-4ac0-a94b-e8ce26e32fec: original score 2.3339877, normalized score: 0.39122066 - \nHybrid (Result Set vector,hybridVector) Document fc7b3f58-fe49-4ac0-a94b-e8ce26e32fec: original score 0.4515103, normalized score: 0.27589473"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "данные о Получателе",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "124"
+    },
+    "metadata": {
+      "score": 0.6283217668533325,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 8b5ae95a-8da8-45cb-8a47-50cdac25d1d9: original score 2.3339877, normalized score: 0.39122066 - \nHybrid (Result Set vector,hybridVector) Document 8b5ae95a-8da8-45cb-8a47-50cdac25d1d9: original score 0.43905252, normalized score: 0.23710108"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "данные о Получателе",
+      "type": "Resource",
+      "hasStatement": [
+        "данные о получателе isResourceOf предоставление данных о получателе",
+        "данные о получателе isResourceOf предоставление данных о получателе"
+      ],
+      "chunk_id": "123"
+    },
+    "metadata": {
+      "score": 0.5753154158592224,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document cd330f11-a3fa-4e0d-9590-b4f251a5f8a1: original score 2.3339877, normalized score: 0.39122066 - \nHybrid (Result Set vector,hybridVector) Document cd330f11-a3fa-4e0d-9590-b4f251a5f8a1: original score 0.42203063, normalized score: 0.18409477"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "данные о Получателе",
+      "type": "Resource",
+      "hasStatement": [
+        "данные о получателе isResultOf предоставление нко данных",
+        "данные о получателе isResultOf предоставление нко данных"
+      ],
+      "chunk_id": "35"
+    },
+    "metadata": {
+      "score": 0.5305778384208679,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 548823ea-d380-4799-ba63-56dc8017f3cc: original score 2.3339877, normalized score: 0.39122066 - \nHybrid (Result Set vector,hybridVector) Document 548823ea-d380-4799-ba63-56dc8017f3cc: original score 0.40766406, normalized score: 0.13935716"
+    }
+  }
+]

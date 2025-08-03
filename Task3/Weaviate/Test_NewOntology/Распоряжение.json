@@ -1,0 +1,30 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Распоряжение",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "38"
+    },
+    "metadata": {
+      "score": 0.7827660441398621,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e3506213-bb03-46b4-b0cd-ac2a4e3c70c9: original score 2.5300696, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document e3506213-bb03-46b4-b0cd-ac2a4e3c70c9: original score 0.32452148, normalized score: 0.182766"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Распоряжение",
+      "chunk_id": "31",
+      "hasStatement": [
+        "распоряжение hasResponsible нко"
+      ],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 0.6000000238418579,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 9ed0e58c-a48d-4c78-9a3b-199f9942bd43: original score 2.5300696, normalized score: 0.6"
+    }
+  }
+]

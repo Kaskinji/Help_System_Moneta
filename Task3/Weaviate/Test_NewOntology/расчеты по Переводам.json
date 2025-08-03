@@ -1,0 +1,50 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "расчеты по Переводам",
+      "type": "Process",
+      "hasStatement": [
+        "расчеты по переводам hasResource переводы",
+        "расчеты по переводам hasActor нко"
+      ],
+      "chunk_id": "113"
+    },
+    "metadata": {
+      "score": 0.8408861756324768,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document c9e62e78-370f-4d55-8c80-624a50f43762: original score 4.5061007, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document c9e62e78-370f-4d55-8c80-624a50f43762: original score 0.39796174, normalized score: 0.24088617"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "возобновление расчетов по Переводам",
+      "chunk_id": "114",
+      "hasStatement": [
+        "возобновление расчетов по переводам hasActor нко",
+        "возобновление расчетов по переводам hasResource переводы"
+      ],
+      "type": "Process"
+    },
+    "metadata": {
+      "score": 0.5755754709243774,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 6b417bac-d4c0-4daa-9afa-7dd1cf27358d: original score 2.4426174, normalized score: 0.27933204 - \nHybrid (Result Set vector,hybridVector) Document 6b417bac-d4c0-4daa-9afa-7dd1cf27358d: original score 0.42449003, normalized score: 0.2962434"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "расчеты по Договору",
+      "type": "Process",
+      "hasStatement": [
+        "расчеты по договору hasActor сторона",
+        "расчеты по договору hasResource информация о переводах и перечисл"
+      ],
+      "chunk_id": "66"
+    },
+    "metadata": {
+      "score": 0.5281241536140442,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 785405cd-7ec6-4b0d-b3b5-1c01ca237892: original score 2.7377853, normalized score: 0.3252015 - \nHybrid (Result Set vector,hybridVector) Document 785405cd-7ec6-4b0d-b3b5-1c01ca237892: original score 0.37976885, normalized score: 0.20292266"
+    }
+  }
+]

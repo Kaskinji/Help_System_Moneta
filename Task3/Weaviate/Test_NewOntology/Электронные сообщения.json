@@ -1,0 +1,47 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Электронные сообщения",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "104"
+    },
+    "metadata": {
+      "score": 0.9363465309143066,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 834dc161-aa4e-4b66-9e15-4a03136999e7: original score 3.7683473, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 834dc161-aa4e-4b66-9e15-4a03136999e7: original score 0.44594002, normalized score: 0.33634654"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Электронные сообщения",
+      "type": "Resource",
+      "hasStatement": [
+        "электронные сообщения isResourceOf информационный обмен",
+        "электронные сообщения isResourceOf передача эс"
+      ],
+      "chunk_id": "103"
+    },
+    "metadata": {
+      "score": 0.8645139932632446,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 695a8026-95a6-45e6-b8ed-f633ae226cca: original score 3.7683473, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 695a8026-95a6-45e6-b8ed-f633ae226cca: original score 0.41177654, normalized score: 0.26451394"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Электронные сообщения",
+      "type": "Resource",
+      "hasStatement": [
+        "электронные сообщения isResourceOf информационный обмен",
+        "электронные сообщения isResourceOf контроль"
+      ],
+      "chunk_id": "14"
+    },
+    "metadata": {
+      "score": 0.8263460993766785,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document b969db9f-60d2-4491-8b1d-290869bb4466: original score 3.7683473, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document b969db9f-60d2-4491-8b1d-290869bb4466: original score 0.39362395, normalized score: 0.22634606"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "ошибочное Перечисление",
+      "type": "Event",
+      "hasStatement": [
+        "ошибочное перечисление Initiates уведомление",
+        "ошибочное перечисление Initiates возврат"
+      ],
+      "chunk_id": "54"
+    },
+    "metadata": {
+      "score": 0.9410609006881714,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 667942a9-7526-44f7-8dcd-28c1ee83bd2d: original score 3.8844852, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 667942a9-7526-44f7-8dcd-28c1ee83bd2d: original score 0.4582613, normalized score: 0.34106085"
+    }
+  }
+]

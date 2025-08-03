@@ -1,0 +1,133 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "расторжение договора в одностороннем порядке",
+      "type": "Process",
+      "hasStatement": [
+        "расторжение договора hasResource договор",
+        "расторжение договора hasActor нко",
+        "расторжение договора hasResponsible нко"
+      ],
+      "chunk_id": "42"
+    },
+    "metadata": {
+      "score": 0.9437692761421204,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 17259b52-ea59-4150-bff2-5c35dae6949a: original score 4.942376, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 17259b52-ea59-4150-bff2-5c35dae6949a: original score 0.31527448, normalized score: 0.34376925"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "расторжение Договора",
+      "type": "Process",
+      "hasStatement": [
+        "расторжение договора hasResource договор",
+        "расторжение договора hasActor нко"
+      ],
+      "chunk_id": "46"
+    },
+    "metadata": {
+      "score": 0.6934560537338257,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 8786a583-1938-463d-acbe-ecf83384db87: original score 3.0598295, normalized score: 0.35246682 - \nHybrid (Result Set vector,hybridVector) Document 8786a583-1938-463d-acbe-ecf83384db87: original score 0.31406724, normalized score: 0.34098923"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "расторжение договора",
+      "type": "Process",
+      "hasStatement": [
+        "расторжение договора hasResource договор"
+      ],
+      "chunk_id": "50"
+    },
+    "metadata": {
+      "score": 0.6878954768180847,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document f66785e9-01d7-41f5-9a8c-270a63125fa8: original score 3.0598295, normalized score: 0.35246682 - \nHybrid (Result Set vector,hybridVector) Document f66785e9-01d7-41f5-9a8c-270a63125fa8: original score 0.31165254, normalized score: 0.33542866"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Расторжение договора",
+      "type": "Process",
+      "hasStatement": [
+        "расторжение договора hasResource договор",
+        "расторжение договора hasPart отправление уведомления"
+      ],
+      "chunk_id": "91"
+    },
+    "metadata": {
+      "score": 0.6630120277404785,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 403941dc-35ad-47b1-a647-8a76af82f53c: original score 3.0598295, normalized score: 0.35246682 - \nHybrid (Result Set vector,hybridVector) Document 403941dc-35ad-47b1-a647-8a76af82f53c: original score 0.30084682, normalized score: 0.3105452"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "расторжение договора",
+      "type": "Process",
+      "hasStatement": [
+        "расторжение договора relation отсутствие уведомления",
+        "расторжение договора relation изменение единоличного исполнительного",
+        "расторжение договора relation изменение бенефициарного владельца",
+        "расторжение договора relation изменение данных документа",
+        "расторжение договора hasResult уведомление"
+      ],
+      "chunk_id": "47"
+    },
+    "metadata": {
+      "score": 0.575950026512146,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 35898f0e-c9e0-4519-9c95-c1af849a2994: original score 3.0598295, normalized score: 0.35246682 - \nHybrid (Result Set vector,hybridVector) Document 35898f0e-c9e0-4519-9c95-c1af849a2994: original score 0.26303983, normalized score: 0.2234832"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Расторжение Договора",
+      "type": "Process",
+      "hasStatement": [
+        "расторжение договора isResourceOf соглашение сторон",
+        "расторжение договора isResourceOf уведомление"
+      ],
+      "chunk_id": "90"
+    },
+    "metadata": {
+      "score": 0.5409426093101501,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 03de137f-47bc-4382-ac92-2e7006ec0bbd: original score 3.0598295, normalized score: 0.35246682 - \nHybrid (Result Set vector,hybridVector) Document 03de137f-47bc-4382-ac92-2e7006ec0bbd: original score 0.24783772, normalized score: 0.18847577"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Исполнение Договора",
+      "type": "Process",
+      "hasStatement": [
+        "исполнение договора hasActor стороны",
+        "исполнение договора hasResult конфиденциальная информация"
+      ],
+      "chunk_id": "85"
+    },
+    "metadata": {
+      "score": 0.5248240828514099,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 81c9992d-3291-40d4-8b89-9182638bf9d7: original score 1.3285542, normalized score: 0.12482408 - \nHybrid (Result Set vector,hybridVector) Document 81c9992d-3291-40d4-8b89-9182638bf9d7: original score 0.3396929, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Расторжение договора с Получателем",
+      "type": "Process",
+      "hasStatement": [
+        "расторжение договора с получате hasPart направление уведомления",
+        "расторжение договора с получате relation получатель"
+      ],
+      "chunk_id": "48"
+    },
+    "metadata": {
+      "score": 0.5094435811042786,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 838b6b53-a0e3-48b5-b8f0-213f87268a66: original score 1.9912508, normalized score: 0.21196105 - \nHybrid (Result Set vector,hybridVector) Document 838b6b53-a0e3-48b5-b8f0-213f87268a66: original score 0.2951743, normalized score: 0.29748252"
+    }
+  }
+]

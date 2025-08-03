@@ -1,0 +1,24 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Размещение логотипа и ссылки",
+      "type": "Process",
+      "hasStatement": [
+        "размещение логотипа и ссылки hasActor получатель",
+        "размещение логотипа и ссылки hasResource логотип",
+        "размещение логотипа и ссылки hasResource гипертекстовая ссылка",
+        "размещение логотипа и ссылки hasResource интернет-магазин",
+        "размещение логотипа и ссылки hasActor получатель",
+        "размещение логотипа и ссылки hasResource логотип",
+        "размещение логотипа и ссылки hasResource гипертекстовая ссылка",
+        "размещение логотипа и ссылки hasResource интернет-магазин"
+      ],
+      "chunk_id": "51"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a23dce63-7cb0-4bee-8837-768f01e87e40: original score 5.201852, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document a23dce63-7cb0-4bee-8837-768f01e87e40: original score 0.4809329, normalized score: 0.4"
+    }
+  }
+]

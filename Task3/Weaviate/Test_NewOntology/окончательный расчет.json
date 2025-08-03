@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "окончательный расчет",
+      "type": "Process",
+      "hasStatement": [
+        "окончательный расчет hasActor нко",
+        "окончательный расчет hasResource договор"
+      ],
+      "chunk_id": "92"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 9efc3f3c-8e97-4c6b-95f0-c8ae4e97a9c4: original score 4.667649, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 9efc3f3c-8e97-4c6b-95f0-c8ae4e97a9c4: original score 0.48721206, normalized score: 0.4"
+    }
+  }
+]

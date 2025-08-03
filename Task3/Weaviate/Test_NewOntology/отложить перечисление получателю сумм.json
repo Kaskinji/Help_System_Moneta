@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "отложить перечисление получателю сумм",
+      "chunk_id": "44",
+      "hasStatement": [
+        "отложить перечисление получателю сумм hasResource переводы",
+        "отложить перечисление получателю сумм relation осуществление перечисления"
+      ],
+      "type": "Unknown"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 6ef22035-b5ed-49ce-97c8-fdf25e9f6d5e: original score 5.3826, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 6ef22035-b5ed-49ce-97c8-fdf25e9f6d5e: original score 0.36125916, normalized score: 0.4"
+    }
+  }
+]

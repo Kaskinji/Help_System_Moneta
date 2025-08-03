@@ -1,0 +1,15 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Договор между Сторонами",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "14"
+    },
+    "metadata": {
+      "score": 0.9096750020980835,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 4829129e-bff8-4f89-a8a4-ccf655247aae: original score 4.5087333, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 4829129e-bff8-4f89-a8a4-ccf655247aae: original score 0.5089405, normalized score: 0.30967498"
+    }
+  }
+]

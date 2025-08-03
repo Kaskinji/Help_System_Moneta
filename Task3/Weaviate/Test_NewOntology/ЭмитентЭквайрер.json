@@ -1,0 +1,15 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Эмитент/Эквайрер",
+      "type": "Agent",
+      "hasStatement": [],
+      "chunk_id": "75"
+    },
+    "metadata": {
+      "score": 0.9012448787689209,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ad485bf9-32a3-4ffc-8b4f-714f7c18bc26: original score 3.314095, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document ad485bf9-32a3-4ffc-8b4f-714f7c18bc26: original score 0.4653989, normalized score: 0.30124485"
+    }
+  }
+]

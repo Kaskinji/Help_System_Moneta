@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "индивидуальный предприниматель",
+      "type": "Agent",
+      "hasStatement": [
+        "индивидуальный предприниматель isActorOf реализация услуг"
+      ],
+      "chunk_id": "15"
+    },
+    "metadata": {
+      "score": 0.7838101983070374,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 3859777a-20ef-4b4b-b015-9594526593e7: original score 4.849724, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 3859777a-20ef-4b4b-b015-9594526593e7: original score 0.312851, normalized score: 0.18381019"
+    }
+  }
+]

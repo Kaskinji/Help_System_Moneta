@@ -1,0 +1,51 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "получение информации НКО от Банка России",
+      "type": "Event",
+      "hasStatement": [
+        "получение информации нко от банка relation нко",
+        "получение информации нко от банка relation банк россии",
+        "получение информации нко от банка Initiates прекращение исполнения обязательств",
+        "получение информации нко от банка Initiates расторжение договора",
+        "получение информации нко от банка relation информация",
+        "получение информации нко от банка relation нко",
+        "получение информации нко от банка relation банк россии"
+      ],
+      "chunk_id": "50"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document b2b6bfca-87de-4629-88f5-23202e5c3916: original score 4.3827715, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document b2b6bfca-87de-4629-88f5-23202e5c3916: original score 0.33034474, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "получение информации",
+      "type": "Event",
+      "hasStatement": [],
+      "chunk_id": "109"
+    },
+    "metadata": {
+      "score": 0.5557147860527039,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 3968ea9c-0348-4c6c-85b1-43a0014e323c: original score 2.9436498, normalized score: 0.39310163 - \nHybrid (Result Set vector,hybridVector) Document 3968ea9c-0348-4c6c-85b1-43a0014e323c: original score 0.17067724, normalized score: 0.16261314"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "получение требования НКО",
+      "type": "Event",
+      "hasStatement": [
+        "получение требования нко Initiates выплата пени"
+      ],
+      "chunk_id": "83"
+    },
+    "metadata": {
+      "score": 0.5013506412506104,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7a3cec48-3299-4ca2-a46d-2e034ead8170: original score 1.9211407, normalized score: 0.24609846 - \nHybrid (Result Set vector,hybridVector) Document 7a3cec48-3299-4ca2-a46d-2e034ead8170: original score 0.23298669, normalized score: 0.25525218"
+    }
+  }
+]

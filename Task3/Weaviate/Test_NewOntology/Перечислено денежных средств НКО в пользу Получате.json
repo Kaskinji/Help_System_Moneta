@@ -1,0 +1,47 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Перечислено денежных средств НКО в пользу Получателя за отчетный период",
+      "chunk_id": "13",
+      "hasStatement": [
+        "перечислено денежных средств нко isResultOf перечисление нко"
+      ],
+      "type": "Unknown"
+    },
+    "metadata": {
+      "score": 0.9696931838989258,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 14ade662-9fca-4669-a7a3-62993f8e3ff4: original score 4.920449, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 14ade662-9fca-4669-a7a3-62993f8e3ff4: original score 0.4907207, normalized score: 0.36969313"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Перечислено Получателем в пользу НКО за отчетный период",
+      "type": "Unknown",
+      "hasStatement": [
+        "перечислено получателем isResultOf перечисление получателем"
+      ],
+      "chunk_id": "13"
+    },
+    "metadata": {
+      "score": 0.8362703919410706,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7448d06d-1877-4422-ab06-0e98f23fe77c: original score 4.3561583, normalized score: 0.5246288 - \nHybrid (Result Set vector,hybridVector) Document 7448d06d-1877-4422-ab06-0e98f23fe77c: original score 0.42586046, normalized score: 0.31164157"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Сумма вознаграждения НКО за исполнение обязательств по Договору, удержанная за отчетный период (без НДС)",
+      "chunk_id": "13",
+      "hasStatement": [
+        "сумма вознаграждения нко isResultOf удержание вознаграждения"
+      ],
+      "type": "Unknown"
+    },
+    "metadata": {
+      "score": 0.5432620644569397,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e4af7858-5c73-47ee-8cc9-92ea7f3a40a6: original score 1.794132, normalized score: 0.18242413 - \nHybrid (Result Set vector,hybridVector) Document e4af7858-5c73-47ee-8cc9-92ea7f3a40a6: original score 0.4808269, normalized score: 0.36083794"
+    }
+  }
+]

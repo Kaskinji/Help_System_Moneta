@@ -1,0 +1,74 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "замена Аутентификационных данных",
+      "chunk_id": "104",
+      "hasStatement": [
+        "замена аутентификационных данных hasResponsible получатель"
+      ],
+      "type": "Process"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 989242f4-8781-45ce-bd83-72a7a672cfe5: original score 4.345762, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 989242f4-8781-45ce-bd83-72a7a672cfe5: original score 0.5920519, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Смена Аутентификационных данных",
+      "type": "Process",
+      "hasStatement": [
+        "смена аутентификационных данных hasResult новые аутентификационные данные"
+      ],
+      "chunk_id": "105"
+    },
+    "metadata": {
+      "score": 0.6459512710571289,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 6a9718e4-c271-429a-8af4-eaf84a307640: original score 2.43389, normalized score: 0.28796318 - \nHybrid (Result Set vector,hybridVector) Document 6a9718e4-c271-429a-8af4-eaf84a307640: original score 0.56648445, normalized score: 0.3579881"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "смена Аутентификационных данных",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "104"
+    },
+    "metadata": {
+      "score": 0.6284712553024292,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 054d6e58-0c1a-42c4-8d6c-bb884f825615: original score 2.43389, normalized score: 0.28796318 - \nHybrid (Result Set vector,hybridVector) Document 054d6e58-0c1a-42c4-8d6c-bb884f825615: original score 0.5558465, normalized score: 0.34050807"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "смена Аутентификационных данных",
+      "type": "Process",
+      "hasStatement": [
+        "смена аутентификационных данных hasResult новые аутентификационные данные",
+        "смена аутентификационных данных hasResult новые аутентификационные данные"
+      ],
+      "chunk_id": "16"
+    },
+    "metadata": {
+      "score": 0.5799341201782227,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 8a3a71da-72a4-4b68-9219-eefd93744fe0: original score 2.43389, normalized score: 0.28796318 - \nHybrid (Result Set vector,hybridVector) Document 8a3a71da-72a4-4b68-9219-eefd93744fe0: original score 0.52630794, normalized score: 0.29197094"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "принудительная инициация смены Аутентификационных данных",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "104"
+    },
+    "metadata": {
+      "score": 0.5330448150634766,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ec105853-28a5-4c10-a822-984dd4cfe536: original score 1.7102624, normalized score: 0.16985977 - \nHybrid (Result Set vector,hybridVector) Document ec105853-28a5-4c10-a822-984dd4cfe536: original score 0.5696472, normalized score: 0.36318502"
+    }
+  }
+]

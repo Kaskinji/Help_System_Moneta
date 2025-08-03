@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Информация о тарифной политике Сторон",
+      "type": "Resource",
+      "hasStatement": [
+        "информация о тарифной политике isPartOf конфиденциальная информация"
+      ],
+      "chunk_id": "85"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 632a113d-8d44-4c14-9dd0-0942966cecbf: original score 5.0512223, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 632a113d-8d44-4c14-9dd0-0942966cecbf: original score 0.5940611, normalized score: 0.4"
+    }
+  }
+]

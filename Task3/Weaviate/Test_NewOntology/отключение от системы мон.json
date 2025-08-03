@@ -1,0 +1,15 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "отключение от системы мон",
+      "type": "Event",
+      "hasStatement": [],
+      "chunk_id": "25"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document c9a6acd4-579c-4078-8dff-43bd47d4e841: original score 5.199712, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document c9a6acd4-579c-4078-8dff-43bd47d4e841: original score 0.40093017, normalized score: 0.4"
+    }
+  }
+]

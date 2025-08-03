@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "оквэдокпо 64",
+      "type": "Unknown",
+      "hasStatement": [
+        "оквэдокпо 64 hasResponsible небанковская кредитная организация монета"
+      ],
+      "chunk_id": "11"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a9d9b149-4950-4e4e-a0ce-62dc83236142: original score 4.849724, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document a9d9b149-4950-4e4e-a0ce-62dc83236142: original score 0.44189966, normalized score: 0.4"
+    }
+  }
+]

@@ -1,0 +1,121 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "уведомление",
+      "type": "Resource",
+      "hasStatement": [
+        "уведомление isResultOf направление уведомления",
+        "уведомление isResultOf направление уведомления"
+      ],
+      "chunk_id": "26"
+    },
+    "metadata": {
+      "score": 0.9307712316513062,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 54d2a2f0-d436-419f-99e2-acc533e00987: original score 1.9534051, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 54d2a2f0-d436-419f-99e2-acc533e00987: original score 0.56464803, normalized score: 0.33077124"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Уведомление",
+      "type": "Resource",
+      "hasStatement": [
+        "уведомление isResultOf извещение об изменениях"
+      ],
+      "chunk_id": "63"
+    },
+    "metadata": {
+      "score": 0.8967424631118774,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 17d113eb-7383-4f5a-b2d4-4a7caf32ef6b: original score 1.9534051, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 17d113eb-7383-4f5a-b2d4-4a7caf32ef6b: original score 0.55007166, normalized score: 0.29674244"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "уведомление",
+      "type": "Resource",
+      "hasStatement": [
+        "уведомление isResourceOf направление уведомления"
+      ],
+      "chunk_id": "79"
+    },
+    "metadata": {
+      "score": 0.8490312695503235,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7fee7ef3-d5e1-4364-b2d5-63a895da5943: original score 1.9534051, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 7fee7ef3-d5e1-4364-b2d5-63a895da5943: original score 0.52963436, normalized score: 0.24903123"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "уведомление",
+      "type": "Resource",
+      "hasStatement": [
+        "уведомление isResourceOf направление уведомления"
+      ],
+      "chunk_id": "62"
+    },
+    "metadata": {
+      "score": 0.8490312695503235,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7cc0af1f-6028-488e-b0ca-3c1763122c63: original score 1.9534051, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 7cc0af1f-6028-488e-b0ca-3c1763122c63: original score 0.52963436, normalized score: 0.24903123"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "уведомление",
+      "type": "Resource",
+      "hasStatement": [
+        "уведомление isResourceOf направление уведомления"
+      ],
+      "chunk_id": "114"
+    },
+    "metadata": {
+      "score": 0.8490312695503235,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 32aeeeb6-8b48-4607-b3e1-12d021b0fdef: original score 1.9534051, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 32aeeeb6-8b48-4607-b3e1-12d021b0fdef: original score 0.52963436, normalized score: 0.24903123"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Уведомление",
+      "chunk_id": "90",
+      "hasStatement": [
+        "уведомление hasResource расторжение договора"
+      ],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 0.8166950941085815,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a4510bbf-7f17-4b67-93dd-0aca67e75bbe: original score 1.9534051, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document a4510bbf-7f17-4b67-93dd-0aca67e75bbe: original score 0.515783, normalized score: 0.21669506"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "письменное уведомление",
+      "chunk_id": "54",
+      "hasStatement": [
+        "письменное уведомление isResultOf уведомление"
+      ],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 0.7486194372177124,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 25a5845f-85a8-4752-8e5d-153ea3b8be26: original score 1.4292704, normalized score: 0.35120714 - \nHybrid (Result Set vector,hybridVector) Document 25a5845f-85a8-4752-8e5d-153ea3b8be26: original score 0.593194, normalized score: 0.39741227"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Уведомление о приостановлении",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "44"
+    },
+    "metadata": {
+      "score": 0.6076807975769043,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document f924313b-cf05-4ee1-aacf-148ef4f78385: original score 1.1269019, normalized score: 0.2076808 - \nHybrid (Result Set vector,hybridVector) Document f924313b-cf05-4ee1-aacf-148ef4f78385: original score 0.5943025, normalized score: 0.4"
+    }
+  }
+]

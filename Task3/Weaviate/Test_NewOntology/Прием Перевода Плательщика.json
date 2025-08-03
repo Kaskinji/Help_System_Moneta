@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Прием Перевода Плательщика",
+      "type": "Process",
+      "hasStatement": [
+        "прием перевода плательщика isPartOf финансовая операция"
+      ],
+      "chunk_id": "90"
+    },
+    "metadata": {
+      "score": 0.6630219221115112,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 9265dbd6-b092-4618-be77-ace16b3a05df: original score 3.9830198, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 9265dbd6-b092-4618-be77-ace16b3a05df: original score 0.29659963, normalized score: 0.063021906"
+    }
+  }
+]

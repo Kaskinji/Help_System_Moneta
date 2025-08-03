@@ -1,0 +1,34 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Договор",
+      "type": "Unknown",
+      "hasStatement": [
+        "договор isResourceOf расторжение договора",
+        "договор relation получатель",
+        "договор relation недействительные переводы"
+      ],
+      "chunk_id": "40"
+    },
+    "metadata": {
+      "score": 0.7471734881401062,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document dc04029a-95c5-4676-a487-a7aa0ed80efc: original score 1.6850721, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document dc04029a-95c5-4676-a487-a7aa0ed80efc: original score 0.32683206, normalized score: 0.14717345"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "договор",
+      "type": "Unknown",
+      "hasStatement": [
+        "договор isResourceOf выполнение обязательств по договору"
+      ],
+      "chunk_id": "41"
+    },
+    "metadata": {
+      "score": 0.6438235640525818,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document f32de03f-04d8-4bee-a7f5-be98b09179ec: original score 1.6850721, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document f32de03f-04d8-4bee-a7f5-be98b09179ec: original score 0.27816415, normalized score: 0.043823525"
+    }
+  }
+]

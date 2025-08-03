@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "неустойка",
+      "type": "Resource",
+      "hasStatement": [
+        "неустойка isResultOf выплата неустойки",
+        "неустойка isResultOf выплата неустойки"
+      ],
+      "chunk_id": "83"
+    },
+    "metadata": {
+      "score": 0.7591735124588013,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 2711dc1a-2236-4ba7-83c1-7d01db3fec47: original score 3.314095, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 2711dc1a-2236-4ba7-83c1-7d01db3fec47: original score 0.281007, normalized score: 0.1591735"
+    }
+  }
+]

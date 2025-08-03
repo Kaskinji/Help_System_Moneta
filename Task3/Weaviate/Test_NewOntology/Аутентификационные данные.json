@@ -1,0 +1,104 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Аутентификационные данные",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "106"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 25461b58-b2bb-4e5d-a386-4e1cabfcfc16: original score 3.2265718, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 25461b58-b2bb-4e5d-a386-4e1cabfcfc16: original score 0.59982234, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Аутентификационные данные",
+      "chunk_id": "1",
+      "hasStatement": [],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 0230be49-73b2-482e-a5c2-0f8d9e2ed8f0: original score 3.2265718, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 0230be49-73b2-482e-a5c2-0f8d9e2ed8f0: original score 0.59982234, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Аутентификационные данные",
+      "type": "Resource",
+      "hasStatement": [
+        "аутентификационные данные isResourceOf экстренное прекращение действия"
+      ],
+      "chunk_id": "105"
+    },
+    "metadata": {
+      "score": 0.867194414138794,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document bbc0ed53-9a2a-486d-8b02-24e7eb2a8f19: original score 3.2265718, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document bbc0ed53-9a2a-486d-8b02-24e7eb2a8f19: original score 0.55612004, normalized score: 0.26719436"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Аутентификационные данные",
+      "type": "Resource",
+      "hasStatement": [
+        "аутентификационные данные isResourceOf информационный обмен"
+      ],
+      "chunk_id": "14"
+    },
+    "metadata": {
+      "score": 0.8289065957069397,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ee316ee6-c2cb-4882-aa7c-3ab5e5903660: original score 3.2265718, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document ee316ee6-c2cb-4882-aa7c-3ab5e5903660: original score 0.5435207, normalized score: 0.22890659"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Аутентификационные данные",
+      "type": "Resource",
+      "hasStatement": [
+        "аутентификационные данные isResourceOf информационный обмен"
+      ],
+      "chunk_id": "103"
+    },
+    "metadata": {
+      "score": 0.8289065957069397,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e9501d0f-00e6-4206-83e9-43ec7acce2ce: original score 3.2265718, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document e9501d0f-00e6-4206-83e9-43ec7acce2ce: original score 0.5435207, normalized score: 0.22890659"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Аутентификационные данные",
+      "type": "Resource",
+      "hasStatement": [
+        "аутентификационные данные relation обеспечение доступа к аутентификац"
+      ],
+      "chunk_id": "104"
+    },
+    "metadata": {
+      "score": 0.7669330835342407,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 52917667-a4a0-42af-9157-9a9a0bb54f35: original score 3.2265718, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 52917667-a4a0-42af-9157-9a9a0bb54f35: original score 0.5231271, normalized score: 0.16693304"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Аутентификационные данные",
+      "type": "Resource",
+      "hasStatement": [
+        "аутентификационные данные relation окончание срока действия аутентифик",
+        "аутентификационные данные relation компрометация аутентификационных данн"
+      ],
+      "chunk_id": "17"
+    },
+    "metadata": {
+      "score": 0.618074357509613,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 17c8a0e9-e306-4dfb-96bf-4d29cba8db99: original score 3.2265718, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 17c8a0e9-e306-4dfb-96bf-4d29cba8db99: original score 0.4741422, normalized score: 0.018074317"
+    }
+  }
+]

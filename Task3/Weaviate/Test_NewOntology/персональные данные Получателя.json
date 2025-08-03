@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "персональные данные Получателя",
+      "type": "Resource",
+      "hasStatement": [
+        "персональные данные получателя isResourceOf обработка персональных данных",
+        "персональные данные получателя isResourceOf передача персональных данных"
+      ],
+      "chunk_id": "49"
+    },
+    "metadata": {
+      "score": 0.9181748032569885,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 43ab4c5e-230c-4100-89ee-5331800a4732: original score 4.0035505, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 43ab4c5e-230c-4100-89ee-5331800a4732: original score 0.4870609, normalized score: 0.31817478"
+    }
+  }
+]

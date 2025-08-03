@@ -1,0 +1,50 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "отключение интернет-магазина",
+      "type": "Process",
+      "hasStatement": [
+        "отключение интернет-магазина hasResource интернет-магазин",
+        "отключение интернет-магазина hasActor нко"
+      ],
+      "chunk_id": "52"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document c9bc8a27-fc56-493a-aa83-009e824c5080: original score 3.9950347, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document c9bc8a27-fc56-493a-aa83-009e824c5080: original score 0.50750244, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Отключение Интернет-магазина",
+      "type": "Process",
+      "hasStatement": [
+        "отключение интернет-магазина hasActor нко",
+        "отключение интернет-магазина hasActor нко"
+      ],
+      "chunk_id": "51"
+    },
+    "metadata": {
+      "score": 0.9143619537353516,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 1ec8915a-5aea-40c0-8fdd-b0593bce9b0e: original score 3.9950347, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 1ec8915a-5aea-40c0-8fdd-b0593bce9b0e: original score 0.42620873, normalized score: 0.3143619"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "отключение Получателя/Интернет-магазина",
+      "type": "Process",
+      "hasStatement": [
+        "отключение получателя интернет магазин relation уведомление об отключении",
+        "отключение получателя интернет магазин hasActor нко"
+      ],
+      "chunk_id": "113"
+    },
+    "metadata": {
+      "score": 0.5544118881225586,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e52784f8-a345-454a-9add-8e140117857e: original score 2.0332801, normalized score: 0.19525906 - \nHybrid (Result Set vector,hybridVector) Document e52784f8-a345-454a-9add-8e140117857e: original score 0.4687274, normalized score: 0.3591528"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "нарушение Договора",
+      "type": "Event",
+      "hasStatement": [
+        "нарушение договора relation обязательства"
+      ],
+      "chunk_id": "93"
+    },
+    "metadata": {
+      "score": 0.7973015308380127,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7343068e-bc18-445b-9bb5-892ce5005226: original score 3.4514112, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 7343068e-bc18-445b-9bb5-892ce5005226: original score 0.30587536, normalized score: 0.1973015"
+    }
+  }
+]

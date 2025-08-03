@@ -1,0 +1,35 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "требования",
+      "type": "Resource",
+      "hasStatement": [
+        "требования isResourceOf формирование",
+        "требования isResourceOf согласование",
+        "требования isResourceOf подписание",
+        "требования isPartOf раздел 7 договора"
+      ],
+      "chunk_id": "65"
+    },
+    "metadata": {
+      "score": 0.9480996131896973,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 9fa15b18-21cb-48e8-92e3-7c0fd0e2bbc0: original score 2.0902445, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 9fa15b18-21cb-48e8-92e3-7c0fd0e2bbc0: original score 0.37282687, normalized score: 0.3480996"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "встречные требования",
+      "chunk_id": "76",
+      "hasStatement": [
+        "встречные требования isResourceOf зачет встречных требований"
+      ],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 0.6087127923965454,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 026f4969-2f2d-4707-977e-afd7f2ba84e6: original score 1.5293933, normalized score: 0.3658408 - \nHybrid (Result Set vector,hybridVector) Document 026f4969-2f2d-4707-977e-afd7f2ba84e6: original score 0.3267303, normalized score: 0.242872"
+    }
+  }
+]

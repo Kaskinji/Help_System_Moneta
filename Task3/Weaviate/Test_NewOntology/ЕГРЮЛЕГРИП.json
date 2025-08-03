@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "ЕГРЮЛ/ЕГРИП",
+      "chunk_id": "88",
+      "hasStatement": [
+        "егрюл егрип relation место нахождения"
+      ],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 0.6000000238418579,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7e826e0c-67ed-470c-9284-a530ae24a9d1: original score 3.314095, normalized score: 0.6"
+    }
+  }
+]

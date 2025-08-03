@@ -1,0 +1,15 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "способ доставки",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "7"
+    },
+    "metadata": {
+      "score": 0.8633643388748169,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 2aee0716-9b19-4b09-adb0-a855140e15e6: original score 4.667649, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 2aee0716-9b19-4b09-adb0-a855140e15e6: original score 0.26125282, normalized score: 0.26336434"
+    }
+  }
+]

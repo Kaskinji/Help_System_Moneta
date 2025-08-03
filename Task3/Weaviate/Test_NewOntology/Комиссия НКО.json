@@ -1,0 +1,32 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Комиссия НКО",
+      "type": "Resource",
+      "hasStatement": [
+        "комиссия нко isResourceOf операция возврата перевода"
+      ],
+      "chunk_id": "109"
+    },
+    "metadata": {
+      "score": 0.6800277829170227,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document d2134138-bdd5-4d34-b017-276f5053c8e4: original score 3.086948, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document d2134138-bdd5-4d34-b017-276f5053c8e4: original score 0.35411417, normalized score: 0.08002778"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "комиссия Эмитента/Эквайрера",
+      "type": "Resource",
+      "hasStatement": [
+        "комиссия эмитента эквайрера isResourceOf зачет"
+      ],
+      "chunk_id": "75"
+    },
+    "metadata": {
+      "score": 0.6332123279571533,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 6daae3da-955d-468c-8f3a-fb53d836a103: original score 2.242787, normalized score: 0.42591456 - \nHybrid (Result Set vector,hybridVector) Document 6daae3da-955d-468c-8f3a-fb53d836a103: original score 0.40817392, normalized score: 0.20729776"
+    }
+  }
+]

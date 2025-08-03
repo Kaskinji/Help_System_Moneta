@@ -1,0 +1,30 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Окончание срока действия Аутентификационных данных",
+      "type": "Event",
+      "hasStatement": [],
+      "chunk_id": "106"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 1007a35b-f1fe-46ce-8ac4-3f56e91e83c1: original score 5.107904, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 1007a35b-f1fe-46ce-8ac4-3f56e91e83c1: original score 0.6520033, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Окончание срока действия Аутентификационных данных",
+      "type": "Event",
+      "hasStatement": [
+        "окончание срока действия аутентифик relation аутентификационные данные"
+      ],
+      "chunk_id": "17"
+    },
+    "metadata": {
+      "score": 0.9558427333831787,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 9b16a58d-2cd7-42e6-ab1b-0aed7ac78ebf: original score 5.107904, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 9b16a58d-2cd7-42e6-ab1b-0aed7ac78ebf: original score 0.6140477, normalized score: 0.35584268"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "получение запроса",
+      "type": "Process",
+      "hasStatement": [
+        "получение запроса hasResult запрос нко"
+      ],
+      "chunk_id": "56"
+    },
+    "metadata": {
+      "score": 0.6300070285797119,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document bc07c53d-616d-4ee1-9c5c-8f3950d8fe7f: original score 3.4436622, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document bc07c53d-616d-4ee1-9c5c-8f3950d8fe7f: original score 0.2717663, normalized score: 0.030007014"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "уведомление об отключении",
+      "type": "Resource",
+      "hasStatement": [
+        "уведомление об отключении relation отключение получателя интернет магазин"
+      ],
+      "chunk_id": "113"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 38326dfb-7053-43a3-9b65-8a5a6b68e61d: original score 4.1010604, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 38326dfb-7053-43a3-9b65-8a5a6b68e61d: original score 0.5905733, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "уведомление об отключении",
+      "type": "Resource",
+      "hasStatement": [
+        "уведомление об отключении isResourceOf направление уведомления"
+      ],
+      "chunk_id": "25"
+    },
+    "metadata": {
+      "score": 0.9088525772094727,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a87144d9-3fd8-4c99-8901-2e2bb279decb: original score 4.1010604, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document a87144d9-3fd8-4c99-8901-2e2bb279decb: original score 0.51725507, normalized score: 0.30885252"
+    }
+  }
+]

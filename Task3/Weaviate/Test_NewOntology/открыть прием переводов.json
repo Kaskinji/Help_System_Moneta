@@ -1,0 +1,51 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "открыть прием переводов",
+      "chunk_id": "30",
+      "hasStatement": [
+        "открыть прием переводов hasActor нко монета ооо 02",
+        "открыть прием переводов hasResource переводы"
+      ],
+      "type": "Process"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document d80975b7-5596-43b5-95c0-a152a32ac8d1: original score 4.351598, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document d80975b7-5596-43b5-95c0-a152a32ac8d1: original score 0.508546, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "прием переводов",
+      "type": "Process",
+      "hasStatement": [
+        "прием переводов relation интернет ресурс"
+      ],
+      "chunk_id": "33"
+    },
+    "metadata": {
+      "score": 0.5614955425262451,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document c950f1ef-7577-45f4-99ee-9c25b65137b7: original score 3.0943499, normalized score: 0.3822663 - \nHybrid (Result Set vector,hybridVector) Document c950f1ef-7577-45f4-99ee-9c25b65137b7: original score 0.34820384, normalized score: 0.17922924"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "прием переводов",
+      "type": "Process",
+      "hasStatement": [
+        "открыт прием переводов hasResource система",
+        "открыт прием переводов hasActor председатель правления",
+        "открыт прием переводов hasResource интернет-ресурс",
+        "открыт прием переводов hasResource доступ"
+      ],
+      "chunk_id": "120"
+    },
+    "metadata": {
+      "score": 0.5099244117736816,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 140be8c6-4dc2-4134-b6a8-d3fcbb1fb603: original score 3.0943499, normalized score: 0.3822663 - \nHybrid (Result Set vector,hybridVector) Document 140be8c6-4dc2-4134-b6a8-d3fcbb1fb603: original score 0.31074858, normalized score: 0.12765811"
+    }
+  }
+]

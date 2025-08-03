@@ -1,0 +1,32 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Перечислено Получателем в пользу НКО за отчетный период",
+      "type": "Unknown",
+      "hasStatement": [
+        "перечислено получателем isResultOf перечисление получателем"
+      ],
+      "chunk_id": "13"
+    },
+    "metadata": {
+      "score": 0.9784221649169922,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7448d06d-1877-4422-ab06-0e98f23fe77c: original score 4.9577775, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 7448d06d-1877-4422-ab06-0e98f23fe77c: original score 0.4975978, normalized score: 0.3784221"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Перечислено денежных средств НКО в пользу Получателя за отчетный период",
+      "type": "Unknown",
+      "hasStatement": [
+        "перечислено денежных средств нко isResultOf перечисление нко"
+      ],
+      "chunk_id": "13"
+    },
+    "metadata": {
+      "score": 0.7676112651824951,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 14ade662-9fca-4669-a7a3-62993f8e3ff4: original score 3.6132247, normalized score: 0.4170021 - \nHybrid (Result Set vector,hybridVector) Document 14ade662-9fca-4669-a7a3-62993f8e3ff4: original score 0.471825, normalized score: 0.35060915"
+    }
+  }
+]

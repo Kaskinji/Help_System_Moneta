@@ -1,0 +1,51 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Перевод",
+      "type": "Process",
+      "hasStatement": [
+        "перевод hasActor па",
+        "перевод hasResource денежные средства",
+        "перевод hasActor юридические лица",
+        "перевод hasActor индивидуальные предприниматели"
+      ],
+      "chunk_id": "20"
+    },
+    "metadata": {
+      "score": 0.7650381922721863,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document c8520c12-39ca-436a-8b97-e7de088abd45: original score 2.208923, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document c8520c12-39ca-436a-8b97-e7de088abd45: original score 0.3594085, normalized score: 0.16503818"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Перевод",
+      "type": "Process",
+      "hasStatement": [
+        "перевод hasActor юридическое лицо"
+      ],
+      "chunk_id": "70"
+    },
+    "metadata": {
+      "score": 0.7116312980651855,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 1bcc2711-c3c2-495e-aeee-dff71dcd4701: original score 2.208923, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 1bcc2711-c3c2-495e-aeee-dff71dcd4701: original score 0.33109003, normalized score: 0.111631274"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Перевод",
+      "type": "Process",
+      "hasStatement": [
+        "перевод hasResource платежные средства",
+        "перевод relation действия направленные против плательщиков"
+      ],
+      "chunk_id": "82"
+    },
+    "metadata": {
+      "score": 0.6537556052207947,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7b2ff372-6956-4b58-be66-567a810dede2: original score 2.208923, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 7b2ff372-6956-4b58-be66-567a810dede2: original score 0.30040205, normalized score: 0.0537556"
+    }
+  }
+]

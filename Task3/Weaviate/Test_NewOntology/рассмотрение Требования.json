@@ -1,0 +1,59 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "рассмотрение Требования",
+      "type": "Process",
+      "hasStatement": [
+        "рассмотрение требования hasActor получатель",
+        "рассмотрение требования hasResource требование",
+        "рассмотрение требования hasResult уведомление о согласии с исполнением тре",
+        "рассмотрение требования hasResult мотивированный отказ от исполнения тре",
+        "рассмотрение требования hasResource требование",
+        "рассмотрение требования hasResult уведомление о согласии с исполнением тре",
+        "рассмотрение требования hasResult мотивированный отказ от исполнения тре",
+        "рассмотрение требования hasActor получатель"
+      ],
+      "chunk_id": "117"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 62bd1a17-a599-4264-9393-21b499b12861: original score 3.3805985, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 62bd1a17-a599-4264-9393-21b499b12861: original score 0.48578495, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "рассмотрение Требования",
+      "type": "Process",
+      "hasStatement": [
+        "рассмотрение требования hasResponsible получатель",
+        "рассмотрение требования hasResource требование",
+        "рассмотрение требования isResponsibleFor нко"
+      ],
+      "chunk_id": "29"
+    },
+    "metadata": {
+      "score": 0.8633972406387329,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 3737d287-261a-4fdd-8b62-43c993945715: original score 3.3805985, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 3737d287-261a-4fdd-8b62-43c993945715: original score 0.4158857, normalized score: 0.2633972"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "направление требования",
+      "type": "Process",
+      "hasStatement": [
+        "направление требования hasResource требование",
+        "направление требования isPartOf рассмотрение заявлений эмитента",
+        "направление требования hasActor нко",
+        "направление требования hasResource требование"
+      ],
+      "chunk_id": "116"
+    },
+    "metadata": {
+      "score": 0.5227183699607849,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ec103987-a752-42da-bb18-1a11754584a5: original score 1.5293933, normalized score: 0.21627013 - \nHybrid (Result Set vector,hybridVector) Document ec103987-a752-42da-bb18-1a11754584a5: original score 0.4379148, normalized score: 0.30644825"
+    }
+  }
+]

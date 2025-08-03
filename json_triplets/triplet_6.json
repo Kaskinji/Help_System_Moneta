@@ -1,0 +1,41 @@
+[
+    {
+        "label": "Заявление на перечисление",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Resource",
+        "hasStatement": [
+            "заявление на перечисление hasResponsible получатель"
+        ],
+        "chunk_id": "6"
+    },
+    {
+        "label": "\"",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Unknown",
+        "hasStatement": [],
+        "chunk_id": "6"
+    },
+    {
+        "label": "Заявление на перечисление по Операции возврата Перевода",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Resource",
+        "hasStatement": [
+            "заявление на перечисление по операции воз hasResponsible получатель"
+        ],
+        "chunk_id": "6"
+    },
+    {
+        "label": "Получатель",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Agent",
+        "hasStatement": [
+            "получатель isResponsibleFor заявление на перечисление",
+            "получатель isResponsibleFor заявление на перечисление по операции воз"
+        ],
+        "chunk_id": "6"
+    }
+]

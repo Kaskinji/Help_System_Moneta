@@ -1,0 +1,34 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "мотивированный отказ от исполнения Требования",
+      "chunk_id": "29",
+      "hasStatement": [
+        "мотивированный отказ от исполнения требований isResultOf направление уведомления или отказа"
+      ],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 866484b8-50d8-4ff0-8675-2243a05f0f9a: original score 4.7818737, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 866484b8-50d8-4ff0-8675-2243a05f0f9a: original score 0.45102918, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "мотивированный отказ от исполнения Требования",
+      "type": "Resource",
+      "hasStatement": [
+        "мотивированный отказ от исполнения тре isResultOf рассмотрение требования",
+        "мотивированный отказ от исполнения тре isResultOf рассмотрение требования",
+        "мотивированный отказ от исполнения тре isResourceOf направление ответа"
+      ],
+      "chunk_id": "117"
+    },
+    "metadata": {
+      "score": 0.9568253755569458,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 42d9af3b-a40b-49f0-bdc0-64f98c941b56: original score 4.7818737, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 42d9af3b-a40b-49f0-bdc0-64f98c941b56: original score 0.414761, normalized score: 0.35682532"
+    }
+  }
+]

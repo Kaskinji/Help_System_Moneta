@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "переход прав и обязанностей",
+      "type": "Process",
+      "hasStatement": [
+        "переход прав и обязанностей hasResource права и обязанности по договору"
+      ],
+      "chunk_id": "64"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 6aa44470-42f7-4e28-a849-cfb98456ba2c: original score 5.423489, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 6aa44470-42f7-4e28-a849-cfb98456ba2c: original score 0.30219507, normalized score: 0.4"
+    }
+  }
+]

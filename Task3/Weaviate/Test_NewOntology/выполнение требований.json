@@ -1,0 +1,19 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "выполнение требований",
+      "type": "Process",
+      "hasStatement": [
+        "выполнение требований hasResource сведения и документы",
+        "выполнение требований hasResource требования законодательства рф и",
+        "выполнение требований hasResource федеральный закон 115-фз"
+      ],
+      "chunk_id": "56"
+    },
+    "metadata": {
+      "score": 0.7543003559112549,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 854862d6-9d30-474c-b242-0369a9aa4026: original score 4.084612, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 854862d6-9d30-474c-b242-0369a9aa4026: original score 0.35572612, normalized score: 0.15430035"
+    }
+  }
+]

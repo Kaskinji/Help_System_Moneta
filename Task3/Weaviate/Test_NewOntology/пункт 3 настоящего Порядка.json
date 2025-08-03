@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "пункт 3 настоящего Порядка",
+      "type": "Resource",
+      "hasStatement": [
+        "пункт 3 настоящего порядка canBeResourceFor приостановка перечислений получателю"
+      ],
+      "chunk_id": "115"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ab06d723-a61f-4007-b2b6-c0ece32c817a: original score 6.312127, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document ab06d723-a61f-4007-b2b6-c0ece32c817a: original score 0.50255585, normalized score: 0.4"
+    }
+  }
+]

@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Претензионный порядок",
+      "type": "Process",
+      "hasStatement": [
+        "претензионный порядок relation договор"
+      ],
+      "chunk_id": "89"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 55dd2fe9-9380-4cbc-a38e-b9956a7f15fc: original score 4.276067, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 55dd2fe9-9380-4cbc-a38e-b9956a7f15fc: original score 0.3807668, normalized score: 0.4"
+    }
+  }
+]

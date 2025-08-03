@@ -1,0 +1,103 @@
+[
+    {
+        "label": "Запрещенные услуги",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Resource",
+        "hasStatement": [
+            "запрещенные услуги hasResponsible получатель"
+        ],
+        "chunk_id": "4"
+    },
+    {
+        "label": "\"@ru",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Unknown",
+        "hasStatement": [],
+        "chunk_id": "4"
+    },
+    {
+        "label": "Получатель",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Agent",
+        "hasStatement": [
+            "получатель isResponsibleFor запрещенные услуги",
+            "получатель isResponsibleFor документы подтверждающие факт ",
+            "получатель isActorOf порядок взаимодействия сторон"
+        ],
+        "chunk_id": "4"
+    },
+    {
+        "label": "Документы подтверждающие факт оказания",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Resource",
+        "hasStatement": [
+            "документы подтверждающие факт  hasResponsible получатель"
+        ],
+        "chunk_id": "4"
+    },
+    {
+        "label": "Порядок взаимодействия Сторон",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Process",
+        "hasStatement": [
+            "порядок взаимодействия сторон hasActor получатель",
+            "порядок взаимодействия сторон hasActor нко"
+        ],
+        "chunk_id": "4"
+    },
+    {
+        "label": "Плательщик",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Agent",
+        "hasStatement": [
+            "плательщик isResponsibleFor перевод"
+        ],
+        "chunk_id": "4"
+    },
+    {
+        "label": "Перевод",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Resource",
+        "hasStatement": [
+            "перевод hasResponsible плательщик"
+        ],
+        "chunk_id": "4"
+    },
+    {
+        "label": "НКО",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Agent",
+        "hasStatement": [
+            "нко isActorOf порядок взаимодействия сторон"
+        ],
+        "chunk_id": "4"
+    },
+    {
+        "label": "Приложение №4",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Resource",
+        "hasStatement": [
+            "приложение 4 isPartOf договор"
+        ],
+        "chunk_id": "4"
+    },
+    {
+        "label": "Договор",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Resource",
+        "hasStatement": [
+            "договор hasPart приложение 4"
+        ],
+        "chunk_id": "4"
+    }
+]

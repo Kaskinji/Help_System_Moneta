@@ -1,0 +1,49 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "передача информации",
+      "type": "Process",
+      "hasStatement": [
+        "передача информации hasActor мпс"
+      ],
+      "chunk_id": "45"
+    },
+    "metadata": {
+      "score": 0.8923398852348328,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e498ec4e-faad-45c5-b26b-86cbe6121e54: original score 3.1577854, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document e498ec4e-faad-45c5-b26b-86cbe6121e54: original score 0.50077176, normalized score: 0.29233986"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "передача персональных данных",
+      "type": "Process",
+      "hasStatement": [
+        "передача персональных данных hasResource персональные данные получателя",
+        "передача персональных данных hasActor торговая площадка"
+      ],
+      "chunk_id": "49"
+    },
+    "metadata": {
+      "score": 0.5849945545196533,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document b8ba94f3-5b72-4804-87b0-2348482aae6e: original score 1.4244001, normalized score: 0.18499452 - \nHybrid (Result Set vector,hybridVector) Document b8ba94f3-5b72-4804-87b0-2348482aae6e: original score 0.54367006, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "передача информации в международные платежные системы",
+      "type": "Process",
+      "hasStatement": [
+        "передача информации в международные пла hasResource сведения о получателе",
+        "передача информации в международные пла hasResource сведения о получателе"
+      ],
+      "chunk_id": "98"
+    },
+    "metadata": {
+      "score": 0.5541810393333435,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 2c56cf11-7e22-418e-b715-460f94aa2e22: original score 1.5230912, normalized score: 0.20862305 - \nHybrid (Result Set vector,hybridVector) Document 2c56cf11-7e22-418e-b715-460f94aa2e22: original score 0.52197707, normalized score: 0.345558"
+    }
+  }
+]

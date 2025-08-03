@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "прекращение взаимодействия",
+      "type": "Process",
+      "hasStatement": [
+        "прекращение взаимодействия relation получатель",
+        "прекращение взаимодействия hasResult РУ\"@ru"
+      ],
+      "chunk_id": "25"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 619cb0f4-f884-49be-b631-21d0c2bb847a: original score 3.4482913, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 619cb0f4-f884-49be-b631-21d0c2bb847a: original score 0.493734, normalized score: 0.4"
+    }
+  }
+]

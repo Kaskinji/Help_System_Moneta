@@ -1,0 +1,19 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "передача (уступка) прав требования",
+      "type": "Process",
+      "hasStatement": [
+        "передача уступка прав требова hasResource права требования к нко",
+        "передача уступка прав требова hasActor получатель",
+        "передача уступка прав требова hasResource письменное согласие нко"
+      ],
+      "chunk_id": "36"
+    },
+    "metadata": {
+      "score": 0.8308541774749756,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 92fa015a-ef78-4d77-81c9-b56bae34b11f: original score 5.20854, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 92fa015a-ef78-4d77-81c9-b56bae34b11f: original score 0.3106674, normalized score: 0.23085414"
+    }
+  }
+]

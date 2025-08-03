@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "банковским реквизитам Получателя",
+      "type": "Resource",
+      "hasStatement": [
+        "банковским реквизитам получателя isResourceOf перечисление",
+        "банковским реквизитам получателя isResourceOf перечисление"
+      ],
+      "chunk_id": "72"
+    },
+    "metadata": {
+      "score": 0.8661785125732422,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 6c888326-f2bf-4cf2-8cbd-46b3a8d8214d: original score 4.7645884, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 6c888326-f2bf-4cf2-8cbd-46b3a8d8214d: original score 0.40397716, normalized score: 0.26617846"
+    }
+  }
+]

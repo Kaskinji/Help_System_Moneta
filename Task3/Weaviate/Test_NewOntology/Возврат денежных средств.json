@@ -1,0 +1,69 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "возврат денежных средств",
+      "type": "Process",
+      "hasStatement": [
+        "возврат денежных средств hasActor нко",
+        "возврат денежных средств isPartOf операция возврата перевода",
+        "возврат денежных средств hasResource денежные средства"
+      ],
+      "chunk_id": "19"
+    },
+    "metadata": {
+      "score": 0.6248852610588074,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 8ce6bc24-051d-4db8-81c9-d4b6a7f051bb: original score 3.7266228, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 8ce6bc24-051d-4db8-81c9-d4b6a7f051bb: original score 0.16678035, normalized score: 0.024885258"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Возврат денежных средств",
+      "type": "Process",
+      "hasStatement": [
+        "возврат денежных средств relation операция возврата перевода",
+        "возврат денежных средств hasActor нко",
+        "возврат денежных средств hasActor плательщик",
+        "возврат денежных средств relation нко",
+        "возврат денежных средств relation плательщик",
+        "возврат денежных средств relation денежные средства",
+        "возврат денежных средств hasResource денежные средства"
+      ],
+      "chunk_id": "108"
+    },
+    "metadata": {
+      "score": 0.6186423897743225,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 53b9e887-01b8-4cff-a46a-a7e625268566: original score 3.7266228, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 53b9e887-01b8-4cff-a46a-a7e625268566: original score 0.16192144, normalized score: 0.018642364"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "перечисление денежных средств",
+      "type": "Process",
+      "hasStatement": [
+        "перечисление денежных средств hasResource денежные средства",
+        "перечисление денежных средств relation аккумулирование денежных средств"
+      ],
+      "chunk_id": "15"
+    },
+    "metadata": {
+      "score": 0.5439053773880005,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 48edbf7f-49ad-46bb-934f-65841118cdf6: original score 2.3022227, normalized score: 0.29462278 - \nHybrid (Result Set vector,hybridVector) Document 48edbf7f-49ad-46bb-934f-65841118cdf6: original score 0.34143126, normalized score: 0.24928258"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Перечисление денежных средств",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "82"
+    },
+    "metadata": {
+      "score": 0.5231073498725891,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e2242c35-b87a-4bb9-a778-710457752cff: original score 2.3022227, normalized score: 0.29462278 - \nHybrid (Result Set vector,hybridVector) Document e2242c35-b87a-4bb9-a778-710457752cff: original score 0.32524395, normalized score: 0.22848459"
+    }
+  }
+]

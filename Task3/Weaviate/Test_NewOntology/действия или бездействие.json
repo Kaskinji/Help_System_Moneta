@@ -1,0 +1,19 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "действия или бездействие",
+      "type": "Resource",
+      "hasStatement": [
+        "действия или бездействие hasResponsible торговая площадка",
+        "действия или бездействие hasResponsible третья сторона",
+        "действия или бездействие relation негативные последствия"
+      ],
+      "chunk_id": "84"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ddf71944-12da-4954-9333-1fceecc4478d: original score 4.978771, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document ddf71944-12da-4954-9333-1fceecc4478d: original score 0.5214686, normalized score: 0.4"
+    }
+  }
+]

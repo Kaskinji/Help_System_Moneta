@@ -1,0 +1,30 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "сайты в сети Интернет",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "66"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ae0785d6-b5f1-4041-a75a-d4f1b2bf679f: original score 5.2558255, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document ae0785d6-b5f1-4041-a75a-d4f1b2bf679f: original score 0.49195278, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "сеть Интернет",
+      "type": "Resource",
+      "hasStatement": [
+        "сеть интернет isResourceOf реализация услуг"
+      ],
+      "chunk_id": "15"
+    },
+    "metadata": {
+      "score": 0.5848513841629028,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 73530634-d891-4290-bc9b-63570aabd9e7: original score 2.0332801, normalized score: 0.21367683 - \nHybrid (Result Set vector,hybridVector) Document 73530634-d891-4290-bc9b-63570aabd9e7: original score 0.47999334, normalized score: 0.37117457"
+    }
+  }
+]

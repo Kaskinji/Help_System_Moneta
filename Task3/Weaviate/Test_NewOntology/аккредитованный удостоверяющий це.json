@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "аккредитованный удостоверяющий це",
+      "type": "Unknown",
+      "hasStatement": [
+        "аккредитованный удостоверяющий це relation квалифицированный сертификат ключа пр"
+      ],
+      "chunk_id": "7"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document faaf8681-881a-45f1-9698-96bf9e9fd49a: original score 5.592058, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document faaf8681-881a-45f1-9698-96bf9e9fd49a: original score 0.5595778, normalized score: 0.4"
+    }
+  }
+]

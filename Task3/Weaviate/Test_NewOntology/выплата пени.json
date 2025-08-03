@@ -1,0 +1,21 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "выплата пени",
+      "type": "Process",
+      "hasStatement": [
+        "выплата пени hasActor нко",
+        "выплата пени hasResult пени",
+        "выплата пени hasResource требование в письменной форме",
+        "выплата пени hasResource перечисление денежных средств",
+        "выплата пени hasResult пени"
+      ],
+      "chunk_id": "83"
+    },
+    "metadata": {
+      "score": 0.7906363606452942,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 818e5424-aeed-42d9-8114-1f3684867522: original score 4.547719, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 818e5424-aeed-42d9-8114-1f3684867522: original score 0.2734211, normalized score: 0.19063632"
+    }
+  }
+]

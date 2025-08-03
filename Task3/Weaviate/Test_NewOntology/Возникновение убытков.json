@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Возникновение убытков",
+      "type": "Event",
+      "hasStatement": [
+        "возникновение убытков isResultOf разглашение сведений"
+      ],
+      "chunk_id": "85"
+    },
+    "metadata": {
+      "score": 0.8681665658950806,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 43fcb408-b6ff-414c-a389-97b7e9ae55ab: original score 4.204541, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 43fcb408-b6ff-414c-a389-97b7e9ae55ab: original score 0.2571445, normalized score: 0.26816657"
+    }
+  }
+]

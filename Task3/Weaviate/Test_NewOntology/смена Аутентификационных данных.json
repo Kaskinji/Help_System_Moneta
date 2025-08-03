@@ -1,0 +1,74 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "смена Аутентификационных данных",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "104"
+    },
+    "metadata": {
+      "score": 0.9794026613235474,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 054d6e58-0c1a-42c4-8d6c-bb884f825615: original score 4.107647, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 054d6e58-0c1a-42c4-8d6c-bb884f825615: original score 0.5910073, normalized score: 0.37940264"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Смена Аутентификационных данных",
+      "type": "Process",
+      "hasStatement": [
+        "смена аутентификационных данных hasResult новые аутентификационные данные"
+      ],
+      "chunk_id": "105"
+    },
+    "metadata": {
+      "score": 0.9645334482192993,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 6a9718e4-c271-429a-8af4-eaf84a307640: original score 4.107647, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 6a9718e4-c271-429a-8af4-eaf84a307640: original score 0.58253956, normalized score: 0.3645334"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "смена Аутентификационных данных",
+      "type": "Process",
+      "hasStatement": [
+        "смена аутентификационных данных hasResult новые аутентификационные данные",
+        "смена аутентификационных данных hasResult новые аутентификационные данные"
+      ],
+      "chunk_id": "16"
+    },
+    "metadata": {
+      "score": 0.9151039123535156,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 8a3a71da-72a4-4b68-9219-eefd93744fe0: original score 4.107647, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 8a3a71da-72a4-4b68-9219-eefd93744fe0: original score 0.5543905, normalized score: 0.31510392"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "принудительная инициация смены Аутентификационных данных",
+      "chunk_id": "104",
+      "hasStatement": [],
+      "type": "Process"
+    },
+    "metadata": {
+      "score": 0.5816237926483154,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ec105853-28a5-4c10-a822-984dd4cfe536: original score 1.7102624, normalized score: 0.18162376 - \nHybrid (Result Set vector,hybridVector) Document ec105853-28a5-4c10-a822-984dd4cfe536: original score 0.60273707, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "замена Аутентификационных данных",
+      "type": "Process",
+      "hasStatement": [
+        "замена аутентификационных данных hasResponsible получатель"
+      ],
+      "chunk_id": "104"
+    },
+    "metadata": {
+      "score": 0.5789918899536133,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 989242f4-8781-45ce-bd83-72a7a672cfe5: original score 2.43389, normalized score: 0.30790666 - \nHybrid (Result Set vector,hybridVector) Document 989242f4-8781-45ce-bd83-72a7a672cfe5: original score 0.52932274, normalized score: 0.27108523"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "расчеты по Договору",
+      "type": "Process",
+      "hasStatement": [
+        "расчеты по договору hasActor сторона",
+        "расчеты по договору hasResource информация о переводах и перечисл"
+      ],
+      "chunk_id": "66"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 785405cd-7ec6-4b0d-b3b5-1c01ca237892: original score 4.1028013, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 785405cd-7ec6-4b0d-b3b5-1c01ca237892: original score 0.46579146, normalized score: 0.4"
+    }
+  }
+]

@@ -1,0 +1,28 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Сумма задолженности НКО перед Получателем на начало отчетного периода по переводам, принятым в предыдущих отчетных периодах",
+      "chunk_id": "13",
+      "hasStatement": [],
+      "type": "Unknown"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 8ebe39e7-5f61-4ce4-a8b8-24d9b7420699: original score 6.290987, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 8ebe39e7-5f61-4ce4-a8b8-24d9b7420699: original score 0.7154826, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Сумма задолженности НКО перед Получателем на конец отчетного периода, подлежащая перечислению в следующем отчетном периоде",
+      "type": "Unknown",
+      "hasStatement": [],
+      "chunk_id": "13"
+    },
+    "metadata": {
+      "score": 0.6129225492477417,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7ddfc32a-21a9-476d-8512-ae8ce881acfe: original score 2.8325062, normalized score: 0.238589 - \nHybrid (Result Set vector,hybridVector) Document 7ddfc32a-21a9-476d-8512-ae8ce881acfe: original score 0.6787109, normalized score: 0.37433356"
+    }
+  }
+]

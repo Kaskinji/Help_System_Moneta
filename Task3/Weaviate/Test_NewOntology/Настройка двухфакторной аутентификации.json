@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Настройка двухфакторной аутентификации",
+      "type": "Process",
+      "hasStatement": [
+        "настройка двухфакторной аутентификации isPartOf доступ в личный кабинет"
+      ],
+      "chunk_id": "8"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 07df959f-8d40-4ec5-ab92-104813b038fd: original score 5.735615, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 07df959f-8d40-4ec5-ab92-104813b038fd: original score 0.5872795, normalized score: 0.4"
+    }
+  }
+]

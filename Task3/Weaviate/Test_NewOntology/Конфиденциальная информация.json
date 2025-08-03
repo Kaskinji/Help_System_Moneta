@@ -1,0 +1,20 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Конфиденциальная информация",
+      "type": "Resource",
+      "hasStatement": [
+        "конфиденциальная информация hasResponsible ответственные лица сторон",
+        "конфиденциальная информация isResultOf исполнение договора",
+        "конфиденциальная информация hasPart информация о плательщиках и пе",
+        "конфиденциальная информация hasPart информация о тарифной политике"
+      ],
+      "chunk_id": "85"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e3ba14e2-2e1a-467d-b20b-cbe438b3497d: original score 3.8002286, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document e3ba14e2-2e1a-467d-b20b-cbe438b3497d: original score 0.58974695, normalized score: 0.4"
+    }
+  }
+]

@@ -1,0 +1,19 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "принятие решения об отказе от совершения операций",
+      "type": "Process",
+      "hasStatement": [
+        "принятие решения об отказе hasResource предположение о подпадении под fatca",
+        "принятие решения об отказе hasActor нко",
+        "принятие решения об отказе hasResponsible нко"
+      ],
+      "chunk_id": "42"
+    },
+    "metadata": {
+      "score": 0.951818585395813,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document dd61a57a-cb4c-4ec1-8c6f-7ce2217dcac5: original score 6.1275454, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document dd61a57a-cb4c-4ec1-8c6f-7ce2217dcac5: original score 0.3734684, normalized score: 0.35181853"
+    }
+  }
+]

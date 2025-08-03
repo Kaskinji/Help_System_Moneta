@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "право исполнения обязательств",
+      "type": "Resource",
+      "hasStatement": [
+        "право исполнения обязательств isResultOf предоставление права"
+      ],
+      "chunk_id": "41"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document b91b4ec5-7260-49b0-b033-08dd2e36c755: original score 4.3182707, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document b91b4ec5-7260-49b0-b033-08dd2e36c755: original score 0.3896773, normalized score: 0.4"
+    }
+  }
+]

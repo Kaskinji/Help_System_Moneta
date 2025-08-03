@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Изменение единоличного исполнительного органа",
+      "type": "Event",
+      "hasStatement": [
+        "изменение единоличного исполнительного о Initiates уведомление нко"
+      ],
+      "chunk_id": "55"
+    },
+    "metadata": {
+      "score": 0.8378872275352478,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 835389e2-be76-4ad5-b499-6c8a5ce151ea: original score 5.565488, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 835389e2-be76-4ad5-b499-6c8a5ce151ea: original score 0.28652227, normalized score: 0.23788722"
+    }
+  }
+]

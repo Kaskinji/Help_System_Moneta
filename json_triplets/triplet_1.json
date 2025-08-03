@@ -1,0 +1,66 @@
+[
+    {
+        "label": "Авторизационные данные",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Resource",
+        "hasStatement": [
+            "авторизационные данные isResourceOf регистрация"
+        ],
+        "chunk_id": "1"
+    },
+    {
+        "label": "регистрация",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Process",
+        "hasStatement": [
+            "регистрация hasResource авторизационные данные"
+        ],
+        "chunk_id": "1"
+    },
+    {
+        "label": "РУ",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Unknown",
+        "hasStatement": [],
+        "chunk_id": "1"
+    },
+    {
+        "label": "\"",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Unknown",
+        "hasStatement": [],
+        "chunk_id": "1"
+    },
+    {
+        "label": "Аутентификационные данные",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Resource",
+        "hasStatement": [
+            "аутентификационные данные isResourceOf вход в личный кабинет"
+        ],
+        "chunk_id": "1"
+    },
+    {
+        "label": "вход в личный кабинет",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Process",
+        "hasStatement": [
+            "вход в личный кабинет hasResource аутентификационные данные"
+        ],
+        "chunk_id": "1"
+    },
+    {
+        "label": "По",
+        "abbreviation": "",
+        "definition": "",
+        "type": "Unknown",
+        "hasStatement": [],
+        "chunk_id": "1"
+    }
+]

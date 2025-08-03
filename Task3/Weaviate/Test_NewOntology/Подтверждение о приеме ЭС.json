@@ -1,0 +1,32 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Подтверждение о приеме ЭС",
+      "type": "Event",
+      "hasStatement": [
+        "подтверждение о приеме эс isResultOf обработка эс"
+      ],
+      "chunk_id": "103"
+    },
+    "metadata": {
+      "score": 0.9893296957015991,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 1eb6f914-36cf-465b-9449-1c865687455e: original score 4.357935, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 1eb6f914-36cf-465b-9449-1c865687455e: original score 0.4815207, normalized score: 0.38932967"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "подтверждение расхождений",
+      "type": "Event",
+      "hasStatement": [
+        "подтверждение расхождений Initiates размещение исправленной версии акта"
+      ],
+      "chunk_id": "79"
+    },
+    "metadata": {
+      "score": 0.5142678618431091,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document cdd520f7-f98b-4580-b508-fc3b4ced6d3e: original score 1.902211, normalized score: 0.24944289 - \nHybrid (Result Set vector,hybridVector) Document cdd520f7-f98b-4580-b508-fc3b4ced6d3e: original score 0.40302467, normalized score: 0.26482496"
+    }
+  }
+]

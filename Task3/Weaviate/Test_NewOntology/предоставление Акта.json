@@ -1,0 +1,67 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "предоставление Акта",
+      "chunk_id": "41",
+      "hasStatement": [
+        "предоставление акта hasResource акт",
+        "предоставление акта hasActor получатель"
+      ],
+      "type": "Process"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 78865455-58ae-4c12-9b06-cc7e36ccdd94: original score 3.0221972, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 78865455-58ae-4c12-9b06-cc7e36ccdd94: original score 0.43507576, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "формирование Акта",
+      "type": "Process",
+      "hasStatement": [
+        "формирование акта hasResult акт"
+      ],
+      "chunk_id": "41"
+    },
+    "metadata": {
+      "score": 0.6234650611877441,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document b47bb8bc-2471-48da-a9e5-19b57451b4f0: original score 1.5293933, normalized score: 0.24683286 - \nHybrid (Result Set vector,hybridVector) Document b47bb8bc-2471-48da-a9e5-19b57451b4f0: original score 0.42412388, normalized score: 0.37663218"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "составление Акта",
+      "chunk_id": "93",
+      "hasStatement": [
+        "составление акта hasActor стороны",
+        "составление акта hasResult акт"
+      ],
+      "type": "Process"
+    },
+    "metadata": {
+      "score": 0.6024103760719299,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 70e73a12-3e39-421a-9212-5240a10bc693: original score 1.5293933, normalized score: 0.24683286 - \nHybrid (Result Set vector,hybridVector) Document 70e73a12-3e39-421a-9212-5240a10bc693: original score 0.4142561, normalized score: 0.3555775"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "подписание и отправка акта",
+      "type": "Process",
+      "hasStatement": [
+        "подписание и отправка акта hasActor нко",
+        "подписание и отправка акта hasResource акт подписанный получателем",
+        "подписание и отправка акта hasResult акт подписанный сторонами",
+        "подписание и отправка акта hasResult акт подписанный сторонами"
+      ],
+      "chunk_id": "81"
+    },
+    "metadata": {
+      "score": 0.5002478957176208,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a36fdf53-ff8a-46df-a204-767c36074d84: original score 0.995286, normalized score: 0.1204739 - \nHybrid (Result Set vector,hybridVector) Document a36fdf53-ff8a-46df-a204-767c36074d84: original score 0.42559636, normalized score: 0.379774"
+    }
+  }
+]

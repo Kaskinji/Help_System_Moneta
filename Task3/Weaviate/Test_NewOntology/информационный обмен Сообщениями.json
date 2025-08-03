@@ -1,0 +1,59 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "информационный обмен Сообщениями",
+      "type": "Process",
+      "hasStatement": [
+        "информационный обмен сообщен hasResource РУ\"@ru",
+        "информационный обмен сообщен isPartOf работа системы монетару",
+        "информационный обмен сообщен hasActor получатель",
+        "информационный обмен сообщен hasResource сообщения"
+      ],
+      "chunk_id": "37"
+    },
+    "metadata": {
+      "score": 0.7355818748474121,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 57809c71-a74c-41da-b69e-ce8a65dc3ee3: original score 4.8360615, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 57809c71-a74c-41da-b69e-ce8a65dc3ee3: original score 0.47693276, normalized score: 0.13558188"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Информационный обмен",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "14"
+    },
+    "metadata": {
+      "score": 0.6525172591209412,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 78590a66-e206-47c0-8581-c2340af4691f: original score 3.7088037, normalized score: 0.42364344 - \nHybrid (Result Set vector,hybridVector) Document 78590a66-e206-47c0-8581-c2340af4691f: original score 0.5016173, normalized score: 0.2288738"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Информационный обмен",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "17"
+    },
+    "metadata": {
+      "score": 0.6525172591209412,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 1b2d9aba-ecda-4d4b-b66b-c712f022d844: original score 3.7088037, normalized score: 0.42364344 - \nHybrid (Result Set vector,hybridVector) Document 1b2d9aba-ecda-4d4b-b66b-c712f022d844: original score 0.5016173, normalized score: 0.2288738"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Информационный обмен",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "104"
+    },
+    "metadata": {
+      "score": 0.6525172591209412,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 0b106bf1-42bb-4119-af25-33bc4ff34a3c: original score 3.7088037, normalized score: 0.42364344 - \nHybrid (Result Set vector,hybridVector) Document 0b106bf1-42bb-4119-af25-33bc4ff34a3c: original score 0.5016173, normalized score: 0.2288738"
+    }
+  }
+]

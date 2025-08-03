@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "возникновение споров",
+      "type": "Event",
+      "hasStatement": [
+        "возникновение споров Initiates разрешение споров"
+      ],
+      "chunk_id": "87"
+    },
+    "metadata": {
+      "score": 0.8704957962036133,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document f10013a7-f885-489f-a72c-4bb496147fbb: original score 4.204541, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document f10013a7-f885-489f-a72c-4bb496147fbb: original score 0.3594072, normalized score: 0.27049574"
+    }
+  }
+]

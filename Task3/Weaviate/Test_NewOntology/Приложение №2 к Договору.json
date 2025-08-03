@@ -1,0 +1,33 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Приложение №2 к Договору",
+      "type": "Resource",
+      "hasStatement": [
+        "приложение №2 к договору hasPart регламент информационного обмена электро",
+        "приложение №2 к договору isPartOf договор"
+      ],
+      "chunk_id": "8"
+    },
+    "metadata": {
+      "score": 0.6894996762275696,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e92ad0ac-f02a-43fa-b522-1cf454c11e1b: original score 4.799095, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document e92ad0ac-f02a-43fa-b522-1cf454c11e1b: original score 0.3355261, normalized score: 0.089499645"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Приложение №3 к Договору",
+      "type": "Resource",
+      "hasStatement": [
+        "приложение №3 к договору isResourceOf перечисление по операции возврата"
+      ],
+      "chunk_id": "38"
+    },
+    "metadata": {
+      "score": 0.5521461367607117,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e15b5344-09bb-49f8-a070-315bf40f33a1: original score 3.2210636, normalized score: 0.3863662 - \nHybrid (Result Set vector,hybridVector) Document e15b5344-09bb-49f8-a070-315bf40f33a1: original score 0.38548678, normalized score: 0.16577993"
+    }
+  }
+]

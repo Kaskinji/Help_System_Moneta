@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Разглашение сведений",
+      "type": "Process",
+      "hasStatement": [
+        "разглашение сведений hasResult возникновение убытков",
+        "разглашение сведений hasResult влияние на деловую репутац"
+      ],
+      "chunk_id": "85"
+    },
+    "metadata": {
+      "score": 0.7281243801116943,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 2b194e2d-1144-4be6-b2ee-a9f8d4cdca49: original score 4.204541, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 2b194e2d-1144-4be6-b2ee-a9f8d4cdca49: original score 0.51913327, normalized score: 0.12812437"
+    }
+  }
+]

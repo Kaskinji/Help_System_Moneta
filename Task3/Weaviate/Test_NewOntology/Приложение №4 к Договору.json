@@ -1,0 +1,63 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Приложение №4 к Договору",
+      "type": "Resource",
+      "hasStatement": [
+        "приложение 4 к договору hasPart порядок взаимодействия сторон"
+      ],
+      "chunk_id": "4"
+    },
+    "metadata": {
+      "score": 0.8463684916496277,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document aa803bb7-315d-42a0-924e-1ce36ac24e15: original score 4.799095, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document aa803bb7-315d-42a0-924e-1ce36ac24e15: original score 0.43315065, normalized score: 0.24636848"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Приложение №3 к Договору",
+      "type": "Resource",
+      "hasStatement": [
+        "приложение №3 к договору isResourceOf перечисление по операции возврата"
+      ],
+      "chunk_id": "38"
+    },
+    "metadata": {
+      "score": 0.6235734820365906,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e15b5344-09bb-49f8-a070-315bf40f33a1: original score 3.2210636, normalized score: 0.3863662 - \nHybrid (Result Set vector,hybridVector) Document e15b5344-09bb-49f8-a070-315bf40f33a1: original score 0.42791575, normalized score: 0.23720728"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Приложение №3 к Договору",
+      "chunk_id": "21",
+      "hasStatement": [
+        "приложение №3 к договору isResourceOf операция возврата перевода"
+      ],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 0.5458962917327881,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 862eb07c-7009-4b7e-8c35-9112f9583014: original score 3.2210636, normalized score: 0.3863662 - \nHybrid (Result Set vector,hybridVector) Document 862eb07c-7009-4b7e-8c35-9112f9583014: original score 0.38352942, normalized score: 0.15953013"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Приложение №3 к Договору",
+      "type": "Resource",
+      "hasStatement": [
+        "приложение №3 к договору relation заявление на перечисление по операц",
+        "приложение №3 к договору isPartOf договор"
+      ],
+      "chunk_id": "6"
+    },
+    "metadata": {
+      "score": 0.5323653817176819,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 3dda090d-d650-456a-9962-701b8ffc3599: original score 3.2210636, normalized score: 0.3863662 - \nHybrid (Result Set vector,hybridVector) Document 3dda090d-d650-456a-9962-701b8ffc3599: original score 0.37579757, normalized score: 0.1459992"
+    }
+  }
+]

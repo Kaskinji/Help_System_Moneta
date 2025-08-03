@@ -1,0 +1,35 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Лицензия Банка России № 3508-К",
+      "type": "Resource",
+      "hasStatement": [
+        "лицензия банка россии 3508-к hasResponsible банк россии"
+      ],
+      "chunk_id": "3"
+    },
+    "metadata": {
+      "score": 0.8859682083129883,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document f494d1b5-23cb-4ceb-b47f-aee5d8801a2e: original score 5.7270846, normalized score: 0.4859682 - \nHybrid (Result Set vector,hybridVector) Document f494d1b5-23cb-4ceb-b47f-aee5d8801a2e: original score 0.3559271, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Лицензия Банка России № 3508-К от 29 ноября 2017 года",
+      "type": "Resource",
+      "hasStatement": [
+        "лицензия банка россии relation небанковская кредитная организация монета",
+        "лицензия банка россии hasResponsible банк россии",
+        "лицензия банка россии relation небанковская кредитная организация монета",
+        "лицензия банка россии relation банк россии"
+      ],
+      "chunk_id": "99"
+    },
+    "metadata": {
+      "score": 0.8490731120109558,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document d1ce2b1a-8750-4736-b4d3-ff9ad745f9c7: original score 6.8668118, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document d1ce2b1a-8750-4736-b4d3-ff9ad745f9c7: original score 0.29032224, normalized score: 0.24907307"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "нарушение требований",
+      "type": "Event",
+      "hasStatement": [
+        "нарушение требований Initiates отключение интернет-магазина",
+        "нарушение требований Initiates приостановка исполнения договора"
+      ],
+      "chunk_id": "51"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 10f72a24-fba2-4a0d-a8d3-b95ff3ce8695: original score 4.084612, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 10f72a24-fba2-4a0d-a8d3-b95ff3ce8695: original score 0.4007979, normalized score: 0.4"
+    }
+  }
+]

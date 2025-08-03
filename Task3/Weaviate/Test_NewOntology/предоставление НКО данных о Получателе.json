@@ -1,0 +1,67 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "предоставление НКО данных о Получателе",
+      "type": "Process",
+      "hasStatement": [
+        "предоставление нко данных о получател hasActor получатель"
+      ],
+      "chunk_id": "124"
+    },
+    "metadata": {
+      "score": 0.8801623582839966,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document f712a819-4f09-4452-a1be-cf69a856a243: original score 3.7038598, normalized score: 0.58346033 - \nHybrid (Result Set vector,hybridVector) Document f712a819-4f09-4452-a1be-cf69a856a243: original score 0.5406915, normalized score: 0.29670206"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "предоставление НКО данных о Получателе",
+      "type": "Process",
+      "hasStatement": [
+        "предоставление нко данных о получателе hasResource данные о получателе"
+      ],
+      "chunk_id": "122"
+    },
+    "metadata": {
+      "score": 0.8775925636291504,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 6db5d187-1a75-4d55-9ab5-0a7cb0bf333b: original score 3.7038598, normalized score: 0.58346033 - \nHybrid (Result Set vector,hybridVector) Document 6db5d187-1a75-4d55-9ab5-0a7cb0bf333b: original score 0.538213, normalized score: 0.29413226"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "предоставление данных о Получателе",
+      "type": "Process",
+      "hasStatement": [
+        "предоставление данных о получателе hasResource данные о получателе",
+        "предоставление данных о получателе hasActor получатель",
+        "предоставление данных о получателе hasResource данные о получателе"
+      ],
+      "chunk_id": "123"
+    },
+    "metadata": {
+      "score": 0.7769172191619873,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ecdcf849-b50c-4cf1-bae2-7b14b86f8f76: original score 3.8012502, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document ecdcf849-b50c-4cf1-bae2-7b14b86f8f76: original score 0.42516303, normalized score: 0.17691718"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "предоставление НКО данных",
+      "type": "Process",
+      "hasStatement": [
+        "предоставление нко данных hasActor нко",
+        "предоставление нко данных isPartOf подключение к системе монетару",
+        "предоставление нко данных hasResult данные о получателе",
+        "предоставление нко данных hasResult данные о получателе"
+      ],
+      "chunk_id": "35"
+    },
+    "metadata": {
+      "score": 0.5517550706863403,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document b751383c-5893-4761-9f6e-d99df5d10b62: original score 2.9370089, normalized score: 0.4532269 - \nHybrid (Result Set vector,hybridVector) Document b751383c-5893-4761-9f6e-d99df5d10b62: original score 0.3495595, normalized score: 0.09852817"
+    }
+  }
+]

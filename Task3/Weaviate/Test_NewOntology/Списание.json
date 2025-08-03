@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Списание",
+      "chunk_id": "95",
+      "hasStatement": [
+        "списание hasResource невостребованный остаток"
+      ],
+      "type": "Process"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 41e7f127-eb10-461d-9932-56b4d6642077: original score 3.314095, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 41e7f127-eb10-461d-9932-56b4d6642077: original score 0.34600067, normalized score: 0.4"
+    }
+  }
+]

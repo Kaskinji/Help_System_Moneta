@@ -1,0 +1,33 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "решение НКО",
+      "type": "Event",
+      "hasStatement": [
+        "решение нко Initiates сокращение сроков"
+      ],
+      "chunk_id": "45"
+    },
+    "metadata": {
+      "score": 0.8524142503738403,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 4e40836b-188f-4618-9e32-4ad415038814: original score 2.8059156, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 4e40836b-188f-4618-9e32-4ad415038814: original score 0.29865307, normalized score: 0.25241423"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Решение об отказе",
+      "type": "Event",
+      "hasStatement": [
+        "решение об отказе isResultOf отказ в исполнении распоряжения",
+        "решение об отказе isResultOf отказ в исполнении распоряжения"
+      ],
+      "chunk_id": "39"
+    },
+    "metadata": {
+      "score": 0.6868540048599243,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document cffc5c26-4cbf-4daa-95fa-a86be3d7c907: original score 1.5467366, normalized score: 0.30903536 - \nHybrid (Result Set vector,hybridVector) Document cffc5c26-4cbf-4daa-95fa-a86be3d7c907: original score 0.35245526, normalized score: 0.3778186"
+    }
+  }
+]

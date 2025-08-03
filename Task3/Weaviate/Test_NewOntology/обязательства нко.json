@@ -1,0 +1,33 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "обязательства нко",
+      "type": "Unknown",
+      "hasStatement": [
+        "обязательства нко isResourceOf исполнение обязательств",
+        "обязательства нко isResourceOf выполнение обязательств по договору"
+      ],
+      "chunk_id": "41"
+    },
+    "metadata": {
+      "score": 0.7281231880187988,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e19fdd90-a13b-4efe-986a-68c0d221c85f: original score 2.746372, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document e19fdd90-a13b-4efe-986a-68c0d221c85f: original score 0.32410872, normalized score: 0.12812315"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "обязательства",
+      "type": "Unknown",
+      "hasStatement": [
+        "обязательства relation нарушение договора"
+      ],
+      "chunk_id": "93"
+    },
+    "metadata": {
+      "score": 0.5657614469528198,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 5b46a311-9673-4718-9281-3462768917b5: original score 2.59978, normalized score: 0.56576145"
+    }
+  }
+]

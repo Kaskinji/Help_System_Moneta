@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Авторизация",
+      "type": "Resource",
+      "hasStatement": [
+        "авторизация hasResponsible эмитент"
+      ],
+      "chunk_id": "31"
+    },
+    "metadata": {
+      "score": 0.7763007283210754,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 03452e80-a00d-4d98-9b58-b8b467d41169: original score 3.314095, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 03452e80-a00d-4d98-9b58-b8b467d41169: original score 0.29523915, normalized score: 0.17630069"
+    }
+  }
+]

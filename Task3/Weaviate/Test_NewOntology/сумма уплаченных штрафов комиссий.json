@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "сумма уплаченных штрафов комиссий",
+      "type": "Resource",
+      "hasStatement": [
+        "сумма уплаченных штрафов комиссий isResourceOf возмещение",
+        "сумма уплаченных штрафов комиссий relation возмещение"
+      ],
+      "chunk_id": "84"
+    },
+    "metadata": {
+      "score": 0.8572995662689209,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e7fc1292-3598-43af-8846-236f9cef4716: original score 5.6108913, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document e7fc1292-3598-43af-8846-236f9cef4716: original score 0.31033945, normalized score: 0.25729957"
+    }
+  }
+]

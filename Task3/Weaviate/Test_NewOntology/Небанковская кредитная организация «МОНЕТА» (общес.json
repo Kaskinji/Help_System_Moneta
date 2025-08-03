@@ -1,0 +1,69 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Небанковская кредитная организация «МОНЕТА»",
+      "chunk_id": "101",
+      "hasStatement": [
+        "небанковская кредитная организация мон isActorOf составление акта",
+        "небанковская кредитная организация мон relation председатель правления кугуелова ирина"
+      ],
+      "type": "Agent"
+    },
+    "metadata": {
+      "score": 0.6826844215393066,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document b37b0eb3-a5aa-4fca-bde6-464854ccfb95: original score 4.768177, normalized score: 0.41213673 - \nHybrid (Result Set vector,hybridVector) Document b37b0eb3-a5aa-4fca-bde6-464854ccfb95: original score 0.37644172, normalized score: 0.27054772"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "небанковская кредитная организация",
+      "chunk_id": "15",
+      "hasStatement": [
+        "небанковская кредитная организац isActorOf реализация услуг"
+      ],
+      "type": "Agent"
+    },
+    "metadata": {
+      "score": 0.6719579100608826,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document d6d97333-1637-4c64-b418-e659e159f086: original score 4.277117, normalized score: 0.35021508 - \nHybrid (Result Set vector,hybridVector) Document d6d97333-1637-4c64-b418-e659e159f086: original score 0.40136892, normalized score: 0.32174283"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "кредитная организация",
+      "type": "Agent",
+      "hasStatement": [
+        "кредитная организация isActorOf реализация услуг"
+      ],
+      "chunk_id": "15"
+    },
+    "metadata": {
+      "score": 0.6614956855773926,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document cfc4b3c1-d39c-46d6-987a-60a0586006c6: original score 3.5735412, normalized score: 0.26149568 - \nHybrid (Result Set vector,hybridVector) Document cfc4b3c1-d39c-46d6-987a-60a0586006c6: original score 0.4394728, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Небанковская кредитная организация «МОНЕТА» (общество с ограниченной ответственностью)",
+      "type": "Agent",
+      "hasStatement": [
+        "небанковская кредитная организация isResponsibleFor инн",
+        "небанковская кредитная организация isResponsibleFor кпп",
+        "небанковская кредитная организация isResponsibleFor оквэд",
+        "небанковская кредитная организация isResponsibleFor окпо",
+        "небанковская кредитная организация isResponsibleFor юридический адрес",
+        "небанковская кредитная организация isResponsibleFor почтовый адрес",
+        "небанковская кредитная организация isResponsibleFor e mail"
+      ],
+      "chunk_id": "100"
+    },
+    "metadata": {
+      "score": 0.6435880064964294,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 2263509d-3bfc-4297-a1b9-3a86421b15d3: original score 6.257998, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 2263509d-3bfc-4297-a1b9-3a86421b15d3: original score 0.2659337, normalized score: 0.04358799"
+    }
+  }
+]

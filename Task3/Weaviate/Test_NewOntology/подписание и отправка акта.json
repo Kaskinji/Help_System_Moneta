@@ -1,0 +1,66 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "подписание и отправка акта",
+      "chunk_id": "81",
+      "hasStatement": [
+        "подписание и отправка акта hasActor нко",
+        "подписание и отправка акта hasResource акт подписанный получателем",
+        "подписание и отправка акта hasResult акт подписанный сторонами",
+        "подписание и отправка акта hasResult акт подписанный сторонами"
+      ],
+      "type": "Process"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a36fdf53-ff8a-46df-a204-767c36074d84: original score 4.4030247, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document a36fdf53-ff8a-46df-a204-767c36074d84: original score 0.56947935, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "подписание и направление акта",
+      "type": "Process",
+      "hasStatement": [
+        "подписание и направление акта hasActor получатель",
+        "подписание и направление акта hasResult акт подписанный получателем",
+        "подписание и направление акта hasResult акт подписанный получателем"
+      ],
+      "chunk_id": "81"
+    },
+    "metadata": {
+      "score": 0.7891041040420532,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e7511020-cdbd-46ba-b2f1-c8599cb71f3e: original score 3.0798235, normalized score: 0.39731255 - \nHybrid (Result Set vector,hybridVector) Document e7511020-cdbd-46ba-b2f1-c8599cb71f3e: original score 0.5641948, normalized score: 0.39179155"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "подписание",
+      "type": "Process",
+      "hasStatement": [
+        "подписание hasResource требования",
+        "подписание hasResource акт"
+      ],
+      "chunk_id": "65"
+    },
+    "metadata": {
+      "score": 0.546177327632904,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 07388a1a-664c-48ad-a4c0-3ba3ebc36049: original score 2.6811593, normalized score: 0.33624536 - \nHybrid (Result Set vector,hybridVector) Document 07388a1a-664c-48ad-a4c0-3ba3ebc36049: original score 0.44711488, normalized score: 0.20993195"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "подписание Акта на бумажном носителе",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "80"
+    },
+    "metadata": {
+      "score": 0.5336789488792419,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document fbbcf635-a942-4037-a5cf-d6835fb85be3: original score 1.9342015, normalized score: 0.22182663 - \nHybrid (Result Set vector,hybridVector) Document fbbcf635-a942-4037-a5cf-d6835fb85be3: original score 0.5127305, normalized score: 0.3118523"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "почтовый адрес йошкар-ола ул гог",
+      "type": "Resource",
+      "hasStatement": [
+        "почтовый адрес йошкар-ола ул гог hasResponsible небанковская кредитная организация монета"
+      ],
+      "chunk_id": "11"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document d2aadd1d-7e4f-44fe-943e-c7246f6b55f6: original score 5.78108, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document d2aadd1d-7e4f-44fe-943e-c7246f6b55f6: original score 0.4613154, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Почтовый адрес",
+      "type": "Resource",
+      "hasStatement": [
+        "почтовый адрес hasResponsible небанковская кредитная организация"
+      ],
+      "chunk_id": "100"
+    },
+    "metadata": {
+      "score": 0.5909382700920105,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 37faa43d-195b-41bc-a319-cc1eb6078f04: original score 3.5241575, normalized score: 0.3442203 - \nHybrid (Result Set vector,hybridVector) Document 37faa43d-195b-41bc-a319-cc1eb6078f04: original score 0.3564791, normalized score: 0.24671796"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Почтовый адрес",
+      "type": "Resource",
+      "hasStatement": [
+        "почтовый адрес isResourceOf регистрация"
+      ],
+      "chunk_id": "89"
+    },
+    "metadata": {
+      "score": 0.5667629837989807,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 291c10dd-7024-4610-8117-30eebd67a671: original score 3.5241575, normalized score: 0.3442203 - \nHybrid (Result Set vector,hybridVector) Document 291c10dd-7024-4610-8117-30eebd67a671: original score 0.3399446, normalized score: 0.22254269"
+    }
+  }
+]

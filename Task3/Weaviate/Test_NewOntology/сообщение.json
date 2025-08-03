@@ -1,0 +1,79 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "сообщение",
+      "type": "Resource",
+      "hasStatement": [
+        "сообщение hasResponsible получатель",
+        "сообщение hasPart уведомление о согласии с исполнением тр",
+        "сообщение hasPart мотивированный отказ от исполнения требовани"
+      ],
+      "chunk_id": "30"
+    },
+    "metadata": {
+      "score": 0.6797040700912476,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 61119b4e-ba1d-4533-8099-6ca304e6722a: original score 2.4149146, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 61119b4e-ba1d-4533-8099-6ca304e6722a: original score 0.41742843, normalized score: 0.07970404"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Сообщение",
+      "type": "Resource",
+      "hasStatement": [
+        "сообщение isResourceOf обмен информацией электронными документами"
+      ],
+      "chunk_id": "32"
+    },
+    "metadata": {
+      "score": 0.6150460243225098,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document c7d00f0b-35b7-41d6-bb10-c60216682746: original score 2.4149146, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document c7d00f0b-35b7-41d6-bb10-c60216682746: original score 0.39975822, normalized score: 0.01504602"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "сообщение",
+      "type": "Resource",
+      "hasStatement": [
+        "сообщение isResourceOf направление сообщения на эл почту"
+      ],
+      "chunk_id": "104"
+    },
+    "metadata": {
+      "score": 0.6000000238418579,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ba9d79a4-c78a-4684-931d-d8095dfae385: original score 2.4149146, normalized score: 0.6"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "сообщение",
+      "type": "Resource",
+      "hasStatement": [
+        "сообщение hasPart копии документов и информации"
+      ],
+      "chunk_id": "23"
+    },
+    "metadata": {
+      "score": 0.6000000238418579,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7ce66898-a57c-4d1f-ad98-1c64eb100957: original score 2.4149146, normalized score: 0.6"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "сообщение",
+      "type": "Resource",
+      "hasStatement": [
+        "сообщение isResourceOf направление сообщения"
+      ],
+      "chunk_id": "111"
+    },
+    "metadata": {
+      "score": 0.6000000238418579,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 329c3db4-14c1-46b2-90fa-e80aa79b1a0d: original score 2.4149146, normalized score: 0.6"
+    }
+  }
+]

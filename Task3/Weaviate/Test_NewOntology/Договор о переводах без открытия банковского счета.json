@@ -1,0 +1,47 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Договор о переводах без открытия банковского счета",
+      "chunk_id": "100",
+      "hasStatement": [
+        "договор о переводах без открытия hasPart приложение 1"
+      ],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a4074ddd-5315-4023-ba85-caf8ff473737: original score 5.1613503, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document a4074ddd-5315-4023-ba85-caf8ff473737: original score 0.43759412, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Договор о переводах без открытия банковского счета",
+      "chunk_id": "11",
+      "hasStatement": [
+        "договор о переводах без открытия с hasPart приложение 1"
+      ],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 0.9697092771530151,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 1caf6304-fd23-475a-af34-a972681e4ad3: original score 5.1613503, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 1caf6304-fd23-475a-af34-a972681e4ad3: original score 0.41364914, normalized score: 0.36970925"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Договор о переводах без открытия счета",
+      "type": "Resource",
+      "hasStatement": [
+        "договор о переводах без открытия сче relation информационный обмен"
+      ],
+      "chunk_id": "14"
+    },
+    "metadata": {
+      "score": 0.7966722846031189,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document b3e13cd0-2436-429f-a56e-c5282fc57dfa: original score 4.8054056, normalized score: 0.5560505 - \nHybrid (Result Set vector,hybridVector) Document b3e13cd0-2436-429f-a56e-c5282fc57dfa: original score 0.31160492, normalized score: 0.2406218"
+    }
+  }
+]

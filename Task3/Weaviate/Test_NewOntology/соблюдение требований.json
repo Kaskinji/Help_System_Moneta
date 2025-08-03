@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "соблюдение требований",
+      "type": "Process",
+      "hasStatement": [
+        "соблюдение требований hasResource требования законодательства рф"
+      ],
+      "chunk_id": "56"
+    },
+    "metadata": {
+      "score": 0.9370331764221191,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a8bba07f-e843-4f55-a1ff-177f52ffe9cd: original score 4.3866167, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document a8bba07f-e843-4f55-a1ff-177f52ffe9cd: original score 0.42620552, normalized score: 0.33703318"
+    }
+  }
+]

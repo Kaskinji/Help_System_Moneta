@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "формирование",
+      "type": "Process",
+      "hasStatement": [
+        "формирование hasResource требования",
+        "формирование hasResult акт"
+      ],
+      "chunk_id": "65"
+    },
+    "metadata": {
+      "score": 0.6000000238418579,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e58abe5a-ecd5-4b59-b88b-80d20e0e3475: original score 2.9013402, normalized score: 0.6"
+    }
+  }
+]

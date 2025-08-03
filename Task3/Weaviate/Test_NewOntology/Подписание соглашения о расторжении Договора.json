@@ -1,0 +1,28 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Подписание соглашения о расторжении Договора",
+      "type": "Event",
+      "hasStatement": [],
+      "chunk_id": "95"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 1ea4c9d2-8814-403f-a7a7-834ff4d11e63: original score 4.9143686, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 1ea4c9d2-8814-403f-a7a7-834ff4d11e63: original score 0.66745603, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Получение Получателем уведомления о расторжении Договора",
+      "chunk_id": "95",
+      "hasStatement": [],
+      "type": "Event"
+    },
+    "metadata": {
+      "score": 0.5654615163803101,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 40e7bce1-d391-4fc6-9e2c-dd3c9c996a80: original score 2.16257, normalized score: 0.25310227 - \nHybrid (Result Set vector,hybridVector) Document 40e7bce1-d391-4fc6-9e2c-dd3c9c996a80: original score 0.55164975, normalized score: 0.31235927"
+    }
+  }
+]

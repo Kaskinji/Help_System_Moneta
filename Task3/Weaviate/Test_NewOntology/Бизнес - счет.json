@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Бизнес - счет",
+      "type": "Resource",
+      "hasStatement": [
+        "бизнес счет isResultOf создание бизнес счета для получателя"
+      ],
+      "chunk_id": "122"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 054bd44d-285a-44f4-9604-ec7f8549e292: original score 5.353944, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 054bd44d-285a-44f4-9604-ec7f8549e292: original score 0.65006614, normalized score: 0.4"
+    }
+  }
+]

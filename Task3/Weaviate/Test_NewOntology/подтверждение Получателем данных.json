@@ -1,0 +1,19 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "подтверждение Получателем данных",
+      "type": "Process",
+      "hasStatement": [
+        "подтверждение получателем данных hasResource данные указанные в акте",
+        "подтверждение получателем данных isPartOf подтверждение надлежащего исполнения о",
+        "подтверждение получателем данных hasActor получатель"
+      ],
+      "chunk_id": "80"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document d16a5a0c-9e7a-4249-9473-c1bd2906a7d4: original score 3.8322248, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document d16a5a0c-9e7a-4249-9473-c1bd2906a7d4: original score 0.68514323, normalized score: 0.4"
+    }
+  }
+]

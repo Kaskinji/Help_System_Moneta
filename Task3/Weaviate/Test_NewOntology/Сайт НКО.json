@@ -1,0 +1,47 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Сайт НКО",
+      "chunk_id": "3",
+      "hasStatement": [
+        "сайт нко isResourceOf размещение текста договора на сайте"
+      ],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 0.9338051080703735,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 9c61b199-8253-40f9-9c5d-a4d9b573da74: original score 3.086948, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 9c61b199-8253-40f9-9c5d-a4d9b573da74: original score 0.47446847, normalized score: 0.33380505"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Сайт НКО",
+      "type": "Resource",
+      "hasStatement": [
+        "сайт нко hasPart список возможных ограничений"
+      ],
+      "chunk_id": "60"
+    },
+    "metadata": {
+      "score": 0.6829928159713745,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 515b913c-d44e-4170-83de-219bcb9d1973: original score 3.086948, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 515b913c-d44e-4170-83de-219bcb9d1973: original score 0.42865467, normalized score: 0.0829928"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "корреспондентского счета НКО",
+      "type": "Resource",
+      "hasStatement": [
+        "корреспондентского счета нко isResourceOf перечисление"
+      ],
+      "chunk_id": "72"
+    },
+    "metadata": {
+      "score": 0.5006570816040039,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 9e2cd830-1011-4493-a5a0-1c654da97e37: original score 0.6655749, normalized score: 0.1006571 - \nHybrid (Result Set vector,hybridVector) Document 9e2cd830-1011-4493-a5a0-1c654da97e37: original score 0.48655975, normalized score: 0.4"
+    }
+  }
+]

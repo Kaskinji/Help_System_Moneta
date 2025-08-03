@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Решение об отказе",
+      "type": "Event",
+      "hasStatement": [
+        "решение об отказе isResultOf отказ в исполнении распоряжения",
+        "решение об отказе isResultOf отказ в исполнении распоряжения"
+      ],
+      "chunk_id": "39"
+    },
+    "metadata": {
+      "score": 0.9368401765823364,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document cffc5c26-4cbf-4daa-95fa-a86be3d7c907: original score 4.4263372, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document cffc5c26-4cbf-4daa-95fa-a86be3d7c907: original score 0.30428314, normalized score: 0.33684012"
+    }
+  }
+]

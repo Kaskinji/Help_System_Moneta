@@ -1,0 +1,33 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "индивидуальные предприниматели",
+      "type": "Agent",
+      "hasStatement": [
+        "индивидуальные предприниматели isActorOf перевод"
+      ],
+      "chunk_id": "20"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7bd0b4ee-132e-4874-915a-c22f1d9c0dcd: original score 4.485574, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 7bd0b4ee-132e-4874-915a-c22f1d9c0dcd: original score 0.5127312, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "индивидуальные предприниматели",
+      "type": "Agent",
+      "hasStatement": [
+        "индивидуальные предприниматели isActorOf перевод денежных средств",
+        "индивидуальные предприниматели isActorOf осуществление информационно-технологического"
+      ],
+      "chunk_id": "3"
+    },
+    "metadata": {
+      "score": 0.9268578886985779,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document dc6c5f15-e074-4d4b-aa08-3f20df59a7b9: original score 4.485574, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document dc6c5f15-e074-4d4b-aa08-3f20df59a7b9: original score 0.4456693, normalized score: 0.32685786"
+    }
+  }
+]

@@ -1,0 +1,47 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "юридический адрес йошкар-ола ул г",
+      "type": "Resource",
+      "hasStatement": [
+        "юридический адрес йошкар-ола ул г hasResponsible небанковская кредитная организация монета"
+      ],
+      "chunk_id": "11"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e25df707-6c41-4c10-b793-2f0bb75d01cd: original score 5.8475246, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document e25df707-6c41-4c10-b793-2f0bb75d01cd: original score 0.4487996, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Юридический адрес",
+      "type": "Resource",
+      "hasStatement": [
+        "юридический адрес hasResponsible небанковская кредитная организация"
+      ],
+      "chunk_id": "100"
+    },
+    "metadata": {
+      "score": 0.6889958381652832,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 1063f3d4-856f-44d2-b45d-2bb95909eb32: original score 3.6440873, normalized score: 0.35337707 - \nHybrid (Result Set vector,hybridVector) Document 1063f3d4-856f-44d2-b45d-2bb95909eb32: original score 0.41401315, normalized score: 0.33561876"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "почтовый адрес йошкар-ола ул гог",
+      "type": "Resource",
+      "hasStatement": [
+        "почтовый адрес йошкар-ола ул гог hasResponsible небанковская кредитная организация монета"
+      ],
+      "chunk_id": "11"
+    },
+    "metadata": {
+      "score": 0.6022208333015442,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document d2aadd1d-7e4f-44fe-943e-c7246f6b55f6: original score 3.261506, normalized score: 0.3105561 - \nHybrid (Result Set vector,hybridVector) Document d2aadd1d-7e4f-44fe-943e-c7246f6b55f6: original score 0.39026392, normalized score: 0.29166472"
+    }
+  }
+]

@@ -1,0 +1,43 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "зачет",
+      "type": "Process",
+      "hasStatement": [
+        "зачет hasActor нко",
+        "зачет hasResource первоначальное обязательство",
+        "зачет hasResource встречное обязательство",
+        "зачет hasResource вознаграждение нко",
+        "зачет hasResource недействительный перевод",
+        "зачет hasResource штраф",
+        "зачет hasResource комиссия эмитента эквайрера",
+        "зачет hasResource денежные средства",
+        "зачет hasResource сумма операции возврата перевода"
+      ],
+      "chunk_id": "75"
+    },
+    "metadata": {
+      "score": 0.9271470308303833,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 114afeff-3df4-4a8c-9435-ada370dfe457: original score 2.9013402, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 114afeff-3df4-4a8c-9435-ada370dfe457: original score 0.3557213, normalized score: 0.327147"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "зачет",
+      "type": "Process",
+      "hasStatement": [
+        "зачет hasResource недействительный перевод",
+        "зачет hasResource штрафы",
+        "зачет isPartOf возмещение",
+        "зачет hasResource перечисление"
+      ],
+      "chunk_id": "69"
+    },
+    "metadata": {
+      "score": 0.8017248511314392,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 05232de4-f486-4199-9e75-3aafb5bcc38f: original score 2.9013402, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 05232de4-f486-4199-9e75-3aafb5bcc38f: original score 0.32762504, normalized score: 0.20172484"
+    }
+  }
+]

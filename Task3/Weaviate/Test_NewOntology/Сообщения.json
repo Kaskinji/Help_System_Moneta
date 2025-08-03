@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Сообщения",
+      "type": "Resource",
+      "hasStatement": [
+        "сообщения isResourceOf информационный обмен сообщен",
+        "сообщения isResourceOf передача сообщений"
+      ],
+      "chunk_id": "37"
+    },
+    "metadata": {
+      "score": 0.9182710647583008,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 9afcfaaf-5c6d-49b0-88dd-247f3536a569: original score 2.4690974, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 9afcfaaf-5c6d-49b0-88dd-247f3536a569: original score 0.43978316, normalized score: 0.31827104"
+    }
+  }
+]

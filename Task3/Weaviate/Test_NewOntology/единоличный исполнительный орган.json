@@ -1,0 +1,15 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "единоличный исполнительный орган",
+      "type": "Agent",
+      "hasStatement": [],
+      "chunk_id": "52"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document b0abe1e5-7b37-46bd-8d99-50e9196d98e6: original score 5.592058, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document b0abe1e5-7b37-46bd-8d99-50e9196d98e6: original score 0.464589, normalized score: 0.4"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "соглашение",
+      "type": "Process",
+      "hasStatement": [
+        "соглашение hasActor стороны",
+        "соглашение hasActor стороны"
+      ],
+      "chunk_id": "98"
+    },
+    "metadata": {
+      "score": 0.7887944579124451,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e3c38628-a7ce-423a-b247-58711e8d4d8e: original score 2.9013402, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document e3c38628-a7ce-423a-b247-58711e8d4d8e: original score 0.35438633, normalized score: 0.18879442"
+    }
+  }
+]

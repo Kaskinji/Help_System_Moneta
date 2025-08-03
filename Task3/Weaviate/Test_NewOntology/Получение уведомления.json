@@ -1,0 +1,30 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Получение уведомления",
+      "type": "Event",
+      "hasStatement": [
+        "получение уведомления Initiates прекращение приема распоряжений"
+      ],
+      "chunk_id": "90"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 54976311-cc58-411a-b7eb-1401d4a09cbb: original score 3.2341557, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 54976311-cc58-411a-b7eb-1401d4a09cbb: original score 0.5847219, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Получение Получателем уведомления о расторжении Договора",
+      "type": "Event",
+      "hasStatement": [],
+      "chunk_id": "95"
+    },
+    "metadata": {
+      "score": 0.5871260166168213,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 40e7bce1-d391-4fc6-9e2c-dd3c9c996a80: original score 1.5599269, normalized score: 0.19265622 - \nHybrid (Result Set vector,hybridVector) Document 40e7bce1-d391-4fc6-9e2c-dd3c9c996a80: original score 0.58072877, normalized score: 0.39446983"
+    }
+  }
+]

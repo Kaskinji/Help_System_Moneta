@@ -1,0 +1,121 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Адрес НКО",
+      "type": "Resource",
+      "hasStatement": [
+        "адрес нко hasResource курьерская доставка",
+        "адрес нко hasResource доставка в офис стороны"
+      ],
+      "chunk_id": "88"
+    },
+    "metadata": {
+      "score": 0.6998520493507385,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document bd4e7b61-2e33-4c8b-9300-810bc6b1ae90: original score 2.2454615, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document bd4e7b61-2e33-4c8b-9300-810bc6b1ae90: original score 0.3695686, normalized score: 0.09985205"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Почтовый адрес",
+      "type": "Resource",
+      "hasStatement": [
+        "почтовый адрес isResourceOf регистрация"
+      ],
+      "chunk_id": "89"
+    },
+    "metadata": {
+      "score": 0.6907987594604492,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 291c10dd-7024-4610-8117-30eebd67a671: original score 1.4013005, normalized score: 0.35507724 - \nHybrid (Result Set vector,hybridVector) Document 291c10dd-7024-4610-8117-30eebd67a671: original score 0.47245324, normalized score: 0.3357215"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "адрес электронной почты НКО",
+      "type": "Resource",
+      "hasStatement": [
+        "адрес электронной почты нко isResourceOf направление подтверждения"
+      ],
+      "chunk_id": "62"
+    },
+    "metadata": {
+      "score": 0.6456091403961182,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 8c7f816f-6fef-4c91-be3c-7209757955f6: original score 1.461283, normalized score: 0.37248042 - \nHybrid (Result Set vector,hybridVector) Document 8c7f816f-6fef-4c91-be3c-7209757955f6: original score 0.44515067, normalized score: 0.2731287"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Контактный адрес электронной почты",
+      "chunk_id": "119",
+      "hasStatement": [],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 0.6130915880203247,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 9216f89a-2123-478a-9463-f8db727f0a8a: original score 0.91192687, normalized score: 0.21309157 - \nHybrid (Result Set vector,hybridVector) Document 9216f89a-2123-478a-9463-f8db727f0a8a: original score 0.5004911, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Юридический адрес",
+      "type": "Resource",
+      "hasStatement": [
+        "юридический адрес hasResponsible небанковская кредитная организация"
+      ],
+      "chunk_id": "100"
+    },
+    "metadata": {
+      "score": 0.5933642387390137,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 1063f3d4-856f-44d2-b45d-2bb95909eb32: original score 1.4013005, normalized score: 0.35507724 - \nHybrid (Result Set vector,hybridVector) Document 1063f3d4-856f-44d2-b45d-2bb95909eb32: original score 0.42995298, normalized score: 0.23828702"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Почтовый адрес",
+      "type": "Resource",
+      "hasStatement": [
+        "почтовый адрес hasResponsible небанковская кредитная организация"
+      ],
+      "chunk_id": "100"
+    },
+    "metadata": {
+      "score": 0.5803595185279846,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 37faa43d-195b-41bc-a319-cc1eb6078f04: original score 1.4013005, normalized score: 0.35507724 - \nHybrid (Result Set vector,hybridVector) Document 37faa43d-195b-41bc-a319-cc1eb6078f04: original score 0.4242804, normalized score: 0.2252823"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "электронный адрес",
+      "type": "Resource",
+      "hasStatement": [
+        "электронный адрес isResourceOf уведомление получателя"
+      ],
+      "chunk_id": "94"
+    },
+    "metadata": {
+      "score": 0.5797733068466187,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7f3fa34e-e7de-48cf-9dd3-b317aacaae37: original score 1.4013005, normalized score: 0.35507724 - \nHybrid (Result Set vector,hybridVector) Document 7f3fa34e-e7de-48cf-9dd3-b317aacaae37: original score 0.4240247, normalized score: 0.22469607"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Адрес электронной почты",
+      "type": "Resource",
+      "hasStatement": [
+        "адрес электронной почты relation личный кабинет"
+      ],
+      "chunk_id": "110"
+    },
+    "metadata": {
+      "score": 0.5390564203262329,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 5dbfa303-d06c-41c8-8314-73ff552b1ea4: original score 1.1048491, normalized score: 0.26906556 - \nHybrid (Result Set vector,hybridVector) Document 5dbfa303-d06c-41c8-8314-73ff552b1ea4: original score 0.44378197, normalized score: 0.26999086"
+    }
+  }
+]

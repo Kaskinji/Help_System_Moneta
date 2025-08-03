@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Возмещение убытков",
+      "chunk_id": "82",
+      "hasStatement": [
+        "возмещение убытков hasResponsible получатель"
+      ],
+      "type": "Process"
+    },
+    "metadata": {
+      "score": 0.723330020904541,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a103404d-363d-436e-9173-42443a40c902: original score 4.276067, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document a103404d-363d-436e-9173-42443a40c902: original score 0.22747493, normalized score: 0.123329975"
+    }
+  }
+]

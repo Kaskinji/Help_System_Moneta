@@ -1,0 +1,43 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "волеизъявление об установлении ограничений перевода",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "61"
+    },
+    "metadata": {
+      "score": 0.9724334478378296,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document f31e3bdb-0bfc-439c-899d-dd2e096506ff: original score 5.080949, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document f31e3bdb-0bfc-439c-899d-dd2e096506ff: original score 0.4108746, normalized score: 0.3724334"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "заявление об установлении ограничений перевода",
+      "type": "Resource",
+      "hasStatement": [
+        "заявление об установлении isResourceOf установление ограничений перевода"
+      ],
+      "chunk_id": "61"
+    },
+    "metadata": {
+      "score": 0.6653347015380859,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 27b7c510-6288-4380-8d8d-05e9e9423220: original score 3.737502, normalized score: 0.42864254 - \nHybrid (Result Set vector,hybridVector) Document 27b7c510-6288-4380-8d8d-05e9e9423220: original score 0.34656513, normalized score: 0.23669219"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "ограничения перевода",
+      "chunk_id": "61",
+      "hasStatement": [],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 0.51610267162323,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 38e6f50e-1033-4cc3-aa4c-d579e0c820c8: original score 1.2871822, normalized score: 0.11610265 - \nHybrid (Result Set vector,hybridVector) Document 38e6f50e-1033-4cc3-aa4c-d579e0c820c8: original score 0.4239347, normalized score: 0.4"
+    }
+  }
+]

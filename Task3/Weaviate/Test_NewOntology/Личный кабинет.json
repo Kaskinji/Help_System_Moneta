@@ -1,0 +1,116 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Личный кабинет",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "60"
+    },
+    "metadata": {
+      "score": 0.9625716805458069,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 7b9675e3-7d69-459a-8623-2a44bc72a6e9: original score 2.919247, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 7b9675e3-7d69-459a-8623-2a44bc72a6e9: original score 0.4114877, normalized score: 0.36257166"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Личный кабинет",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "59"
+    },
+    "metadata": {
+      "score": 0.9625716805458069,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 032ec138-4564-49f0-8d37-98c73eb44c2b: original score 2.919247, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 032ec138-4564-49f0-8d37-98c73eb44c2b: original score 0.4114877, normalized score: 0.36257166"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Личный кабинет",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "28"
+    },
+    "metadata": {
+      "score": 0.9625716805458069,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 00f5e3e0-8721-4921-884c-91c03134f42d: original score 2.919247, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 00f5e3e0-8721-4921-884c-91c03134f42d: original score 0.4114877, normalized score: 0.36257166"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Личный кабинет",
+      "chunk_id": "80",
+      "hasStatement": [
+        "личный кабинет isResourceOf размещение нко акта в личном кабинете"
+      ],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 0.943766713142395,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document c886531d-0248-41b1-8781-e3e4962b5783: original score 2.919247, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document c886531d-0248-41b1-8781-e3e4962b5783: original score 0.40310115, normalized score: 0.34376672"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Личный кабинет",
+      "type": "Resource",
+      "hasStatement": [
+        "личный кабинет relation адрес электронной почты"
+      ],
+      "chunk_id": "110"
+    },
+    "metadata": {
+      "score": 0.9362068176269531,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document f7cac8cb-9bc7-4e8f-9e0a-05d95c732a0b: original score 2.919247, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document f7cac8cb-9bc7-4e8f-9e0a-05d95c732a0b: original score 0.3997296, normalized score: 0.3362068"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Личный кабинет",
+      "type": "Resource",
+      "hasStatement": [
+        "личный кабинет relation адрес электронной почты"
+      ],
+      "chunk_id": "113"
+    },
+    "metadata": {
+      "score": 0.9362068176269531,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document b266daed-8365-4f5b-917e-9044717cd9e2: original score 2.919247, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document b266daed-8365-4f5b-917e-9044717cd9e2: original score 0.3997296, normalized score: 0.3362068"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Личный кабинет",
+      "type": "Resource",
+      "hasStatement": [
+        "личный кабинет relation уведомление"
+      ],
+      "chunk_id": "47"
+    },
+    "metadata": {
+      "score": 0.9095799326896667,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 68adcd1f-106c-4a45-8f01-99ec91e83549: original score 2.919247, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 68adcd1f-106c-4a45-8f01-99ec91e83549: original score 0.38785464, normalized score: 0.3095799"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Личный кабинет",
+      "type": "Resource",
+      "hasStatement": [
+        "личный кабинет hasPart адрес электронной почты"
+      ],
+      "chunk_id": "114"
+    },
+    "metadata": {
+      "score": 0.8841930031776428,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 25b23f60-3baf-410c-acb5-f6c12db9d0ae: original score 2.919247, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 25b23f60-3baf-410c-acb5-f6c12db9d0ae: original score 0.37653267, normalized score: 0.28419298"
+    }
+  }
+]

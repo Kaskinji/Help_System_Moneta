@@ -1,0 +1,20 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "невостребованный остаток денежных средств",
+      "type": "Unknown",
+      "hasStatement": [
+        "невостребованный остаток денежных средств isResourceOf отнесение невостребованного остатка в доход",
+        "невостребованный остаток денежных средств canBeResourceFor возврат невостребованного остатка",
+        "невостребованный остаток денежных средств isResourceOf отнесение невостребованного остатка в доход",
+        "невостребованный остаток денежных средств canBeResourceFor возврат невостребованного остатка"
+      ],
+      "chunk_id": "96"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document cd745e32-e5ac-4aa7-beee-7452bb369cda: original score 4.74126, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document cd745e32-e5ac-4aa7-beee-7452bb369cda: original score 0.56805, normalized score: 0.4"
+    }
+  }
+]

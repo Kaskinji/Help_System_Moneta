@@ -1,0 +1,50 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "предоставление НКО данных",
+      "type": "Process",
+      "hasStatement": [
+        "предоставление нко данных hasActor нко",
+        "предоставление нко данных isPartOf подключение к системе монетару",
+        "предоставление нко данных hasResult данные о получателе",
+        "предоставление нко данных hasResult данные о получателе"
+      ],
+      "chunk_id": "35"
+    },
+    "metadata": {
+      "score": 0.7212291955947876,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document b751383c-5893-4761-9f6e-d99df5d10b62: original score 2.9370089, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document b751383c-5893-4761-9f6e-d99df5d10b62: original score 0.38381183, normalized score: 0.12122917"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "предоставление НКО данных о Получателе",
+      "type": "Process",
+      "hasStatement": [
+        "предоставление нко данных о получателе hasResource данные о получателе"
+      ],
+      "chunk_id": "122"
+    },
+    "metadata": {
+      "score": 0.6733003854751587,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 6db5d187-1a75-4d55-9ab5-0a7cb0bf333b: original score 2.0637975, normalized score: 0.40367916 - \nHybrid (Result Set vector,hybridVector) Document 6db5d187-1a75-4d55-9ab5-0a7cb0bf333b: original score 0.51675665, normalized score: 0.2696212"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "предоставление НКО данных о Получателе",
+      "chunk_id": "124",
+      "hasStatement": [
+        "предоставление нко данных о получател hasActor получатель"
+      ],
+      "type": "Process"
+    },
+    "metadata": {
+      "score": 0.6333481073379517,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document f712a819-4f09-4452-a1be-cf69a856a243: original score 2.0637975, normalized score: 0.40367916 - \nHybrid (Result Set vector,hybridVector) Document f712a819-4f09-4452-a1be-cf69a856a243: original score 0.48096335, normalized score: 0.22966897"
+    }
+  }
+]

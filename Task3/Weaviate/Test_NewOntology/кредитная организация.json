@@ -1,0 +1,32 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "кредитная организация",
+      "chunk_id": "15",
+      "hasStatement": [
+        "кредитная организация isActorOf реализация услуг"
+      ],
+      "type": "Agent"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document cfc4b3c1-d39c-46d6-987a-60a0586006c6: original score 3.5735412, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document cfc4b3c1-d39c-46d6-987a-60a0586006c6: original score 0.5458096, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "небанковская кредитная организация",
+      "type": "Agent",
+      "hasStatement": [
+        "небанковская кредитная организац isActorOf реализация услуг"
+      ],
+      "chunk_id": "15"
+    },
+    "metadata": {
+      "score": 0.6878893375396729,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document d6d97333-1637-4c64-b418-e659e159f086: original score 2.8175426, normalized score: 0.3942228 - \nHybrid (Result Set vector,hybridVector) Document d6d97333-1637-4c64-b418-e659e159f086: original score 0.4829198, normalized score: 0.29366654"
+    }
+  }
+]

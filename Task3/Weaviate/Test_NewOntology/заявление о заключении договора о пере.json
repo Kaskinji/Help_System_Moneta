@@ -1,0 +1,30 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "заявление о заключении договора о пере",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "98"
+    },
+    "metadata": {
+      "score": 0.8320731520652771,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ec99b52c-54d2-4abb-b40e-c82c14a78842: original score 5.6338434, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document ec99b52c-54d2-4abb-b40e-c82c14a78842: original score 0.43891454, normalized score: 0.23207311"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Соглашение о расторжении Договора",
+      "type": "Resource",
+      "hasStatement": [
+        "соглашение о расторжении догов isResourceOf запрос информации"
+      ],
+      "chunk_id": "95"
+    },
+    "metadata": {
+      "score": 0.6042708158493042,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 2f677550-442b-4f2c-ae3e-d5ec5f16f49b: original score 2.4177065, normalized score: 0.21635586 - \nHybrid (Result Set vector,hybridVector) Document 2f677550-442b-4f2c-ae3e-d5ec5f16f49b: original score 0.5372008, normalized score: 0.387915"
+    }
+  }
+]

@@ -1,0 +1,30 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "отказ в приеме ЭС",
+      "type": "Event",
+      "hasStatement": [],
+      "chunk_id": "14"
+    },
+    "metadata": {
+      "score": 0.8641262054443359,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 0b15b60d-d207-42e0-bc59-bd71a703468c: original score 4.26991, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 0b15b60d-d207-42e0-bc59-bd71a703468c: original score 0.18949723, normalized score: 0.26412615"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Отказ в приеме ЭС",
+      "type": "Event",
+      "hasStatement": [
+        "отказ в приеме эс isResultOf обработка эс"
+      ],
+      "chunk_id": "103"
+    },
+    "metadata": {
+      "score": 0.8633837699890137,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 99fbaea1-45e7-4b4e-8e46-697004f2f8c8: original score 4.2699094, normalized score: 0.59999996 - \nHybrid (Result Set vector,hybridVector) Document 99fbaea1-45e7-4b4e-8e46-697004f2f8c8: original score 0.18896794, normalized score: 0.26338384"
+    }
+  }
+]

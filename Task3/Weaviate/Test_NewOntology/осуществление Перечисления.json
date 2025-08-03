@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "осуществление Перечисления",
+      "type": "Process",
+      "hasStatement": [
+        "осуществление перечисления relation отложить перечисление получателю сумм"
+      ],
+      "chunk_id": "44"
+    },
+    "metadata": {
+      "score": 0.6906269788742065,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 99c37615-d4e3-40b7-acc4-0f2e70c63080: original score 3.550055, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 99c37615-d4e3-40b7-acc4-0f2e70c63080: original score 0.4034027, normalized score: 0.09062697"
+    }
+  }
+]

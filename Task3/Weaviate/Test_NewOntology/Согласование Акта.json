@@ -1,0 +1,85 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Согласование Акта",
+      "type": "Process",
+      "hasStatement": [
+        "согласование акта hasActor получатель",
+        "согласование акта hasActor нко",
+        "согласование акта hasResource акт",
+        "согласование акта hasActor получатель",
+        "согласование акта hasActor нко",
+        "согласование акта hasResource акт"
+      ],
+      "chunk_id": "51"
+    },
+    "metadata": {
+      "score": 0.755713939666748,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 5281861d-3ce1-4509-8f02-1d703455bfb2: original score 3.5626736, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 5281861d-3ce1-4509-8f02-1d703455bfb2: original score 0.2819065, normalized score: 0.15571392"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "формирование Акта",
+      "type": "Process",
+      "hasStatement": [
+        "формирование акта hasResult акт"
+      ],
+      "chunk_id": "41"
+    },
+    "metadata": {
+      "score": 0.5581619739532471,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document b47bb8bc-2471-48da-a9e5-19b57451b4f0: original score 1.5293933, normalized score: 0.20347123 - \nHybrid (Result Set vector,hybridVector) Document b47bb8bc-2471-48da-a9e5-19b57451b4f0: original score 0.37802148, normalized score: 0.35469076"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "составление Акта",
+      "type": "Process",
+      "hasStatement": [
+        "составление акта hasActor стороны",
+        "составление акта hasResult акт"
+      ],
+      "chunk_id": "93"
+    },
+    "metadata": {
+      "score": 0.557083010673523,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 70e73a12-3e39-421a-9212-5240a10bc693: original score 1.5293933, normalized score: 0.20347123 - \nHybrid (Result Set vector,hybridVector) Document 70e73a12-3e39-421a-9212-5240a10bc693: original score 0.3775003, normalized score: 0.3536118"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "согласование",
+      "chunk_id": "65",
+      "hasStatement": [
+        "согласование hasResource требования",
+        "согласование hasResource акт"
+      ],
+      "type": "Process"
+    },
+    "metadata": {
+      "score": 0.5346251130104065,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 4783c915-4891-4266-bbaa-96f2808322a0: original score 2.7789145, normalized score: 0.4471519 - \nHybrid (Result Set vector,hybridVector) Document 4783c915-4891-4266-bbaa-96f2808322a0: original score 0.24894309, normalized score: 0.087473236"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "предоставление Акта",
+      "type": "Process",
+      "hasStatement": [
+        "предоставление акта hasResource акт",
+        "предоставление акта hasActor получатель"
+      ],
+      "chunk_id": "41"
+    },
+    "metadata": {
+      "score": 0.5250486135482788,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 78865455-58ae-4c12-9b06-cc7e36ccdd94: original score 1.5293933, normalized score: 0.20347123 - \nHybrid (Result Set vector,hybridVector) Document 78865455-58ae-4c12-9b06-cc7e36ccdd94: original score 0.3620262, normalized score: 0.3215774"
+    }
+  }
+]

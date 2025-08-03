@@ -1,0 +1,15 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "бенефициарный владелец",
+      "type": "Agent",
+      "hasStatement": [],
+      "chunk_id": "52"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 0426ead9-c9a9-47e2-bb93-e9aa98b8b844: original score 4.849724, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 0426ead9-c9a9-47e2-bb93-e9aa98b8b844: original score 0.42676866, normalized score: 0.4"
+    }
+  }
+]

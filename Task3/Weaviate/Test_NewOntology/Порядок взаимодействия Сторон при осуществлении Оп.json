@@ -1,0 +1,49 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Порядок взаимодействия Сторон при осуществлении Операции возврата Перевода",
+      "type": "Resource",
+      "hasStatement": [
+        "порядок взаимодействия сторон при осу isPartOf договор"
+      ],
+      "chunk_id": "98"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e7ceb549-3b78-4a2b-be03-e21b46920fe7: original score 5.5243726, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document e7ceb549-3b78-4a2b-be03-e21b46920fe7: original score 0.4494244, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Порядок взаимодействия Сторон",
+      "type": "Resource",
+      "hasStatement": [
+        "порядок взаимодействия сторон relation операция возврата перевода",
+        "порядок взаимодействия сторон relation нко",
+        "порядок взаимодействия сторон relation получатель"
+      ],
+      "chunk_id": "107"
+    },
+    "metadata": {
+      "score": 0.6801086068153381,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 1baff1e2-ffa4-4e4e-8f70-9c3dc6699723: original score 4.223425, normalized score: 0.4452031 - \nHybrid (Result Set vector,hybridVector) Document 1baff1e2-ffa4-4e4e-8f70-9c3dc6699723: original score 0.3736754, normalized score: 0.23490551"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Порядок взаимодействия Сторон при рассмотрении заявлений Эмитента о совершении Недействительного перевода",
+      "type": "Resource",
+      "hasStatement": [
+        "порядок взаимодействия сторон при ра isPartOf договор"
+      ],
+      "chunk_id": "98"
+    },
+    "metadata": {
+      "score": 0.6442603468894958,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 66525e78-d9ee-43e3-893d-524ececa4feb: original score 2.5409806, normalized score: 0.24501263 - \nHybrid (Result Set vector,hybridVector) Document 66525e78-d9ee-43e3-893d-524ececa4feb: original score 0.44907922, normalized score: 0.3992477"
+    }
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "возникновение прямых и косвенных рис",
+      "type": "Event",
+      "hasStatement": [
+        "возникновение прямых и косвенных ри isResultOf привлечение торговой площадки",
+        "возникновение прямых и косвенных ри relation прямые и косвенные риски"
+      ],
+      "chunk_id": "84"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 4f50b8e2-b9ca-4b17-bee9-f368971f2617: original score 5.8049974, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 4f50b8e2-b9ca-4b17-bee9-f368971f2617: original score 0.44624513, normalized score: 0.4"
+    }
+  }
+]

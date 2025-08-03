@@ -1,0 +1,35 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "взаимодействие 02",
+      "type": "Unknown",
+      "hasStatement": [
+        "взаимодействие 02 isPartOf приложение 5",
+        "взаимодействие 02 isResourceOf приложение 5"
+      ],
+      "chunk_id": "68"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document dd681cd7-dafa-419e-b784-eb450f1605dc: original score 3.859015, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document dd681cd7-dafa-419e-b784-eb450f1605dc: original score 0.46844202, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "взаимодействие",
+      "type": "Unknown",
+      "hasStatement": [
+        "взаимодействие hasActor стороны",
+        "взаимодействие isPartOf приложение 4",
+        "взаимодействие isResourceOf приложение 4"
+      ],
+      "chunk_id": "68"
+    },
+    "metadata": {
+      "score": 0.5159081220626831,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 85fa3fe6-1b93-47c7-a09e-dfdb59372e4c: original score 2.208923, normalized score: 0.18738635 - \nHybrid (Result Set vector,hybridVector) Document 85fa3fe6-1b93-47c7-a09e-dfdb59372e4c: original score 0.44562727, normalized score: 0.32852176"
+    }
+  }
+]

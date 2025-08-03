@@ -1,0 +1,19 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Обработка ЭС",
+      "type": "Process",
+      "hasStatement": [
+        "обработка эс isPartOf информационный обмен",
+        "обработка эс hasResult подтверждение о приеме эс",
+        "обработка эс hasResult отказ в приеме эс"
+      ],
+      "chunk_id": "103"
+    },
+    "metadata": {
+      "score": 0.6894952654838562,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 3bd442a3-7f33-4ef9-8c87-906e18d3095e: original score 3.941637, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 3bd442a3-7f33-4ef9-8c87-906e18d3095e: original score 0.26697743, normalized score: 0.089495234"
+    }
+  }
+]

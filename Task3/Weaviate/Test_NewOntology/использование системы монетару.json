@@ -1,0 +1,19 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "использование системы монетару",
+      "type": "Process",
+      "hasStatement": [
+        "использование системы монетару hasResult безусловное согласие",
+        "использование системы монетару hasResource РУ\"@ru",
+        "использование системы монетару hasActor получатель"
+      ],
+      "chunk_id": "73"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 077fa2a8-a867-4cca-bf42-76e45fd0e4ef: original score 4.6545024, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 077fa2a8-a867-4cca-bf42-76e45fd0e4ef: original score 0.5184164, normalized score: 0.4"
+    }
+  }
+]

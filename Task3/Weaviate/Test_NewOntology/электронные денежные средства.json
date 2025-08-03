@@ -1,0 +1,75 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "электронные денежные средства",
+      "type": "Resource",
+      "hasStatement": [
+        "электронные денежные средства isResourceOf исполнение распоряжения"
+      ],
+      "chunk_id": "10"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document bba7ad7c-fec2-4147-af38-b8144fb6895d: original score 4.1007504, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document bba7ad7c-fec2-4147-af38-b8144fb6895d: original score 0.46007204, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "электронные средства платежа",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "20"
+    },
+    "metadata": {
+      "score": 0.6021167039871216,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ccaf16c0-d769-4aea-946e-bd10692666d5: original score 2.7847323, normalized score: 0.32417795 - \nHybrid (Result Set vector,hybridVector) Document ccaf16c0-d769-4aea-946e-bd10692666d5: original score 0.40009665, normalized score: 0.27793872"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "денежные средства Получателя",
+      "type": "Resource",
+      "hasStatement": [
+        "денежные средства получателя isResourceOf распоряжение денежными средствами получател"
+      ],
+      "chunk_id": "122"
+    },
+    "metadata": {
+      "score": 0.5594599843025208,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 9de8fdba-97bd-44c5-b087-bc86cfebb849: original score 2.5540137, normalized score: 0.275822 - \nHybrid (Result Set vector,hybridVector) Document 9de8fdba-97bd-44c5-b087-bc86cfebb849: original score 0.402897, normalized score: 0.28363797"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "денежные средства",
+      "chunk_id": "10",
+      "hasStatement": [
+        "денежные средства isResourceOf исполнение распоряжения"
+      ],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 0.5532987713813782,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ba86ccd3-38a2-461f-aa0e-c515d9bd123c: original score 3.2393029, normalized score: 0.4194506 - \nHybrid (Result Set vector,hybridVector) Document ba86ccd3-38a2-461f-aa0e-c515d9bd123c: original score 0.32929707, normalized score: 0.13384816"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "денежные средства Получателя",
+      "chunk_id": "35",
+      "hasStatement": [
+        "денежные средства получателя isResourceOf распоряжение денежных средств"
+      ],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 0.5290175676345825,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document bd5553bd-09f0-449d-9896-06a740cf5880: original score 2.5540137, normalized score: 0.275822 - \nHybrid (Result Set vector,hybridVector) Document bd5553bd-09f0-449d-9896-06a740cf5880: original score 0.38793898, normalized score: 0.25319555"
+    }
+  }
+]

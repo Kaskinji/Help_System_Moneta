@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "иное имущество",
+      "type": "Unknown",
+      "hasStatement": [
+        "иное имущество isResourceOf взыскание денежных средств"
+      ],
+      "chunk_id": "82"
+    },
+    "metadata": {
+      "score": 0.730076789855957,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e33f874e-7660-4d2f-8f24-70ecf0803b71: original score 4.849724, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document e33f874e-7660-4d2f-8f24-70ecf0803b71: original score 0.20016229, normalized score: 0.13007675"
+    }
+  }
+]

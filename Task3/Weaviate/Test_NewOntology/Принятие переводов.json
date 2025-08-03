@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Принятие переводов",
+      "type": "Unknown",
+      "hasStatement": [
+        "принятие переводов hasResult сумма переводов",
+        "принятие переводов hasResult \"@ru"
+      ],
+      "chunk_id": "13"
+    },
+    "metadata": {
+      "score": 0.9511423110961914,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document dddfeb83-c54e-406c-8988-392d7abca593: original score 3.3963547, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document dddfeb83-c54e-406c-8988-392d7abca593: original score 0.45680702, normalized score: 0.3511423"
+    }
+  }
+]

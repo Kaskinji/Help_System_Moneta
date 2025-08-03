@@ -1,0 +1,28 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Взаимодействие сторон",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "110"
+    },
+    "metadata": {
+      "score": 0.997833251953125,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 2624542d-44eb-4798-9565-3cc9a70cbce3: original score 3.3150783, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 2624542d-44eb-4798-9565-3cc9a70cbce3: original score 0.42896742, normalized score: 0.3978332"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Информационно-технологическое взаимодействие",
+      "type": "Process",
+      "hasStatement": [],
+      "chunk_id": "103"
+    },
+    "metadata": {
+      "score": 0.5619238615036011,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document a116082a-0b8b-4928-ad48-ffdd1d0f6f9d: original score 1.6162282, normalized score: 0.19798854 - \nHybrid (Result Set vector,hybridVector) Document a116082a-0b8b-4928-ad48-ffdd1d0f6f9d: original score 0.420384, normalized score: 0.3639353"
+    }
+  }
+]

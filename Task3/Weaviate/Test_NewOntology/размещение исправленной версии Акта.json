@@ -1,0 +1,18 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "размещение исправленной версии Акта",
+      "type": "Process",
+      "hasStatement": [
+        "размещение исправленной версии акта hasResource акт",
+        "размещение исправленной версии акта hasResource личный кабинет"
+      ],
+      "chunk_id": "79"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document df8dfd0d-3407-46dd-b356-e576467b81f6: original score 5.3892546, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document df8dfd0d-3407-46dd-b356-e576467b81f6: original score 0.4514581, normalized score: 0.4"
+    }
+  }
+]

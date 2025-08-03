@@ -1,0 +1,69 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Компрометация Аутентификационных данных",
+      "type": "Event",
+      "hasStatement": [],
+      "chunk_id": "105"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 65efccf4-8ae9-49ed-b481-18f3dde3b9ae: original score 4.107647, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 65efccf4-8ae9-49ed-b481-18f3dde3b9ae: original score 0.65192926, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Компрометация Аутентификационных данных",
+      "type": "Event",
+      "hasStatement": [],
+      "chunk_id": "106"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 0c1eea88-05fb-41e1-a19d-87047beda97f: original score 4.107647, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 0c1eea88-05fb-41e1-a19d-87047beda97f: original score 0.65192926, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Компрометация Аутентификационных данных",
+      "type": "Event",
+      "hasStatement": [
+        "компрометация аутентификационных данн relation аутентификационные данные"
+      ],
+      "chunk_id": "17"
+    },
+    "metadata": {
+      "score": 0.8305991888046265,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 40f04c2d-9ba2-40b8-a576-457a2722c16c: original score 4.107647, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 40f04c2d-9ba2-40b8-a576-457a2722c16c: original score 0.516556, normalized score: 0.23059915"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "подозрение НКО о Компрометации Аутентификационных данных",
+      "type": "Event",
+      "hasStatement": [],
+      "chunk_id": "106"
+    },
+    "metadata": {
+      "score": 0.524214506149292,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 8b09f1ee-1c19-4476-abae-dc8238f355a0: original score 1.4889243, normalized score: 0.12937334 - \nHybrid (Result Set vector,hybridVector) Document 8b09f1ee-1c19-4476-abae-dc8238f355a0: original score 0.64780664, normalized score: 0.39484113"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Окончание срока действия Аутентификационных данных",
+      "type": "Event",
+      "hasStatement": [],
+      "chunk_id": "106"
+    },
+    "metadata": {
+      "score": 0.5190929174423218,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 1007a35b-f1fe-46ce-8ac4-3f56e91e83c1: original score 1.7102624, normalized score: 0.16915137 - \nHybrid (Result Set vector,hybridVector) Document 1007a35b-f1fe-46ce-8ac4-3f56e91e83c1: original score 0.6119261, normalized score: 0.34994158"
+    }
+  }
+]

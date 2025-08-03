@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "требования к интернет магазину",
+      "type": "Unknown",
+      "hasStatement": [
+        "требования к интернет магазину isPartOf приложение 6 к договору"
+      ],
+      "chunk_id": "7"
+    },
+    "metadata": {
+      "score": 0.8332880735397339,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 4c5d89a3-a8e9-44f9-b278-39a0ffbc9115: original score 4.904695, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 4c5d89a3-a8e9-44f9-b278-39a0ffbc9115: original score 0.3167054, normalized score: 0.23328808"
+    }
+  }
+]

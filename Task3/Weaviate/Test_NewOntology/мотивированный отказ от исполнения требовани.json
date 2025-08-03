@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "мотивированный отказ от исполнения требовани",
+      "type": "Unknown",
+      "hasStatement": [
+        "мотивированный отказ от исполнения требовани isPartOf сообщение"
+      ],
+      "chunk_id": "30"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 475a926a-e4fa-4b1d-ad03-e4f1496ff1a0: original score 5.2779903, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 475a926a-e4fa-4b1d-ad03-e4f1496ff1a0: original score 0.43617207, normalized score: 0.4"
+    }
+  }
+]

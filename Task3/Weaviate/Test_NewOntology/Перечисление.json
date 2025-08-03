@@ -1,0 +1,33 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "перечисление",
+      "type": "Unknown",
+      "hasStatement": [
+        "перечисление isResourceOf удержание переводов"
+      ],
+      "chunk_id": "92"
+    },
+    "metadata": {
+      "score": 0.7102891802787781,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document e143a8b9-4f8a-47d8-90cb-83be7a365cae: original score 1.9948891, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document e143a8b9-4f8a-47d8-90cb-83be7a365cae: original score 0.16421688, normalized score: 0.11028918"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Перечисление Получателем",
+      "type": "Unknown",
+      "hasStatement": [
+        "перечисление получателем hasActor получатель",
+        "перечисление получателем hasResult перечислено получателем"
+      ],
+      "chunk_id": "13"
+    },
+    "metadata": {
+      "score": 0.5946449041366577,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ea9ea6f5-9a63-44bd-8533-df9441692d08: original score 1.4596235, normalized score: 0.2926726 - \nHybrid (Result Set vector,hybridVector) Document ea9ea6f5-9a63-44bd-8533-df9441692d08: original score 0.25402242, normalized score: 0.30197233"
+    }
+  }
+]

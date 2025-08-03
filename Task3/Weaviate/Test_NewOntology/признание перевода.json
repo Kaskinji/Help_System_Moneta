@@ -1,0 +1,34 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "признание перевода",
+      "type": "Process",
+      "hasStatement": [
+        "признание перевода hasResult недействительный перевод"
+      ],
+      "chunk_id": "68"
+    },
+    "metadata": {
+      "score": 0.9482560157775879,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 1a34edf6-a6a0-40db-8c50-40354669ab42: original score 3.4100394, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 1a34edf6-a6a0-40db-8c50-40354669ab42: original score 0.46038985, normalized score: 0.34825596"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "признание переводов недействительными",
+      "chunk_id": "25",
+      "hasStatement": [
+        "признание переводов недейс hasActor нко",
+        "признание переводов недейс hasResource переводы",
+        "признание переводов недейс hasResult недействительные переводы"
+      ],
+      "type": "Process"
+    },
+    "metadata": {
+      "score": 0.5410217642784119,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 385f0b80-c21c-40b7-824e-a3f8cb15dc55: original score 1.6737571, normalized score: 0.2357877 - \nHybrid (Result Set vector,hybridVector) Document 385f0b80-c21c-40b7-824e-a3f8cb15dc55: original score 0.43718517, normalized score: 0.30523407"
+    }
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Реализация услуг",
+      "type": "Process",
+      "hasStatement": [
+        "реализация услуг hasActor получатель",
+        "реализация услуг hasResource запрещенные услуги"
+      ],
+      "chunk_id": "110"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 93eff376-1383-4abd-97c8-775e03aa997b: original score 3.791987, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 93eff376-1383-4abd-97c8-775e03aa997b: original score 0.54955906, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "реализация Услуг",
+      "type": "Process",
+      "hasStatement": [
+        "реализация услуг hasActor юридическое лицо",
+        "реализация услуг hasActor физическое лицо",
+        "реализация услуг hasActor индивидуальный предприниматель",
+        "реализация услуг hasActor кредитная организация",
+        "реализация услуг hasActor небанковская кредитная организац",
+        "реализация услуг hasActor уполномоченное юридическое лицо",
+        "реализация услуг hasResource сеть интернет"
+      ],
+      "chunk_id": "15"
+    },
+    "metadata": {
+      "score": 0.7398138046264648,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 27ad2425-f171-4dd2-9cdf-ee5480f98ccc: original score 3.791987, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 27ad2425-f171-4dd2-9cdf-ee5480f98ccc: original score 0.38308805, normalized score: 0.1398138"
+    }
+  }
+]

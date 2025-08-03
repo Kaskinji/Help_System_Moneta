@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Экстренное прекращение действия",
+      "type": "Process",
+      "hasStatement": [
+        "экстренное прекращение действия hasResource аутентификационные данные"
+      ],
+      "chunk_id": "105"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 14d9ad0a-d09b-4ca7-96c6-e11794bd4032: original score 4.599404, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 14d9ad0a-d09b-4ca7-96c6-e11794bd4032: original score 0.4094057, normalized score: 0.4"
+    }
+  }
+]

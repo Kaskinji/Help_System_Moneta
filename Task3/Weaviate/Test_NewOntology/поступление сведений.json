@@ -1,0 +1,23 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "поступление сведений",
+      "type": "Unknown",
+      "hasStatement": [
+        "поступление сведений Initiates взаимодействие 02",
+        "поступление сведений relation эквайрер",
+        "поступление сведений relation нко",
+        "поступление сведений relation документы",
+        "поступление сведений relation нарушение правил",
+        "поступление сведений relation плательщик",
+        "поступление сведений relation получатель"
+      ],
+      "chunk_id": "68"
+    },
+    "metadata": {
+      "score": 0.7010119557380676,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ca276a1e-f6cf-4fe2-a279-3264015055e5: original score 3.7683473, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document ca276a1e-f6cf-4fe2-a279-3264015055e5: original score 0.43776178, normalized score: 0.10101191"
+    }
+  }
+]

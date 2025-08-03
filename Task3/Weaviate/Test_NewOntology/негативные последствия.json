@@ -1,0 +1,17 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "негативные последствия",
+      "type": "Event",
+      "hasStatement": [
+        "негативные последствия relation действия или бездействие"
+      ],
+      "chunk_id": "84"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 4b0e6c55-08cd-470a-8c34-b30d4406d18c: original score 4.849724, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 4b0e6c55-08cd-470a-8c34-b30d4406d18c: original score 0.55520654, normalized score: 0.4"
+    }
+  }
+]

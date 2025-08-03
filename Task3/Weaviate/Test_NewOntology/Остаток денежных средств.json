@@ -1,0 +1,60 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Остаток денежных средств",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "95"
+    },
+    "metadata": {
+      "score": 0.8541057109832764,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 87bf151c-dd37-4e2a-93e2-b0d082c637b7: original score 3.9759798, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 87bf151c-dd37-4e2a-93e2-b0d082c637b7: original score 0.31539798, normalized score: 0.2541057"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "суммы причитающихся денежных средств",
+      "type": "Resource",
+      "hasStatement": [
+        "суммы причитающихся денежных сред isPartOf претензии"
+      ],
+      "chunk_id": "87"
+    },
+    "metadata": {
+      "score": 0.6525811553001404,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document cdaf5e76-9663-4a4f-93a1-10543469e8b0: original score 1.9002221, normalized score: 0.2572542 - \nHybrid (Result Set vector,hybridVector) Document cdaf5e76-9663-4a4f-93a1-10543469e8b0: original score 0.39492387, normalized score: 0.39532694"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "перечисление денежных средств",
+      "type": "Resource",
+      "hasStatement": [
+        "перечисление денежных средств isResourceOf выплата пени"
+      ],
+      "chunk_id": "83"
+    },
+    "metadata": {
+      "score": 0.6174407005310059,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document f0bddbb2-75ab-49af-862e-1854e1590cca: original score 2.3022227, normalized score: 0.3236319 - \nHybrid (Result Set vector,hybridVector) Document f0bddbb2-75ab-49af-862e-1854e1590cca: original score 0.33775598, normalized score: 0.2938088"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "возмещения денежных средств",
+      "type": "Resource",
+      "hasStatement": [
+        "возмещения денежных средств hasResponsible получатель"
+      ],
+      "chunk_id": "43"
+    },
+    "metadata": {
+      "score": 0.539993166923523,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 23f8593a-a5dc-481c-b7e0-486c8893af62: original score 2.3022227, normalized score: 0.3236319 - \nHybrid (Result Set vector,hybridVector) Document 23f8593a-a5dc-481c-b7e0-486c8893af62: original score 0.29414296, normalized score: 0.21636127"
+    }
+  }
+]

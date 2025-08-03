@@ -1,0 +1,24 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Обмен информацией и электронными документами",
+      "type": "Process",
+      "hasStatement": [
+        "обмен информацией электронными документами hasActor нко",
+        "обмен информацией электронными документами hasActor получатель",
+        "обмен информацией электронными документами hasResource сообщение",
+        "обмен информацией электронными документами hasResult информация о результатах приема и обработки",
+        "обмен информацией электронными документами hasActor нко",
+        "обмен информацией электронными документами hasActor получатель",
+        "обмен информацией электронными документами hasResource РУ\"@ru",
+        "обмен информацией электронными документами hasPart регламент информационного обмена электронными"
+      ],
+      "chunk_id": "32"
+    },
+    "metadata": {
+      "score": 0.7283631563186646,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 4691605f-49e2-4503-a0f8-2264aa5afe1b: original score 5.24551, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 4691605f-49e2-4503-a0f8-2264aa5afe1b: original score 0.42331862, normalized score: 0.1283631"
+    }
+  }
+]

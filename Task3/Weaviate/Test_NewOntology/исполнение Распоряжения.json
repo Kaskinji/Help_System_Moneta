@@ -1,0 +1,22 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "исполнение Распоряжения",
+      "type": "Process",
+      "hasStatement": [
+        "исполнение распоряжения hasResult окончательность перевода",
+        "исполнение распоряжения hasResource денежные средства",
+        "исполнение распоряжения hasResource электронные денежные средства",
+        "исполнение распоряжения hasActor плательщик",
+        "исполнение распоряжения hasActor получатель",
+        "исполнение распоряжения hasActor РУ\"@ru"
+      ],
+      "chunk_id": "10"
+    },
+    "metadata": {
+      "score": 0.8793894052505493,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document d709ba35-7f07-4bd2-8437-81954086d8f4: original score 3.753416, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document d709ba35-7f07-4bd2-8437-81954086d8f4: original score 0.3732869, normalized score: 0.27938935"
+    }
+  }
+]

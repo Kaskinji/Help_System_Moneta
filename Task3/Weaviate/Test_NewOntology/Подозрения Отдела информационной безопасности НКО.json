@@ -1,0 +1,33 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Подозрения Отдела информационной безопасности НКО",
+      "type": "Event",
+      "hasStatement": [],
+      "chunk_id": "106"
+    },
+    "metadata": {
+      "score": 0.8418525457382202,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document dec6affe-b05b-4306-8cf6-bd3c8aca4a62: original score 4.998884, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document dec6affe-b05b-4306-8cf6-bd3c8aca4a62: original score 0.40524316, normalized score: 0.24185255"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "Подозрения Отдела информационной безопасности НКО о том, что Получатель ведет противоправную деятельность, либо деятельность, влекущую за собой финансовые, правовые, репутационные или иные риски для НКО или Плательщика",
+      "type": "Event",
+      "hasStatement": [
+        "подозрение отдела информационной безопас relation отдел информационной безопасности нко",
+        "подозрение отдела информационной безопас relation получатель",
+        "подозрение отдела информационной безопас relation нко",
+        "подозрение отдела информационной безопас relation плательщик"
+      ],
+      "chunk_id": "17"
+    },
+    "metadata": {
+      "score": 0.512800931930542,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document d989059d-2a7d-4107-af5a-58813463195e: original score 1.2704139, normalized score: 0.11280093 - \nHybrid (Result Set vector,hybridVector) Document d989059d-2a7d-4107-af5a-58813463195e: original score 0.54231024, normalized score: 0.4"
+    }
+  }
+]

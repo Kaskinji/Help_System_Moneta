@@ -1,0 +1,34 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "действия третьих лиц",
+      "type": "Event",
+      "hasStatement": [
+        "действия третьих лиц relation третьи лица",
+        "действия третьих лиц relation исполнение обязательств"
+      ],
+      "chunk_id": "41"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ce1a33bd-f953-42fa-9636-f58463a832c6: original score 4.67003, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document ce1a33bd-f953-42fa-9636-f58463a832c6: original score 0.31260687, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "бездействия третьих лиц",
+      "type": "Event",
+      "hasStatement": [
+        "бездействия третьих лиц relation третьи лица",
+        "бездействия третьих лиц relation исполнение обязательств"
+      ],
+      "chunk_id": "41"
+    },
+    "metadata": {
+      "score": 0.6960129141807556,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document baf7bf1e-378f-442a-8a67-b41f6aab73e5: original score 3.276888, normalized score: 0.37353954 - \nHybrid (Result Set vector,hybridVector) Document baf7bf1e-378f-442a-8a67-b41f6aab73e5: original score 0.274652, normalized score: 0.32247338"
+    }
+  }
+]

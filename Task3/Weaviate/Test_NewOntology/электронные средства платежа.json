@@ -1,0 +1,30 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "электронные средства платежа",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "20"
+    },
+    "metadata": {
+      "score": 0.8597317934036255,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ccaf16c0-d769-4aea-946e-bd10692666d5: original score 4.387863, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document ccaf16c0-d769-4aea-946e-bd10692666d5: original score 0.35973585, normalized score: 0.25973174"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "электронные денежные средства",
+      "type": "Resource",
+      "hasStatement": [
+        "электронные денежные средства isResourceOf исполнение распоряжения"
+      ],
+      "chunk_id": "10"
+    },
+    "metadata": {
+      "score": 0.6014888882637024,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document bba7ad7c-fec2-4147-af38-b8144fb6895d: original score 2.7847323, normalized score: 0.2946289 - \nHybrid (Result Set vector,hybridVector) Document bba7ad7c-fec2-4147-af38-b8144fb6895d: original score 0.38360202, normalized score: 0.30686"
+    }
+  }
+]

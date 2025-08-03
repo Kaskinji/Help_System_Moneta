@@ -1,0 +1,32 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "требования законодательства Российской Федерации",
+      "type": "Resource",
+      "hasStatement": [
+        "требования законодательства рф isResourceOf соблюдение требований"
+      ],
+      "chunk_id": "56"
+    },
+    "metadata": {
+      "score": 1.0,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 0f902f9b-04c4-44ec-9534-6813d6c4f70b: original score 5.217819, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 0f902f9b-04c4-44ec-9534-6813d6c4f70b: original score 0.34005177, normalized score: 0.4"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "требования законодательства Российской Федерации и Банка России",
+      "type": "Resource",
+      "hasStatement": [
+        "требования законодательства рф и isResourceOf выполнение требований"
+      ],
+      "chunk_id": "56"
+    },
+    "metadata": {
+      "score": 0.6818403005599976,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 4e9286b6-4b64-409f-9a39-82cb41c0476f: original score 3.4241202, normalized score: 0.3597804 - \nHybrid (Result Set vector,hybridVector) Document 4e9286b6-4b64-409f-9a39-82cb41c0476f: original score 0.3067115, normalized score: 0.32205993"
+    }
+  }
+]

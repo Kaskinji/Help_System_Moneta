@@ -1,0 +1,47 @@
+[
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "расходы",
+      "type": "Resource",
+      "hasStatement": [],
+      "chunk_id": "69"
+    },
+    "metadata": {
+      "score": 0.8311670422554016,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 40cc5e8d-1eb9-4554-9186-8b059d56b9dc: original score 2.9013402, normalized score: 0.5858735 - \nHybrid (Result Set vector,hybridVector) Document 40cc5e8d-1eb9-4554-9186-8b059d56b9dc: original score 0.32800007, normalized score: 0.24529357"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "расходы НКО",
+      "chunk_id": "45",
+      "hasStatement": [
+        "расходы нко hasResponsible получатель",
+        "расходы нко isResultOf возврат средств плательщику"
+      ],
+      "type": "Resource"
+    },
+    "metadata": {
+      "score": 0.6973198056221008,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document 76bc1cc4-dc6d-49e8-ac15-361b567df1f5: original score 2.9670181, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document 76bc1cc4-dc6d-49e8-ac15-361b567df1f5: original score 0.25249672, normalized score: 0.09731977"
+    }
+  },
+  {
+    "properties": {
+      "abbreviation": "",
+      "label": "расходы НКО",
+      "type": "Resource",
+      "hasStatement": [
+        "расходы нко isResourceOf рассмотрение претензий третьих лиц",
+        "расходы нко hasResponsible нко"
+      ],
+      "chunk_id": "43"
+    },
+    "metadata": {
+      "score": 0.6392257809638977,
+      "explain_score": "\nHybrid (Result Set keyword,bm25) Document ea8d27cc-a694-4b6e-8eb5-849337273bc1: original score 2.9670181, normalized score: 0.6 - \nHybrid (Result Set vector,hybridVector) Document ea8d27cc-a694-4b6e-8eb5-849337273bc1: original score 0.22285438, normalized score: 0.039225783"
+    }
+  }
+]
