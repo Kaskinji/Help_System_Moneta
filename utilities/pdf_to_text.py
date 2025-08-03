@@ -16,5 +16,5 @@ def extract_text_with_structure(pdf_path, output_txt_path):
     return text
 
 # Извлекаем текст
-pdf_text = extract_text_with_structure("b2boffer.pdf", "b2boffer.txt")
-pdf_text2 = extract_text_with_structure("connecting_client.pdf", "connecting_client.txt")
+pdf_text = extract_text_with_structure("../Source_texts/b2boffer.pdf", "b2boffer.txt")
+pdf_text2 = extract_text_with_structure("../Source_texts/connecting_client.pdf", "connecting_client.txt")

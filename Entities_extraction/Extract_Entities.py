@@ -1,8 +1,8 @@
 import os
 import json
 from openai import OpenAI
-from Comcore_E_Ontology import comcore_E_ontology
-from Comcore_R_Ontology import comcore_R_ontology
+from Ontologies.Comcore_E_Ontology import comcore_E_ontology
+from Ontologies.Comcore_R_Ontology import comcore_R_ontology
 import time
 import re
 
@@ -14,7 +14,7 @@ client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
     api_key=os.environ["OR_TOKEN"],
 )
-output_dir = "C:/Users/MSI/PycharmProjects/PythonProject/triplets/triplets2"
+output_dir = "/triplets/triplets2"
 
 
 def read_json_files(directory):

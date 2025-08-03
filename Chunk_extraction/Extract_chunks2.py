@@ -8,7 +8,7 @@ from tqdm import tqdm
 
 # Конфигурация
 API_KEY = "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"
-OUTPUT_DIR = "C:/Users/MSI/PycharmProjects/PythonProject/2text_chunks/chunks2"
+OUTPUT_DIR = "/2text_chunks/chunks2"
 CHUNK_TARGET_SIZE = 1000  # Примерный размер чанка в символах
 MODEL = "anthropic/claude-3-haiku"  # Более качественная модель для анализа
 
@@ -147,5 +147,5 @@ def process_pdf(pdf_path: str, api_key: str):
 
 
 if __name__ == "__main__":
-    pdf_path = "C:/Users/MSI/PycharmProjects/PythonProject/connecting_client.pdf"
+    pdf_path = "/connecting_client.pdf"
     process_pdf(pdf_path, API_KEY)

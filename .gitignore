@@ -1,0 +1,54 @@
+# Игнорируем файлы PyCharm
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Кэш PyCharm
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Временные файлы
+*.swp
+*.swo
+*~
+*.bak
+*.tmp
+
+# Логи и базы данных
+*.log
+*.sqlite
+*.db
+
+# Виртуальное окружение Python
+venv/
+env/
+.venv/
+ENV/
+
+# Файлы зависимостей (можно закомментировать, если нужны)
+*.egg-info/
+*.egg
+dist/
+build/
+pip-wheel-metadata/
+
+# Файлы настроек и кэша
+.pytest_cache/
+.mypy_cache/
+.coverage
+htmlcov/
+
+# Конфигурационные файлы (опционально)
+*.cfg
+*.ini
+*.local
+
+# Файлы данных (CSV, JSON и т. д., если не нужно хранить)
+*.csv
+*.json
+*.xlsx
+
+# macOS (если разработка ведётся на Mac)
+.DS_Store
