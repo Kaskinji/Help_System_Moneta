@@ -11,11 +11,29 @@ def parse_ttl_to_json(ttl_content, file_id=None):
     lines = [line.strip() for line in ttl_content.split('\n')
              if line.strip() and not line.strip().startswith(('@prefix', '#'))]
 
-    # Объединяем многострочные записи с сохранением структуры
-    full_text = ' '.join(lines)
-    # Разбиваем по сущностям (разделены точкой)
-    records = [rec.strip() for rec in full_text.split('.') if rec.strip()]
+    # Объединяем строки, сохраняя структуру
+    full_text = '\n'.join(lines)
 
+    # Улучшенное разбиение на записи - учитываем, что точка может быть внутри строки
+    records = []
+    current_record = []
+    in_quotes = False
+
+    for line in full_text.split('\n'):
+        if not line.strip():
+            continue
+
+        # Проверяем кавычки в строке
+        quote_count = line.count('"')
+        if quote_count % 2 != 0:
+            in_quotes = not in_quotes
+
+        current_record.append(line)
+
+        # Если находим точку в конце строки и не внутри кавычек - завершаем запись
+        if line.rstrip().endswith('.') and not in_quotes:
+            records.append(' '.join(current_record))
+            current_record = []
     # Обрабатываем каждую запись
     for record in records:
         # Извлекаем субъект (название сущности)
@@ -36,7 +54,7 @@ def parse_ttl_to_json(ttl_content, file_id=None):
         abbrev_match = re.search(r'comcore:abbreviation\s+"([^"]+)"', record)
         abbreviation = abbrev_match.group(1) if abbrev_match else ""
 
-        # Извлекаем definition - новое улучшенное регулярное выражение
+        # Извлекаем definition - улучшенное регулярное выражение
         definition_match = re.search(r'dc:definition\s+"((?:[^"\\]|\\.)*)"', record)
         definition = definition_match.group(1) if definition_match else ""
 
@@ -131,7 +149,7 @@ def process_all_ttl_files(input_dir, output_dir):
 
 
 # Пример использования
-input_dir = 'C:/Users/MSI/PycharmProjects/PythonProject/triplets/triplets2'
-output_dir = 'C:/Users/MSI/PycharmProjects/PythonProject/json_triplets'
-
-process_all_ttl_files(input_dir, output_dir)
+if __name__ == "__main__":
+    input_dir = 'C:/Users/MSI/PycharmProjects/PythonProject/triplets/triplets2'
+    output_dir = 'C:/Users/MSI/PycharmProjects/PythonProject/json_triplets'
+    process_all_ttl_files(input_dir, output_dir)
