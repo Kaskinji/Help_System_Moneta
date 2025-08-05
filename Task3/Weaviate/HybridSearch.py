@@ -5,6 +5,7 @@ from sentence_transformers import SentenceTransformer
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 import re
+import parsing_ttl2
 from typing import List, Dict
 from natasha import (
     Segmenter,
@@ -178,15 +179,12 @@ if __name__ == "__main__":
         result = search_precise_answer(query)
 
         if result["status"] == "success":
-            querry_entities = extract_and_enrich_terms(result["answer"], client)
-            print(querry_entities["terms"])
+            querry_entities = Extract_Entities_Querry(result['answer'])
+            querry_json = parsing_ttl2(querry_entities, "0")
+            print(querry_json)
             print("\nТочный ответ:")
             print(result["answer"])
             print(f"\nID чанка: {result['source']}")
-
-            # Измененный вывод пояснений
-            print("\nПояснения:")
-
 
             print(f"\nScore: {result['score']:.3f}")
         else:
