@@ -113,4 +113,4 @@ def extract_entities_from_chunk2(chunk_content):
     Упрощенная идентификация - определение...""".
     '''
 
-    return llm_request(prompt, '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')
+    return llm_request(prompt, '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')

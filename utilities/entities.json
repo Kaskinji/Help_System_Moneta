@@ -5,12 +5,14 @@
     "definition": "",
     "type": "Agent",
     "hasStatement": [
-      "клиент isActorOf регистрация"
+      "клиент isActorOf регистрация",
+      "клиент hasActor изменение электронной почты",
+      "клиент hasActor использование ранней регистрац"
     ],
     "chunk_id": "0"
   },
   {
-    "label": "регистрация",
+    "label": "Регистрация",
     "abbreviation": "",
     "definition": "",
     "type": "Process",
@@ -18,8 +20,7 @@
       "регистрация hasActor клиент",
       "регистрация hasResource инн",
       "регистрация hasResource электронная почта",
-      "регистрация hasResult письмо с отказом от регистрации",
-      "регистрация hasPart подключение нового им"
+      "регистрация hasResult отказ от регистрации"
     ],
     "chunk_id": "0"
   },
@@ -34,7 +35,7 @@
     "chunk_id": "0"
   },
   {
-    "label": "электронная почта",
+    "label": "Электронная почта",
     "abbreviation": "",
     "definition": "",
     "type": "Resource",
@@ -44,34 +45,41 @@
     "chunk_id": "0"
   },
   {
-    "label": "письмо с отказом от регистрации",
+    "label": "Отказ от регистрации",
     "abbreviation": "",
     "definition": "",
-    "type": "Resource",
+    "type": "Event",
     "hasStatement": [
-      "письмо с отказом от регистрации isResultOf регистрация"
+      "отказ от регистрации isResultOf регистрация"
     ],
     "chunk_id": "0"
   },
   {
-    "label": "подключение нового ИМ",
+    "label": "Изменение электронной почты",
     "abbreviation": "",
     "definition": "",
     "type": "Process",
     "hasStatement": [
-      "подключение нового им isPartOf регистрация",
-      "подключение нового им hasResource более ранняя регистрация"
+      "изменение электронной почты isActorOf клиент"
     ],
     "chunk_id": "0"
   },
   {
-    "label": "более ранняя регистрация",
+    "label": "Использование ранней регистрации",
     "abbreviation": "",
     "definition": "",
-    "type": "Resource",
+    "type": "Process",
     "hasStatement": [
-      "более ранняя регистрация isResourceOf подключение нового им"
+      "использование ранней регистрац isActorOf клиент"
     ],
+    "chunk_id": "0"
+  },
+  {
+    "label": "Подключение нового ИМ",
+    "abbreviation": "",
+    "definition": "",
+    "type": "Process",
+    "hasStatement": [],
     "chunk_id": "0"
   }
 ]

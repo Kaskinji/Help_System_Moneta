@@ -1,6 +1,11 @@
+@prefix comcore: <https://kb.moneta.ru/terms/common/coreontology#> .
+@prefix dc: <http://purl.org/dc/elements/1.1/> .
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+
 :клиент rdf:type comcore:Agent ;
     rdfs:label "Клиент"@ru ;
-    comcore:isActorOf :регистрация , :подключение_нового_им ;
+    comcore:isActorOf :регистрация ;
     comcore:mentionedIn :0 .
 
 :инн rdf:type comcore:Resource ;
@@ -9,25 +14,29 @@
     comcore:mentionedIn :0 .
 
 :электронная_почта rdf:type comcore:Resource ;
-    rdfs:label "электронная почта"@ru ;
+    rdfs:label "Электронная почта"@ru ;
     comcore:isResourceOf :регистрация ;
     comcore:mentionedIn :0 .
 
 :регистрация rdf:type comcore:Process ;
-    rdfs:label "регистрация"@ru ;
+    rdfs:label "Регистрация"@ru ;
     comcore:mentionedIn :0 .
 
-:письмо_с_отказом_от_регистрации rdf:type comcore:Resource ;
-    rdfs:label "письмо с отказом от регистрации"@ru ;
+:отказ_от_регистрации rdf:type comcore:Event ;
+    rdfs:label "Отказ от регистрации"@ru ;
     comcore:isResultOf :регистрация ;
     comcore:mentionedIn :0 .
 
-:подключение_нового_им rdf:type comcore:Process ;
-    rdfs:label "подключение нового ИМ"@ru ;
-    comcore:isPartOf :регистрация ;
+:изменение_электронной_почты rdf:type comcore:Process ;
+    rdfs:label "Изменение электронной почты"@ru ;
+    comcore:isActorOf :клиент ;
     comcore:mentionedIn :0 .
 
-:более_ранняя_регистрация rdf:type comcore:Resource ;
-    rdfs:label "более ранняя регистрация"@ru ;
-    comcore:isResourceOf :подключение_нового_им ;
+:использование_ранней_регистрац rdf:type comcore:Process ;
+    rdfs:label "Использование ранней регистрации"@ru ;
+    comcore:isActorOf :клиент ;
+    comcore:mentionedIn :0 .
+
+:подключение_нового_им rdf:type comcore:Process ;
+    rdfs:label "Подключение нового ИМ"@ru ;
     comcore:mentionedIn :0 .

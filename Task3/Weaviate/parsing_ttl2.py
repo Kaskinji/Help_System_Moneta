@@ -1,8 +1,11 @@
 import json
 import re
-import os
-from pathlib import Path
 
+
+def create_ttl_file(path, content):
+    with open(path, 'w', encoding='utf-8') as f:
+        f.write(content)
+        
 
 def parse_ttl_to_json(ttl_content, file_in, file_out):
     with open(file_in, 'r', encoding='utf-8') as f:
