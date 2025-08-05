@@ -9,18 +9,24 @@ client = weaviate.connect_to_local(
     grpc_port=50051,
 )
 try:
-    client.collections.delete("ClientProcessChunksFinal")
+    client.collections.delete("ClientProcessChunks")
     # Здесь создаём БД (коллекцию), перечисляем необходимые нам атрибуты у сущности
     collection = client.collections.create(
-        name="ClientProcessChunksFinal", # название коллекции
+        name="ClientProcessChunks", # название коллекции
         properties=[
             wvc.config.Property(name="content", data_type=wvc.config.DataType.TEXT, description="Текст чанка"
             ),
             wvc.config.Property(
-                name="chunk_id", data_type=wvc.config.DataType.NUMBER, skip_vectorization=True
+                name="chunk_id", data_type=wvc.config.DataType.TEXT, skip_vectorization=True
             ),
             wvc.config.Property(
                 name="type", data_type=wvc.config.DataType.TEXT, index_filterable=True
+            ),
+            wvc.config.Property(
+                name="source", data_type=wvc.config.DataType.TEXT, index_filterable=True
+            ),
+            wvc.config.Property(
+                name="keywords", data_type=wvc.config.DataType.TEXT_ARRAY
             )
         ],
         vectorizer_config=Configure.Vectorizer.text2vec_transformers(

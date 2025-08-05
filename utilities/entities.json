@@ -5,21 +5,17 @@
     "definition": "",
     "type": "Agent",
     "hasStatement": [
-      "клиент isActorOf регистрация"
+      "клиент isActorOf подключение нового им"
     ],
     "chunk_id": "0"
   },
   {
-    "label": "регистрация",
+    "label": "подключение нового ИМ",
     "abbreviation": "",
     "definition": "",
     "type": "Process",
     "hasStatement": [
-      "регистрация hasActor клиент",
-      "регистрация hasResource инн",
-      "регистрация hasResource электронная почта",
-      "регистрация hasResult письмо с отказом от регистрации",
-      "регистрация hasPart подключение нового им"
+      "подключение нового им hasActor клиент"
     ],
     "chunk_id": "0"
   },
@@ -34,43 +30,58 @@
     "chunk_id": "0"
   },
   {
-    "label": "электронная почта",
-    "abbreviation": "",
-    "definition": "",
-    "type": "Resource",
-    "hasStatement": [
-      "электронная почта isResourceOf регистрация"
-    ],
-    "chunk_id": "0"
-  },
-  {
-    "label": "письмо с отказом от регистрации",
-    "abbreviation": "",
-    "definition": "",
-    "type": "Resource",
-    "hasStatement": [
-      "письмо с отказом от регистрации isResultOf регистрация"
-    ],
-    "chunk_id": "0"
-  },
-  {
-    "label": "подключение нового ИМ",
+    "label": "регистрация",
     "abbreviation": "",
     "definition": "",
     "type": "Process",
     "hasStatement": [
-      "подключение нового им isPartOf регистрация",
-      "подключение нового им hasResource более ранняя регистрация"
+      "регистрация hasResource инн",
+      "регистрация hasResource эл почта",
+      "регистрация hasResult отказ от регистрации",
+      "регистрация hasResult отказ от регистрации"
     ],
     "chunk_id": "0"
   },
   {
-    "label": "более ранняя регистрация",
+    "label": "эл.почта",
     "abbreviation": "",
     "definition": "",
     "type": "Resource",
     "hasStatement": [
-      "более ранняя регистрация isResourceOf подключение нового им"
+      "эл почта isResourceOf регистрация"
+    ],
+    "chunk_id": "0"
+  },
+  {
+    "label": "письмо",
+    "abbreviation": "",
+    "definition": "",
+    "type": "Resource",
+    "hasStatement": [
+      "письмо relation отказ от регистрации",
+      "письмо hasPart причина"
+    ],
+    "chunk_id": "0"
+  },
+  {
+    "label": "отказ от регистрации",
+    "abbreviation": "",
+    "definition": "",
+    "type": "Event",
+    "hasStatement": [
+      "отказ от регистрации relation письмо",
+      "отказ от регистрации isResultOf регистрация",
+      "отказ от регистрации isResultOf регистрация"
+    ],
+    "chunk_id": "0"
+  },
+  {
+    "label": "причина",
+    "abbreviation": "",
+    "definition": "",
+    "type": "Resource",
+    "hasStatement": [
+      "причина isPartOf письмо"
     ],
     "chunk_id": "0"
   }
