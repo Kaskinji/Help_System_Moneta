@@ -14,6 +14,6 @@ triplets = extract_entities_from_chunk2(result['answer'])
 create_ttl_file(ENTITIES_IN, triplets)
 parse_ttl_to_json(triplets, ENTITIES_IN, ENTITIES_OUT)
 hz_kak_nazvat = search_hybrid_up(ENTITIES_OUT)
-
+#l
 
 print(f'ЗАПРОС:\n {REQUEST}\nОТВЕТ:\n {result['answer']}\nТРИПЛЕТЫ:\n {triplets}\nОТВЕТ2:\n {hz_kak_nazvat}')
