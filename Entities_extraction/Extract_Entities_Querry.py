@@ -1,7 +1,6 @@
 import sys
 
-# Добавляем путь к папке проекта в sys.path
-sys.path.append(str('/Users/ilya/Documents/GitHub/Help_System_Moneta'))  # или явно: sys.path.append("/полный/путь/к/ваш_проект")
+sys.path.append(str('/Users/ilya/Documents/GitHub/Help_System_Moneta'))
 
 
 import os
@@ -114,4 +113,4 @@ def extract_entities_from_chunk2(chunk_content):
     Упрощенная идентификация - определение...""".
     '''
 
-    return llm_request(prompt, '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')
+    return llm_request(prompt, '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')
