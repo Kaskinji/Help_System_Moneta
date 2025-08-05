@@ -6,7 +6,7 @@ from Ontologies.Comcore_R_Ontology import comcore_R_ontology
 import time
 import re
 
-or_api_key = "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"
+or_api_key = "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"
 os.environ["OR_TOKEN"] = or_api_key
 # Настройки
 model = "deepseek/deepseek-r1-0528:free"  # Или другая модель
