@@ -12,7 +12,7 @@ try:
     client.collections.delete("Knowledge_graph1")
     # Здесь создаём БД (коллекцию), перечисляем необходимые нам атрибуты у сущности
     collection = client.collections.create(
-        name="Vectorise_chunks", # название коллекции
+        name="Knowledge_graph1", # название коллекции
         properties=[
             wvc.config.Property(
                 name="chunk_id",
@@ -22,7 +22,7 @@ try:
             ),
             wvc.config.Property(
                 name="label",  # имя свойства
-                data_type=wvc.config.DataType.TEXT_ARRAY,  # тип данных
+                data_type=wvc.config.DataType.TEXT,  # тип данных
                 vectorize_property_name=True,  # векторизируем это свойство
                 tokenization=Tokenization.LOWERCASE,  # токенизация по нижнему регистру
                 index_filterable=True,  # индексация для фильтрации
@@ -54,7 +54,7 @@ try:
             ),
             wvc.config.Property(
                 name="type",
-                data_type=wvc.config.DataType.TEXT_ARRAY,
+                data_type=wvc.config.DataType.TEXT,
                 skip_vectorization=True,  # не векторизируем
             ),
         ],

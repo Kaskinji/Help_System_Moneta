@@ -1,60 +1,80 @@
 import json
 import os
-
 import weaviate
-from weaviate import Client
 from weaviate.classes.config import Property, DataType
-
-def populate_weaviate_collection(client: Client, chunks_dir: str):
-    """Заполняет коллекцию Weaviate чанками из JSON-файлов"""
-
-    # 1. Получаем коллекцию
-    chunks_collection = client.collections.get("ClientProcessChunks")
-
-    # 2. Читаем все JSON-файлы в указанной директории
-    for filename in os.listdir(chunks_dir):
-        if not filename.endswith('.json'):
-            continue
-
-        with open(os.path.join(chunks_dir, filename), 'r', encoding='utf-8') as f:
-            try:
-                chunk_data = json.load(f)
-
-                # 3. Подготавливаем данные для вставки
-                properties = {
-
-                    "chunk_id": chunk_data["id"],
-                    "label": chunk_data["label"],
-                    "definition": chunk_data["definition"],
-                    "abbrevation": chunk_data.get("type", ""),
-                    "source": chunk_data.get("source", ""),
-                    "keywords": chunk_data.get("keywords", []),
-                    "type": chunk_data.get("type", ""),
-                }
-
-                # 4. Добавляем объект в коллекцию
-                chunks_collection.data.insert(
-                    properties=properties,
-                    # vector=vector  # Можно предварительно рассчитать векторы
-                )
-
-                print(f"Добавлен чанк: {chunk_data['id']}")
-
-            except Exception as e:
-                print(f"Ошибка при обработке {filename}: {str(e)}")
+from typing import List, Dict, Any
 
 
-# Использование
+def populate_weaviate_collection(client: weaviate.Client, json_file_path: str):
+    """Заполняет коллекцию Weaviate данными из JSON-файла"""
+
+    # 1. Проверка существования файла
+    if not os.path.exists(json_file_path):
+        print(f"Ошибка: Файл {json_file_path} не существует")
+        return
+
+    # 2. Получаем коллекцию
+    try:
+        chunks_collection = client.collections.get("Knowledge_graph1")
+    except Exception as e:
+        print(f"Ошибка при получении коллекции: {str(e)}")
+        return
+
+    # 3. Чтение и обработка JSON файла
+    try:
+        with open(json_file_path, 'r', encoding='utf-8') as f:
+            data = json.load(f)
+
+            # Если данные не являются списком, преобразуем в список
+            if not isinstance(data, list):
+                data = [data]
+
+            # 4. Вставка данных в коллекцию
+            for item in data:
+                try:
+                    # Подготовка свойств с проверкой наличия ключей
+                    properties = {
+                        "chunk_id": item.get("chunk_id", ""),
+                        "label": item.get("label", ""),
+                        "definition": item.get("definition", ""),
+                        "abbreviation": item.get("abbreviation", ""),  # Исправлено опечатку "abbrevation"
+                        "hasStatement": item.get("hasStatement", []),
+                        "type": item.get("type", "")
+                    }
+
+                    # Вставка объекта
+                    chunks_collection.data.insert(properties=properties)
+                    print(f"Добавлена сущность: {properties['label']} (ID: {properties['chunk_id']})")
+
+                except Exception as e:
+                    print(f"Ошибка при обработке элемента: {str(e)}")
+                    continue
+
+    except json.JSONDecodeError:
+        print("Ошибка: Неверный формат JSON файла")
+    except Exception as e:
+        print(f"Ошибка при чтении файла: {str(e)}")
+
+
 if __name__ == "__main__":
-    # Путь к папке с чанками
-    CHUNKS_DIR = "C:/Users/MSI/PycharmProjects/PythonProject/2text_chunks/chunks2"
+    # Конфигурация
+    JSON_FILE_PATH = "C:/Users/MSI/PycharmProjects/PythonProject/utilities/merge_json.json"
 
-    client = weaviate.connect_to_local(
-        host="localhost",
-        port=8081,
-        grpc_port=50051,
-    )
-    # Заполнение коллекции
-    populate_weaviate_collection(client, CHUNKS_DIR)
+    try:
+        # Подключение к Weaviate
+        client = weaviate.connect_to_local(
+            host="localhost",
+            port=8081,
+            grpc_port=50051,
+        )
+        # Заполнение коллекции
+        populate_weaviate_collection(client, JSON_FILE_PATH)
 
-    print("Загрузка чанков завершена")
+        print("Загрузка данных завершена успешно")
+
+    except Exception as e:
+        print(f"Произошла ошибка: {str(e)}")
+    finally:
+        # Закрытие соединения
+        if 'client' in locals():
+            client.close()

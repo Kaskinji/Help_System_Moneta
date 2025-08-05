@@ -21,7 +21,7 @@ client = weaviate.connect_to_local(
     grpc_port=50051,
 )
 
-collection = client.collections.get("Knowledge_graph")
+collection = client.collections.get("Knowledge_graph1")
 
 for i, entity in enumerate(test_entity):
     statements_str = " ".join(entity["hasStatement"]) if entity["hasStatement"] else ""
@@ -37,7 +37,7 @@ for i, entity in enumerate(test_entity):
     response = collection.query.hybrid(
         query=query_text,
         alpha=0.4,
-        query_properties=["label", "abbreviation"],
+        query_properties=["label", "definition"],
         filters=class_filter,
         return_metadata=MetadataQuery(score=True, explain_score=True),
         limit=8
