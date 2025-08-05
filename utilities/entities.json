@@ -1,0 +1,77 @@
+[
+  {
+    "label": "Клиент",
+    "abbreviation": "",
+    "definition": "",
+    "type": "Agent",
+    "hasStatement": [
+      "клиент isActorOf регистрация"
+    ],
+    "chunk_id": "0"
+  },
+  {
+    "label": "регистрация",
+    "abbreviation": "",
+    "definition": "",
+    "type": "Process",
+    "hasStatement": [
+      "регистрация hasActor клиент",
+      "регистрация hasResource инн",
+      "регистрация hasResource электронная почта",
+      "регистрация hasResult письмо с отказом от регистрации",
+      "регистрация hasPart подключение нового им"
+    ],
+    "chunk_id": "0"
+  },
+  {
+    "label": "ИНН",
+    "abbreviation": "",
+    "definition": "",
+    "type": "Resource",
+    "hasStatement": [
+      "инн isResourceOf регистрация"
+    ],
+    "chunk_id": "0"
+  },
+  {
+    "label": "электронная почта",
+    "abbreviation": "",
+    "definition": "",
+    "type": "Resource",
+    "hasStatement": [
+      "электронная почта isResourceOf регистрация"
+    ],
+    "chunk_id": "0"
+  },
+  {
+    "label": "письмо с отказом от регистрации",
+    "abbreviation": "",
+    "definition": "",
+    "type": "Resource",
+    "hasStatement": [
+      "письмо с отказом от регистрации isResultOf регистрация"
+    ],
+    "chunk_id": "0"
+  },
+  {
+    "label": "подключение нового ИМ",
+    "abbreviation": "",
+    "definition": "",
+    "type": "Process",
+    "hasStatement": [
+      "подключение нового им isPartOf регистрация",
+      "подключение нового им hasResource более ранняя регистрация"
+    ],
+    "chunk_id": "0"
+  },
+  {
+    "label": "более ранняя регистрация",
+    "abbreviation": "",
+    "definition": "",
+    "type": "Resource",
+    "hasStatement": [
+      "более ранняя регистрация isResourceOf подключение нового им"
+    ],
+    "chunk_id": "0"
+  }
+]

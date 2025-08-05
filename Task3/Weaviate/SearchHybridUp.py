@@ -1,20 +1,14 @@
 import weaviate
 from weaviate.classes.query import MetadataQuery
 import json
-import os
 import re
 
-try:
-    os.mkdir("C:/Users/MSI/PycharmProjects/PythonProject/Task3/Weaviate/Test_NewOntology")
-except FileExistsError:
-    print("Папка Test_NewOntology уже существует")
+# Загрузка данных из NeedEntity.json
+with open("/Users/ilya/Documents/GitHub/Help_System_Moneta/utilities/entities.json", "r", encoding="utf-8") as f:
+    need_entities = json.load(f)
+    print(f"Загружено {len(need_entities)} сущностей")
 
-OUTPUT_DIR = "Test_NewOntology"
-
-with open("C:/Users/MSI/PycharmProjects/PythonProject/merge_json.json", "r", encoding="utf-8") as f:
-    test_entity = json.load(f)
-    print(f"Загружено {len(test_entity)} сущностей из merge_json.json")
-
+# Подключение к Weaviate
 client = weaviate.connect_to_local(
     host="localhost",
     port=8081,
@@ -23,50 +17,47 @@ client = weaviate.connect_to_local(
 
 collection = client.collections.get("Knowledge_graph1")
 
-for i, entity in enumerate(test_entity):
-    statements_str = " ".join(entity["hasStatement"]) if entity["hasStatement"] else ""
+# Список для хранения всех результатов
+all_results = []
+
+for entity in need_entities:
+    # Формируем запрос из доступных полей
     query_parts = [
-        entity["label"],
-        entity["abbreviation"],
+        entity.get("label", ""),
+        entity.get("abbreviation", ""),
     ]
     query_text = " ".join(filter(None, query_parts))
-    print(f"Поиск для сущности: {entity['label']}, query: {query_text}, type: {entity['type']}")
+    
+    # Получаем тип, если есть
+    entity_type = entity.get("type")
+    
 
-    class_filter = weaviate.classes.query.Filter.by_property("type").equal(entity["type"])
+    # Создаем фильтр по типу, если он указан
+    class_filter = weaviate.classes.query.Filter.by_property("type").equal(entity_type) if entity_type else None
 
-    response = collection.query.hybrid(
-        query=query_text,
-        alpha=0.4,
-        query_properties=["label", "definition"],
-        filters=class_filter,
-        return_metadata=MetadataQuery(score=True, explain_score=True),
-        limit=8
-    )
+    try:
+        response = collection.query.hybrid(
+            query=query_text,
+            alpha=0.4,
+            query_properties=["label^2", "definition"],  # Увеличиваем вес label
+            filters=class_filter,
+            return_metadata=MetadataQuery(score=True),
+            limit=5
+        )
 
-    print(f"Найдено {len(response.objects)} объектов для сущности {entity['label']}")
-    for obj in response.objects:
-        print(f"Объект: {obj.properties['label']}, score: {obj.metadata.score}")
+        # Обрабатываем результаты
+        for obj in response.objects:
+            if obj.metadata.score > 0.5:  # Понижаем порог score для большего охвата
+                label = obj.properties.get("label", obj.properties.get("name", "N/A"))
+                definition = obj.properties.get("definition", "No definition available")
+                score = obj.metadata.score
+                
+                if definition != '': 
+                    result_str = f"{entity.get('label', '')}({label}) - {definition} (score: {score:.2f})\n"
+                    print(result_str)
 
-    safe_label = re.sub(r'[\\/*?:"<>|]', "", entity["label"])
-    filename = f"{safe_label[:50]}.json"
-    full_path = f'C:/Users/MSI/PycharmProjects/PythonProject/Task3/Weaviate/{os.path.join(OUTPUT_DIR, filename)}'
+    except Exception as e:
+        print(f"Ошибка при поиске для {entity.get('label', 'N/A')}: {str(e)}")
 
-    results = [
-        {
-            "properties": obj.properties,
-            "metadata": {
-                "score": obj.metadata.score,
-                "explain_score": obj.metadata.explain_score
-            }
-        }
-        for obj in response.objects if obj.metadata.score > 0.5
-    ]
-
-    if results:
-        with open(full_path, "w", encoding="utf-8") as f:
-            json.dump(results, f, ensure_ascii=False, indent=2)
-        print(f"Сохранен файл: {full_path}")
-    else:
-        print(f"Нет результатов с score > 0.5 для сущности {entity['label']}")
-
+# Закрытие соединения
 client.close()

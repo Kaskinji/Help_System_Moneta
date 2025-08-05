@@ -1,19 +1,40 @@
+import sys
+
+# Добавляем путь к папке проекта в sys.path
+sys.path.append(str('/Users/ilya/Documents/GitHub/Help_System_Moneta'))  # или явно: sys.path.append("/полный/путь/к/ваш_проект")
+
+
 import os
 import json
-from openai import OpenAI
 from Ontologies.Comcore_E_Ontology import comcore_E_ontology
 from Ontologies.Comcore_R_Ontology import comcore_R_ontology
 import time
 import re
+import requests
 
-or_api_key = "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"
-os.environ["OR_TOKEN"] = or_api_key
-# Настройки
-model = "deepseek/deepseek-r1-0528:free"  # Или другая модель
-client = OpenAI(
-    base_url="https://openrouter.ai/api/v1",
-    api_key=os.environ["OR_TOKEN"],
-)
+
+def llm_request(prompt: str, api_key: str) -> str:
+  try:
+    response = requests.post(
+        url="https://openrouter.ai/api/v1/chat/completions",
+        headers={
+            "Authorization": f"Bearer {api_key}",
+            "Content-Type": "application/json",
+        },
+        data=json.dumps({
+            "model": "deepseek/deepseek-r1-0528:free",
+            "messages": [{"role": "user", "content": prompt}],
+        })
+    )
+
+    if response.status_code == 200:
+        return response.json()['choices'][0]['message']['content']
+    else:
+        return f"Ошибка {response.status_code}: {response.text}"
+
+  except Exception as e:
+    return f"Ошибка при запросе: {str(e)}"
+  
 
 def extract_entities_from_chunk2(chunk_content):
     prompt = f'''
@@ -93,10 +114,4 @@ def extract_entities_from_chunk2(chunk_content):
     Упрощенная идентификация - определение...""".
     '''
 
-    response = client.chat.completions.create(
-        model=model,
-        messages=[{"role": "user", "content": prompt}],
-        temperature=0.3  # Для более детерминированных результатов
-    )
-
-    return response.choices[0].message.content
+    return llm_request(prompt, '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')
