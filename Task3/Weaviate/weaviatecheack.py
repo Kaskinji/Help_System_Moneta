@@ -1,7 +1,7 @@
 import weaviate
 
 client = weaviate.connect_to_local(host="localhost", port=8081, grpc_port=50051)
-collection = client.collections.get("Knowledge_graph1")
+collection = client.collections.get("ClientProcessChunksFinal")
 
 # Настройки пагинации
 limit = 100  # Количество объектов за один запрос

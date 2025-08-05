@@ -9,7 +9,7 @@ def populate_weaviate_collection(client: Client, chunks_dir: str):
     """Заполняет коллекцию Weaviate чанками из JSON-файлов"""
 
     # 1. Получаем коллекцию
-    chunks_collection = client.collections.get("ClientProcessChunks")
+    chunks_collection = client.collections.get("ClientProcessChunksFinal")
 
     # 2. Читаем все JSON-файлы в указанной директории
     for filename in os.listdir(chunks_dir):
@@ -24,9 +24,7 @@ def populate_weaviate_collection(client: Client, chunks_dir: str):
                 properties = {
                     "content": chunk_data["content"],
                     "chunk_id": chunk_data["id"],
-                    "type": chunk_data.get("type", ""),
-                    "source": chunk_data.get("source", ""),
-                    "keywords": chunk_data.get("keywords", [])
+                    "type": chunk_data.get("type", "")
                 }
 
                 # 4. Добавляем объект в коллекцию
@@ -44,7 +42,7 @@ def populate_weaviate_collection(client: Client, chunks_dir: str):
 # Использование
 if __name__ == "__main__":
     # Путь к папке с чанками
-    CHUNKS_DIR = "C:/Users/MSI/PycharmProjects/PythonProject/2text_chunks/chunks2"
+    CHUNKS_DIR = "C:/Users/MSI/PycharmProjects/PythonProject/2text_chunks/chunks_2_final"
 
     client = weaviate.connect_to_local(
         host="localhost",
