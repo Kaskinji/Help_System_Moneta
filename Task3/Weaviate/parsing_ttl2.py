@@ -34,6 +34,7 @@ def parse_ttl_to_json(ttl_content, file_id=None):
         if line.rstrip().endswith('.') and not in_quotes:
             records.append(' '.join(current_record))
             current_record = []
+
     # Обрабатываем каждую запись
     for record in records:
         # Извлекаем субъект (название сущности)
@@ -126,3 +127,16 @@ def parse_ttl_to_json(ttl_content, file_id=None):
                     entities[target]["hasStatement"].append(reverse_stmt)
 
     return list(entities.values())
+
+# Правильное использование функции:
+file_in = '/Users/ilya/Documents/GitHub/Help_System_Moneta/utilities/entities.ttl'
+file_out = '/Users/ilya/Documents/GitHub/Help_System_Moneta/utilities/entities.json'
+
+with open(file_in, 'r', encoding='utf-8') as f:
+    ttl_content = f.read()
+result = parse_ttl_to_json(ttl_content)
+
+with open(file_out, 'w', encoding='utf-8') as f:
+    json.dump(result, f, ensure_ascii=False, indent=2)
+
+print(f"Успешно преобразовано. Результат сохранен в {file_out}")

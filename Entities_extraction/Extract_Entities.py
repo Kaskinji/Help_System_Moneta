@@ -6,7 +6,7 @@ from Ontologies.Comcore_R_Ontology import comcore_R_ontology
 import time
 import re
 
-or_api_key = "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"
+or_api_key = "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"
 os.environ["OR_TOKEN"] = or_api_key
 # Настройки
 model = "deepseek/deepseek-r1-0528:free"  # Или другая модель
@@ -22,8 +22,8 @@ def read_json_files(directory):
     json_contents = []
 
     # Получаем все JSON-файлы и сортируем их по числовому ID
-    n = 39 # Начальный
-    m = 80 # Конечный
+    n = 1 # Начальный
+    m = 39 # Конечный
     files = list(filter(lambda x: x.endswith('.json') and int(re.search(r'\d+', x).group()) in range(n, m+1), os.listdir(directory)))
 
     # Новая функция для извлечения числового ID из имени файла
