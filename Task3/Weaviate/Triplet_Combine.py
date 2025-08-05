@@ -4,8 +4,8 @@ from weaviate.classes.query import MetadataQuery
 import json
 import os
 
-CHUNKS_DIR = "../../json_triplets"
-COLLECTION_NAME = "Knowledge_graph"
+CHUNKS_DIR = "../../json_triplets/json_triplets2"
+COLLECTION_NAME = "Knowledge_graph3"
 
 client = weaviate.connect_to_local(
         host="localhost",

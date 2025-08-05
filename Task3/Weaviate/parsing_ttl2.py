@@ -4,9 +4,10 @@ import os
 from pathlib import Path
 
 
-def parse_ttl_to_json(ttl_content, file_id=None):
+def parse_ttl_to_json(ttl_content, file_in, file_out):
+    with open(file_in, 'r', encoding='utf-8') as f:
+        ttl_content = f.read()
     entities = {}
-
     # Удаляем комментарии и префиксы
     lines = [line.strip() for line in ttl_content.split('\n')
              if line.strip() and not line.strip().startswith(('@prefix', '#'))]
@@ -61,7 +62,7 @@ def parse_ttl_to_json(ttl_content, file_id=None):
 
         # Извлекаем mentionedIn (chunk_id) и убираем ведущие нули
         mentioned_in_match = re.search(r'comcore:mentionedIn\s+:(\d+)', record)
-        chunk_id = mentioned_in_match.group(1) if mentioned_in_match else file_id
+        chunk_id = mentioned_in_match.group(1) if mentioned_in_match else 0
         chunk_id = str(int(chunk_id)) if chunk_id and chunk_id.isdigit() else chunk_id
 
         # Инициализируем сущность
@@ -121,22 +122,25 @@ def parse_ttl_to_json(ttl_content, file_id=None):
                         "definition": "",
                         "type": "Unknown",
                         "hasStatement": [reverse_stmt],
-                        "chunk_id": chunk_id or file_id
+                        "chunk_id": chunk_id or 0
                     }
                 else:
                     entities[target]["hasStatement"].append(reverse_stmt)
 
-    return list(entities.values())
+    json_format_triplets = list(entities.values())
+    with open(file_out, 'w', encoding='utf-8') as f:
+        json.dump(json_format_triplets, f, ensure_ascii=False, indent=2)
 
 # Правильное использование функции:
-file_in = '/Users/ilya/Documents/GitHub/Help_System_Moneta/utilities/entities.ttl'
-file_out = '/Users/ilya/Documents/GitHub/Help_System_Moneta/utilities/entities.json'
+if __name__ == "__main__":
+    file_in = '/Users/ilya/Documents/GitHub/Help_System_Moneta/utilities/entities.ttl'
+    file_out = '/Users/ilya/Documents/GitHub/Help_System_Moneta/utilities/entities.json'
 
-with open(file_in, 'r', encoding='utf-8') as f:
-    ttl_content = f.read()
-result = parse_ttl_to_json(ttl_content)
+    with open(file_in, 'r', encoding='utf-8') as f:
+        ttl_content = f.read()
+    result = parse_ttl_to_json(ttl_content, file_in, file_out)
 
-with open(file_out, 'w', encoding='utf-8') as f:
-    json.dump(result, f, ensure_ascii=False, indent=2)
+    with open(file_out, 'w', encoding='utf-8') as f:
+        json.dump(result, f, ensure_ascii=False, indent=2)
 
-print(f"Успешно преобразовано. Результат сохранен в {file_out}")
+    print(f"Успешно преобразовано. Результат сохранен в {file_out}")
