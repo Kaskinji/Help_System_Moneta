@@ -1,7 +1,7 @@
 [
     {
         "label": "регистрация Получателя в Системе МОНЕТА.РУ",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -13,7 +13,7 @@
     },
     {
         "label": "оригинал Заявления",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -23,7 +23,7 @@
     },
     {
         "label": "НКО",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -34,7 +34,7 @@
     },
     {
         "label": "прием платежей",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -44,7 +44,7 @@
     },
     {
         "label": "направление уведомления об отзыве акцепта оферты",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -56,7 +56,7 @@
     },
     {
         "label": "прекращение приема платежей",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Event",
         "hasStatement": [
@@ -66,7 +66,7 @@
     },
     {
         "label": "одностороннее расторжение Договора",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Event",
         "hasStatement": [
@@ -76,7 +76,7 @@
     },
     {
         "label": "адрес электронной почты",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -87,7 +87,7 @@
     },
     {
         "label": "Получатель",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [

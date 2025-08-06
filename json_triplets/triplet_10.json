@@ -1,7 +1,7 @@
 [
     {
         "label": "Окончательность перевода (исполнение Распоряжения)",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -18,7 +18,7 @@
     },
     {
         "label": "денежные средства",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -29,7 +29,7 @@
     },
     {
         "label": "система учета денежных средств Получателя",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -41,7 +41,7 @@
     },
     {
         "label": "Плательщик",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -52,7 +52,7 @@
     },
     {
         "label": "Получатель",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -63,7 +63,7 @@
     },
     {
         "label": "Торговая площадка",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [

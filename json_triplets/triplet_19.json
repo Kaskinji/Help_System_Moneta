@@ -1,7 +1,7 @@
 [
     {
         "label": "расчеты",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -12,7 +12,7 @@
     },
     {
         "label": "Получатель",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -23,7 +23,7 @@
     },
     {
         "label": "Плательщик",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -33,7 +33,7 @@
     },
     {
         "label": "НКО",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -43,7 +43,7 @@
     },
     {
         "label": "сбор информации",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -54,7 +54,7 @@
     },
     {
         "label": "вознаграждение",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [],
@@ -62,7 +62,7 @@
     },
     {
         "label": "информационно технологические услуги",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Unknown",
         "hasStatement": [
@@ -74,7 +74,7 @@
     },
     {
         "label": "обработка информации",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -84,7 +84,7 @@
     },
     {
         "label": "передача информации",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -95,7 +95,7 @@
     },
     {
         "label": "информация о переводах физических лиц",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -105,7 +105,7 @@
     },
     {
         "label": "Перевод",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [],
@@ -113,7 +113,7 @@
     },
     {
         "label": "Распоряжение Плательщика",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -123,7 +123,7 @@
     },
     {
         "label": "исполнение Распоряжения",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -133,7 +133,7 @@
     },
     {
         "label": "безусловность перевода",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Event",
         "hasStatement": [
@@ -143,7 +143,7 @@
     },
     {
         "label": "Бизнес-счет",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -153,7 +153,7 @@
     },
     {
         "label": "учет Переводов",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -163,7 +163,7 @@
     },
     {
         "label": "Обязательства Плательщика",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [],
@@ -171,7 +171,7 @@
     },
     {
         "label": "Информационное и технологическое взаимодействие",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -182,7 +182,7 @@
     },
     {
         "label": "Торговая площадка",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -192,7 +192,7 @@
     },
     {
         "label": "вариант регистрации",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -202,7 +202,7 @@
     },
     {
         "label": "выбор варианта регистрации",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -212,7 +212,7 @@
     },
     {
         "label": "Заявление",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -222,7 +222,7 @@
     },
     {
         "label": "направление Заявления",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -232,7 +232,7 @@
     },
     {
         "label": "волеизъявление Получателя",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -242,7 +242,7 @@
     },
     {
         "label": "направление волеизъявления",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -252,7 +252,7 @@
     },
     {
         "label": "передача информации о Получателе",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [],
@@ -260,7 +260,7 @@
     },
     {
         "label": "распоряжение денежными средствами",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [],
@@ -268,7 +268,7 @@
     },
     {
         "label": "пополнение счета",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -278,7 +278,7 @@
     },
     {
         "label": "перевод денежных средств",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -289,7 +289,7 @@
     },
     {
         "label": "система учета денежных средств",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [],
@@ -297,7 +297,7 @@
     },
     {
         "label": "ПА",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -307,7 +307,7 @@
     },
     {
         "label": "специальный банковский счет ПА",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [],
@@ -315,7 +315,7 @@
     },
     {
         "label": "Перечисление",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [],

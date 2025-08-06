@@ -1,7 +1,7 @@
 [
     {
         "label": "Отказ в исполнении распоряжения",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -16,7 +16,7 @@
     },
     {
         "label": "Перевод",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -27,7 +27,7 @@
     },
     {
         "label": "Подозрения",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Event",
         "hasStatement": [
@@ -38,7 +38,7 @@
     },
     {
         "label": "Представление информации",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -50,7 +50,7 @@
     },
     {
         "label": "Распоряжение плательщика",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -61,7 +61,7 @@
     },
     {
         "label": "Правила внутреннего контроля",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -71,7 +71,7 @@
     },
     {
         "label": "Информация о дате и причинах",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -82,7 +82,7 @@
     },
     {
         "label": "Плательщик",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -92,7 +92,7 @@
     },
     {
         "label": "Получатель",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -102,7 +102,7 @@
     },
     {
         "label": "НКО",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -113,7 +113,7 @@
     },
     {
         "label": "Решение об отказе",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Event",
         "hasStatement": [

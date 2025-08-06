@@ -1,7 +1,7 @@
 [
     {
         "label": "Заявление",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -11,7 +11,7 @@
     },
     {
         "label": "предоставление заявления",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -24,7 +24,7 @@
     },
     {
         "label": "электронный документ",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -34,7 +34,7 @@
     },
     {
         "label": "предоставление электронного документа",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -45,7 +45,7 @@
     },
     {
         "label": "бумажный вид",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -55,7 +55,7 @@
     },
     {
         "label": "предоставление бумажного документа",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -68,7 +68,7 @@
     },
     {
         "label": "форма",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -78,7 +78,7 @@
     },
     {
         "label": "Получатель",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -88,7 +88,7 @@
     },
     {
         "label": "уполномоченное лицо",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [

@@ -20,7 +20,7 @@ def extract_content_from_json(file_path):
         return None
 
 
-# Обработка всех JSON-файлов в папке chunks
+# Обработка всех JSON-файлов в папке chunks_1
 all_contents = []
 for json_file in glob.glob("C:/Users/MSI/PycharmProjects/PythonProject/egor_chunks/chunks_111/*.json"):
     content = extract_content_from_json(json_file)

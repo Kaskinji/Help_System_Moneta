@@ -4,9 +4,9 @@ from typing import List
 
 # Константы
 MAX_CHUNK_SIZE = 2500
-SOURCE_FILE = "../Source_texts/b2boffer.txt"  # Исходный файл
-API_KEY = "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"    # Ваш API-ключ OpenRouter
-OUTPUT_DIR = "../chunks"  # Папка для сохранения чанков
+SOURCE_FILE = "../Source_texts/b2boffer.txt"
+API_KEY = "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"
+OUTPUT_DIR = "../chunks_1"
 
 def llm_request(prompt: str, api_key: str) -> str:
     try:

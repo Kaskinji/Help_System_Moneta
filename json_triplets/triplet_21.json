@@ -1,7 +1,7 @@
 [
     {
         "label": "Договор",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -12,7 +12,7 @@
     },
     {
         "label": "Заключение Договора",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -25,7 +25,7 @@
     },
     {
         "label": "Регистрация",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -40,7 +40,7 @@
     },
     {
         "label": "Данные для регистрации",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -51,7 +51,7 @@
     },
     {
         "label": "Личный кабинет",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -62,7 +62,7 @@
     },
     {
         "label": "Предоставление Личного кабинета",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -75,7 +75,7 @@
     },
     {
         "label": "НКО",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -86,7 +86,7 @@
     },
     {
         "label": "Получатель",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -96,7 +96,7 @@
     },
     {
         "label": "Сайт НКО",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -106,7 +106,7 @@
     },
     {
         "label": "Отдельный договор",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -116,7 +116,7 @@
     },
     {
         "label": "Заявление",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [],

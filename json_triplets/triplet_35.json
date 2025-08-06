@@ -1,7 +1,7 @@
 [
     {
         "label": "Получатель",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [],
@@ -9,7 +9,7 @@
     },
     {
         "label": "НКО",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -20,7 +20,7 @@
     },
     {
         "label": "передача информации о реквизитах",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -32,7 +32,7 @@
     },
     {
         "label": "третьи лица",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -43,7 +43,7 @@
     },
     {
         "label": "информационно-технологическое взаимодействие",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -54,7 +54,7 @@
     },
     {
         "label": "Стороны",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -65,7 +65,7 @@
     },
     {
         "label": "хранение электронных документов",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -76,7 +76,7 @@
     },
     {
         "label": "представление копий",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -87,7 +87,7 @@
     },
     {
         "label": "Переводы",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -99,7 +99,7 @@
     },
     {
         "label": "расчеты",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -109,7 +109,7 @@
     },
     {
         "label": "реквизиты Переводов",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -119,7 +119,7 @@
     },
     {
         "label": "договор",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -130,7 +130,7 @@
     },
     {
         "label": "Договор между Сторонами",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -140,7 +140,7 @@
     },
     {
         "label": "электронные документы по Переводам",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -151,7 +151,7 @@
     },
     {
         "label": "копии указанных электронных документов",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -161,7 +161,7 @@
     },
     {
         "label": "валюта Российской Федерации",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [

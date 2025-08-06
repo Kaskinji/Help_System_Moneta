@@ -1,7 +1,7 @@
 [
     {
         "label": "Плательщик",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [],
@@ -9,7 +9,7 @@
     },
     {
         "label": "Эмитент",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [],
@@ -17,7 +17,7 @@
     },
     {
         "label": "Получатель",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -28,7 +28,7 @@
     },
     {
         "label": "информационно-технологическое взаимодействие",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -39,7 +39,7 @@
     },
     {
         "label": "Операция возврата Перевода",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -51,7 +51,7 @@
     },
     {
         "label": "Распоряжение",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [],
@@ -59,7 +59,7 @@
     },
     {
         "label": "ответ на авторизацию",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [],
@@ -67,7 +67,7 @@
     },
     {
         "label": "Сообщение о приеме Перевода",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [],
@@ -75,7 +75,7 @@
     },
     {
         "label": "Перевод",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [],
@@ -83,7 +83,7 @@
     },
     {
         "label": "Заявление на перечисление",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -93,7 +93,7 @@
     },
     {
         "label": "Перечисление",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -103,7 +103,7 @@
     },
     {
         "label": "Заявление на перечисление по Операции возврата Перевода",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -113,7 +113,7 @@
     },
     {
         "label": "перечисление денежных средств по Операции возврата Перевода",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -124,7 +124,7 @@
     },
     {
         "label": "Отказ в приеме Распоряжения",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [],
@@ -132,7 +132,7 @@
     },
     {
         "label": "получение отрицательного ответа на авторизацию",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Event",
         "hasStatement": [
@@ -142,7 +142,7 @@
     },
     {
         "label": "неполучение положительного Сообщения о приеме Перевода",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Event",
         "hasStatement": [

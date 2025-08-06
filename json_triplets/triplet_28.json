@@ -1,7 +1,7 @@
 [
     {
         "label": "Стороны",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -11,7 +11,7 @@
     },
     {
         "label": "заключение Договора",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -24,7 +24,7 @@
     },
     {
         "label": "Договор",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -37,7 +37,7 @@
     },
     {
         "label": "Заверение",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "все согласия, необходимые для заключения Сторонами Договора, предусмотренные законодательством Российской Федерации, уставом, внутренними документами и отдельными решениями органов управления Сторон были получены, вступили в действие и соответствуют законодательству Российской Федерации, уставу, внутренним документам и отдельным решениям органов управления Сторон",
         "type": "Resource",
         "hasStatement": [
@@ -47,7 +47,7 @@
     },
     {
         "label": "исполнение Договора",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -57,7 +57,7 @@
     },
     {
         "label": "прекращение Договора",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [

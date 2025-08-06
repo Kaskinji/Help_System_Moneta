@@ -1,7 +1,7 @@
 [
     {
         "label": "МПС",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "международные платежные системы Visa International и MasterCard Worldwide",
         "type": "Agent",
         "hasStatement": [],
@@ -9,7 +9,7 @@
     },
     {
         "label": "МИР",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "национальная платежная система «МИР»",
         "type": "Agent",
         "hasStatement": [],
@@ -17,7 +17,7 @@
     },
     {
         "label": "Недействительный перевод",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "Перевод, связанный с оплатой Запрещенных услуг, реализуемых Получателем, а также Перевод, совершенный Плательщиком в пользу Получателя с нарушением правил платежных систем, или Перевод, ставший или который может стать предметом споров и разногласий в соответствии с правилами платежных систем",
         "type": "Process",
         "hasStatement": [
@@ -31,7 +31,7 @@
     },
     {
         "label": "Получатель",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -41,7 +41,7 @@
     },
     {
         "label": "Плательщик",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -51,7 +51,7 @@
     },
     {
         "label": "Запрещенные услуги",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -61,7 +61,7 @@
     },
     {
         "label": "Правила платежных систем",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -71,7 +71,7 @@
     },
     {
         "label": "Споры и разногласия",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Event",
         "hasStatement": [
@@ -81,7 +81,7 @@
     },
     {
         "label": "Порядок взаимодействия Сторон",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -91,7 +91,7 @@
     },
     {
         "label": "Приложение №5 к Договору",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [

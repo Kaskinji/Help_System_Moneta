@@ -23,7 +23,7 @@ def llm_chunking_request(text: str, api_key: str) -> List[Dict]:
 
 Верни ответ в формате JSON:
 {{
-  "chunks": [
+  "chunks_1": [
     {{
       "id": "уникальный_ид",
       "content": "текст",
@@ -54,7 +54,7 @@ def llm_chunking_request(text: str, api_key: str) -> List[Dict]:
         )
 
         if response.status_code == 200:
-            return json.loads(response.json()['choices'][0]['message']['content'])["chunks"]
+            return json.loads(response.json()['choices'][0]['message']['content'])["chunks_1"]
         else:
             print(f"Ошибка API: {response.status_code}")
             return []

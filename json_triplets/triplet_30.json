@@ -1,7 +1,7 @@
 [
     {
         "label": "Получатель",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -15,7 +15,7 @@
     },
     {
         "label": "сообщение о бенефициарных владельцах",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -30,7 +30,7 @@
     },
     {
         "label": "НКО",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -40,7 +40,7 @@
     },
     {
         "label": "бенефициарные владельцы",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -51,7 +51,7 @@
     },
     {
         "label": "Договор",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -62,7 +62,7 @@
     },
     {
         "label": "заключение договора",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -73,7 +73,7 @@
     },
     {
         "label": "изменения в составе бенефициарных владельцев",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -84,7 +84,7 @@
     },
     {
         "label": "информирование об изменениях в составе бенефициарных владельцев",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [

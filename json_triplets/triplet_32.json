@@ -1,7 +1,7 @@
 [
     {
         "label": "НКО",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -11,7 +11,7 @@
     },
     {
         "label": "Обмен информацией и электронными документами",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -29,7 +29,7 @@
     },
     {
         "label": "Получатель",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -39,7 +39,7 @@
     },
     {
         "label": "Информация",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -49,7 +49,7 @@
     },
     {
         "label": "Электронные документы",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -59,7 +59,7 @@
     },
     {
         "label": "Сообщение",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -69,7 +69,7 @@
     },
     {
         "label": "Направление сообщения",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -80,7 +80,7 @@
     },
     {
         "label": "Информация о результатах приема и обработки",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -90,7 +90,7 @@
     },
     {
         "label": "Направление информации о результатах",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -101,7 +101,7 @@
     },
     {
         "label": "Информационно-технологическое взаимодействие",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -112,7 +112,7 @@
     },
     {
         "label": "Прием и обработка сообщения",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [

@@ -1,7 +1,7 @@
 [
     {
         "label": "Подключение к Системе МОНЕТА.РУ",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "Подключение к Системе МОНЕТА.РУ - совокупность действий Получателя и/или Торговой площадки, в целях последующего осуществления Перевода",
         "type": "Process",
         "hasStatement": [
@@ -16,7 +16,7 @@
     },
     {
         "label": "Получатель",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -27,7 +27,7 @@
     },
     {
         "label": "регистрация Получателя в Системе МОНЕТА.РУ",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -37,7 +37,7 @@
     },
     {
         "label": "предоставление в НКО данных о Получателе",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -48,7 +48,7 @@
     },
     {
         "label": "создание Бизнес-счета для Получателя в Системе МОНЕТА.РУ",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -59,7 +59,7 @@
     },
     {
         "label": "Платежный пароль",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "Платежный пароль - цифровая комбинация, используемая для подтверждения каждого Перевода денежных средств или Перевода денежных средств в определенную дату и (или) период и (или) при Перечислении. Платежный пароль устанавливается для совершения операций по Бизнес-счету.",
         "type": "Resource",
         "hasStatement": [
@@ -69,7 +69,7 @@
     },
     {
         "label": "Бизнес-счет",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -80,7 +80,7 @@
     },
     {
         "label": "данные о Получателе",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -90,7 +90,7 @@
     },
     {
         "label": "Торговая площадка",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [

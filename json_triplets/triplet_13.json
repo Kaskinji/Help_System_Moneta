@@ -1,7 +1,7 @@
 [
     {
         "label": "Перечисление",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "действия НКО по безналичному перечислению денежных средств в валюте Российской Федерации, полученных в результате оплаты Плательщиком Услуг Получателя, на банковский счет Получателя на основании Заявления на перечисление.",
         "type": "Process",
         "hasStatement": [
@@ -12,7 +12,7 @@
     },
     {
         "label": "НКО",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -22,7 +22,7 @@
     },
     {
         "label": "Заявление на перечисление",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -32,7 +32,7 @@
     },
     {
         "label": "Перевод",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "действия НКО по исполнению Распоряжения Плательщика в оплату Услуг (или предоплаты Услуг) в пользу Получателя или Распоряжения Получателя в пользу Плательщика, включая действия НКО и Получателя, направленные на передачу и обработку Сообщений.",
         "type": "Process",
         "hasStatement": [
@@ -45,7 +45,7 @@
     },
     {
         "label": "Получатель",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -55,7 +55,7 @@
     },
     {
         "label": "Распоряжение Плательщика",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -65,7 +65,7 @@
     },
     {
         "label": "Распоряжение Получателя",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -75,7 +75,7 @@
     },
     {
         "label": "Сообщения",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [

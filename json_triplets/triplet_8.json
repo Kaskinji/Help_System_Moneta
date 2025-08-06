@@ -1,7 +1,7 @@
 [
     {
         "label": "Личный кабинет",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "раздел в Системе МОНЕТА.РУ, который содержит данные о Получателе и его Интернет-магазине, позволяет Получателю получать от НКО информацию о состоянии Переводов, реестры успешно осуществленных Переводов, Акты, формировать и направлять в НКО Заявление на перечисление, Заявление на перечисление по Операции возврата Перевода, Распоряжения и другие документы, необходимые для исполнения Договора.",
         "type": "Resource",
         "hasStatement": [
@@ -11,7 +11,7 @@
     },
     {
         "label": "Доступ в Личный кабинет",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -23,7 +23,7 @@
     },
     {
         "label": "двухфакторная аутентификация",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -33,7 +33,7 @@
     },
     {
         "label": "обмен информацией, документами и распоряжениями посредством Личного кабинета",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -44,7 +44,7 @@
     },
     {
         "label": "Регламент информационного обмена электронными документами",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -55,7 +55,7 @@
     },
     {
         "label": "Приложение №2 к Договору",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -65,7 +65,7 @@
     },
     {
         "label": "Получатель",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -75,7 +75,7 @@
     },
     {
         "label": "НКО",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [

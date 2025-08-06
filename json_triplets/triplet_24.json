@@ -1,7 +1,7 @@
 [
     {
         "label": "Авторизационные данные",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -13,7 +13,7 @@
     },
     {
         "label": "Аутентификационные данные",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -25,7 +25,7 @@
     },
     {
         "label": "Получатель",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -36,7 +36,7 @@
     },
     {
         "label": "НКО",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -46,7 +46,7 @@
     },
     {
         "label": "восстановление доступа к Личному кабинету",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -57,7 +57,7 @@
     },
     {
         "label": "Личный кабинет",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -67,7 +67,7 @@
     },
     {
         "label": "доступ третьих лиц к Личному кабинету",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Event",
         "hasStatement": [
@@ -81,7 +81,7 @@
     },
     {
         "label": "инструкция",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -91,7 +91,7 @@
     },
     {
         "label": "третьи лица",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -101,7 +101,7 @@
     },
     {
         "label": "разглашение",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Event",
         "hasStatement": [
@@ -113,7 +113,7 @@
     },
     {
         "label": "утрата Авторизационных данных",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Event",
         "hasStatement": [
@@ -124,7 +124,7 @@
     },
     {
         "label": "компрометация",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Event",
         "hasStatement": [

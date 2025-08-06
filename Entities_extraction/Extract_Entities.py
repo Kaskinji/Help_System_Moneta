@@ -14,7 +14,7 @@ client = OpenAI(
     base_url="https://openrouter.ai/api/v1",
     api_key=os.environ["OR_TOKEN"],
 )
-output_dir = "/triplets/triplets2"
+output_dir = "/triplets1/triplets2"
 
 
 def read_json_files(directory):
@@ -174,7 +174,7 @@ def process_json_files(json_contents):
 
 
 # Укажите директорию с JSON файлами
-json_directory = "C:/Users/MSI/PycharmProjects/PythonProject/chunks/chunks_111"
+json_directory = "C:/Users/MSI/PycharmProjects/PythonProject/chunks_1/chunks_111"
 json_contents = read_json_files(json_directory)
 
 if not os.path.exists(output_dir):

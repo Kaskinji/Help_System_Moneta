@@ -1,7 +1,7 @@
 [
     {
         "label": "Заявление",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "Заявление о заключении договора о переводах без открытия банковского счета в Системе МОНЕТА.РУ осуществлении информационно-технологического взаимодействия с привлечением Торговой площадки (Платформы) (Заявление) - документ, составленный по форме НКО (Приложение № 7), содержащий волеизъявление Получателя (включая его реквизиты) о заключении Договора, при этом информационное и технологическое взаимодействие с НКО в рамках настоящего Договора Получатель осуществляет с привлечением третьей стороны - Торговой площадки (Платформы).",
         "type": "Resource",
         "hasStatement": [
@@ -12,7 +12,7 @@
     },
     {
         "label": "Заключение договора",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -23,7 +23,7 @@
     },
     {
         "label": "НКО",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -33,7 +33,7 @@
     },
     {
         "label": "Принятие заявления",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -44,7 +44,7 @@
     },
     {
         "label": "Получатель",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -54,7 +54,7 @@
     },
     {
         "label": "Осуществление информационно-технологического взаимодействия",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -66,7 +66,7 @@
     },
     {
         "label": "Торговая площадка",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -76,7 +76,7 @@
     },
     {
         "label": "Договор",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -87,7 +87,7 @@
     },
     {
         "label": "Отметка НКО",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [

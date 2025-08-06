@@ -1,7 +1,7 @@
 [
     {
         "label": "Личный кабинет",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -12,7 +12,7 @@
     },
     {
         "label": "действия",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -23,7 +23,7 @@
     },
     {
         "label": "Размещение НКО информации в Личном кабинете",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -35,7 +35,7 @@
     },
     {
         "label": "документы/уведомления",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -45,7 +45,7 @@
     },
     {
         "label": "личный кабинет",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Unknown",
         "hasStatement": [
@@ -55,7 +55,7 @@
     },
     {
         "label": "информация",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -65,7 +65,7 @@
     },
     {
         "label": "Стороны",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [],
@@ -73,7 +73,7 @@
     },
     {
         "label": "Получатель",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -83,7 +83,7 @@
     },
     {
         "label": "НКО",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -93,7 +93,7 @@
     },
     {
         "label": "юридически значимые действия",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -103,7 +103,7 @@
     },
     {
         "label": "уведомление Получателя",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Event",
         "hasStatement": [
@@ -115,7 +115,7 @@
     },
     {
         "label": "юридически значимые события",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Event",
         "hasStatement": [

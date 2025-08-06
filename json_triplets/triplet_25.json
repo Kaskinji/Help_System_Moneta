@@ -1,7 +1,7 @@
 [
     {
         "label": "регистрация Получателя",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [],
@@ -9,7 +9,7 @@
     },
     {
         "label": "прием Перевода Плательщика в пользу Получателя",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -19,7 +19,7 @@
     },
     {
         "label": "проведение первой финансовой операции",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Event",
         "hasStatement": [
@@ -30,7 +30,7 @@
     },
     {
         "label": "пополнение Бизнес-счета Получателя",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -41,7 +41,7 @@
     },
     {
         "label": "документальное подтверждение полномочий",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -51,7 +51,7 @@
     },
     {
         "label": "предоставление Заявления",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -62,7 +62,7 @@
     },
     {
         "label": "Заявление",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -73,7 +73,7 @@
     },
     {
         "label": "НКО",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [],
@@ -81,7 +81,7 @@
     },
     {
         "label": "Плательщик",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [],
@@ -89,7 +89,7 @@
     },
     {
         "label": "Получатель",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -99,7 +99,7 @@
     },
     {
         "label": "Торговая площадка",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [],
@@ -107,7 +107,7 @@
     },
     {
         "label": "Договор",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [],
@@ -115,7 +115,7 @@
     },
     {
         "label": "Бизнес-счет Получателя",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [

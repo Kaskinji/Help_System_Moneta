@@ -1,7 +1,7 @@
 [
     {
         "label": "Сторона",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -13,7 +13,7 @@
     },
     {
         "label": "Заключение договора",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -25,7 +25,7 @@
     },
     {
         "label": "Уплата штрафа",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -36,7 +36,7 @@
     },
     {
         "label": "Договор",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -48,7 +48,7 @@
     },
     {
         "label": "Исполнение договора",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -58,7 +58,7 @@
     },
     {
         "label": "Односторонний отказ от договора",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -69,7 +69,7 @@
     },
     {
         "label": "Недостоверные заверения",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -79,7 +79,7 @@
     },
     {
         "label": "Обстоятельства",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -90,7 +90,7 @@
     },
     {
         "label": "Письменное требование",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [],
@@ -98,7 +98,7 @@
     },
     {
         "label": "Штраф",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -108,7 +108,7 @@
     },
     {
         "label": "Сумма комиссионного вознаграждения",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [],
@@ -116,7 +116,7 @@
     },
     {
         "label": "Убытки",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -127,7 +127,7 @@
     },
     {
         "label": "Возмещение убытков",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -137,7 +137,7 @@
     },
     {
         "label": "Недостоверность заверений",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Event",
         "hasStatement": [

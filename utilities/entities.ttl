@@ -1,38 +1,19 @@
-:клиент rdf:type comcore:Agent ;
-    rdfs:label "Клиент"@ru ;
-    comcore:isActorOf :подключение_нового_им ;
+:способы_оплаты rdf:type comcore:Resource ;
+    rdfs:label "способы_оплаты"@ru ;
     comcore:mentionedIn :0 .
 
-:инн rdf:type comcore:Resource ;
-    rdfs:label "ИНН"@ru ;
-    comcore:isResourceOf :регистрация ;
+:сбп rdf:type comcore:Resource ;
+    rdfs:label "сбп"@ru ;
+    comcore:isPartOf :способы_оплаты ;
+    comcore:isResultOf :подключение ;
     comcore:mentionedIn :0 .
 
-:эл_почта rdf:type comcore:Resource ;
-    rdfs:label "эл.почта"@ru ;
-    comcore:isResourceOf :регистрация ;
+:подключение rdf:type comcore:Process ;
+    rdfs:label "подключение"@ru ;
+    comcore:hasResult :сбп , :успешно ;
     comcore:mentionedIn :0 .
 
-:письмо rdf:type comcore:Resource ;
-    rdfs:label "письмо"@ru ;
-    comcore:relation :отказ_от_регистрации ;
-    comcore:mentionedIn :0 .
-
-:причина rdf:type comcore:Resource ;
-    rdfs:label "причина"@ru ;
-    comcore:isPartOf :письмо ;
-    comcore:mentionedIn :0 .
-
-:отказ_от_регистрации rdf:type comcore:Event ;
-    rdfs:label "отказ от регистрации"@ru ;
-    comcore:isResultOf :регистрация ;
-    comcore:mentionedIn :0 .
-
-:регистрация rdf:type comcore:Process ;
-    rdfs:label "регистрация"@ru ;
-    comcore:hasResult :отказ_от_регистрации ;
-    comcore:mentionedIn :0 .
-
-:подключение_нового_им rdf:type comcore:Process ;
-    rdfs:label "подключение нового ИМ"@ru ;
+:успешно rdf:type comcore:Event ;
+    rdfs:label "успешно"@ru ;
+    comcore:isResultOf :подключение ;
     comcore:mentionedIn :0 .

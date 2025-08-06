@@ -75,6 +75,6 @@ def merge_ttl_files(input_dir, output_file):
 
 
 # Пример использования
-input_directory = "C:/Users/MSI/PycharmProjects/PythonProject/triplets/triplets"
+input_directory = "C:/Users/MSI/PycharmProjects/PythonProject/triplets1/triplets1"
 output_ttl = "merge_rdf.ttl"
 merge_ttl_files(input_directory, output_ttl)

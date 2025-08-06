@@ -1,7 +1,7 @@
 [
     {
         "label": "подключение Получателя к Системе МОНЕТА.РУ",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -11,7 +11,7 @@
     },
     {
         "label": "НКО",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Agent",
         "hasStatement": [
@@ -21,7 +21,7 @@
     },
     {
         "label": "информационный обмен",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
@@ -32,7 +32,7 @@
     },
     {
         "label": "Сообщения",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -42,7 +42,7 @@
     },
     {
         "label": "электронные документы",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -53,7 +53,7 @@
     },
     {
         "label": "информация о Переводах",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Resource",
         "hasStatement": [
@@ -64,7 +64,7 @@
     },
     {
         "label": "Переводы",
-        "abbreviation": "",
+        "abbreviation": [],
         "definition": "",
         "type": "Process",
         "hasStatement": [
